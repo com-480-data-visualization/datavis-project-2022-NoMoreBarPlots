@@ -52,6 +52,8 @@ The main point of our visualization is that it will show a global graphical over
 
 ### Exploratory Data Analysis
 
+*Global Overview*
+
 As mentioned in the presentation of the dataset, the Energy Statistics Database contains data on exactly 244 countries or areas spread over 75 subdatasets. In this first part of the Exploratory Data Analysis we will try to give an overview of the distribution of the data across each country and file, and we will also look at the number and distribution of data that have been estimated. For ease of use, we have chosen to refer to countries or areas with a number between 1 and 244 and to subdatasets with a number between 1 and 75, this allows us to have cleaner plots and is not at all problematic as we only want to provide a global overview of the data.
 
 ![Plot of the number of dataset which contains data on a given country.](FigureMilestone1/Dataset_by_country.png)
@@ -70,10 +72,13 @@ To complete this global analysis of the dataset, __Figure 3__ shows the number o
 ![](FigureMilestone1/Estimated_by_country.png)
 **Figure 3** - Plot of the relation between the number of estimation data per country and the number of data per country.
 
+<br/> *Detailed analysis*
+
+**Exports/Imports**
 
 We took a quick look deeper in the fuel oil dataset to see what kind of data was present.
 <p align="center">
-  <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_Oil_exports_imports_sum.png"     width="500" height="300" />
+  <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_Oil_exports_imports_sum.png" width="400" height="250" />
 </p>
 
 **Figure 4** - Plot of fuel oil exports and imports over years by summing each country's quantity.
@@ -81,25 +86,47 @@ We took a quick look deeper in the fuel oil dataset to see what kind of data was
 On __Figure 4__ we see that the sum of exports and imports is not the same which implies that the difference is not 0 (__Figure 5__). This looked a bit strange to us and we have to be aware of this kind of mistakes as we did not find a correct explanation. 
 
 <p align="center">
-    <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_Oil_exports_imports_diff.png" width="500" height="300" />
+    <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_Oil_exports_imports_diff.png" width="400" height="250" />
 </p>
 
 **Figure 5** - Plot of fuel oil difference between exports and imports over years by summing each country's quantity.
 
 If we select only one country (e.g. Switzerland), we can visualize the exports and imports of this specific country over years (__Figure 6__). 
 <p align="center">
-    <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_Oil_exports_imports_switzerland.png" width="500" height="300" />
+    <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_Oil_exports_imports_switzerland.png" width="375" height="240" />
 </p>
 
 **Figure 6** - Plot of fuel oil exports and imports over years for Switzerland.
 
 <p align="center">
-    <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_Oil_exports_imports_dates.png" width="500" height="200" />
+    <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_Oil_exports_imports_dates.png" width="400" height="150" />
 </p>
 
 **Figure 7** - Statistics of number of measures (corresponding to years) available by country.
 
 We can see in __Figure 7__ that we have on average 25 measures for each country, which is really satisfying and will enable us to plot the data over years in our final visualization. 
+
+<br/> **Production and Consumption**
+
+The other variables we wanted to look at are consumption and production.
+
+To remain within the framework of Fuel Oil, __Figure 8__ shows us world total consumption and production of fuel oil across each subdatasets for all country or areas. The gap between the production and consumption curves seems quite surprising. It is assumed that this is because Fuel Oil can be extracted and stored, unlike other energy sources such as electricity which must be used immediately.
+
+<p align="center">
+    <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Fuel_cons_prod.png" />
+</p>
+
+**Figure 8** - Plot of world total consumption and production of fuel oil across each subdatasets for all country or areas.
+
+To confirm this, we have also analyzed world total consumption and production of electrivity across each subdatasets for all country or areas, which results are presented in __Figure 9__. The consumption and production curves here follow the same trend, they are very close to each other, so the assumption seems correct. Also, note that the production and consumption of electricity presents an increasing trend unlike that of Fuel Oil which decreases.
+
+<p align="center">
+    <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone1/Elec_cons_prod.png" />
+</p>
+
+**Figure 9** - Plot of world total consumption and production of electrivity across each subdatasets for all country or areas.
+
+This is interesting to note because it proves that it is relevant to carry out a visualization by highlighting the different types of energies because they do not have the same properties.
 
 ### Related work
 
