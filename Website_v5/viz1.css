@@ -1,0 +1,97 @@
+html {
+  height: 100%;
+}
+
+a {
+  color: white;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #2a2c39;
+}
+
+body {
+  margin: 0;
+  background-color: #111;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-weight: 200;
+  font-size: 17px;
+  padding: 0;
+  height: 100%;
+}
+
+#mapholder {
+   width: 100%;
+   height: 100%;
+   margin-left: 0px;
+   position: relative;
+   z-index:0;
+}
+
+#mapholder.hide {
+  opacity: 0.2;
+  transition-duration: 2s;
+  transition-delay: 1s;
+}
+#mapholder.show {
+  opacity: 1;
+  transition-duration: 2s;
+  transition-delay: 1s;
+}
+
+#countryInfo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%,-50%);
+  background: rgba(255,0,0,0.2); /* Color of the top background */
+  opacity: 0;
+  transition: 1s;
+}
+@media all and (max-width: 800px) {
+  #countryInfo { width: 40%; }
+}
+@media all and (max-width: 750px) {
+  #countryInfo {
+    width: 100%;
+    position: static;
+    background: none;
+  }
+#countryInfo.show p {
+  color: #000 !important;
+  margin-bottom: 2rem;
+  }
+}
+#countryInfo.show {
+  opacity: 1;
+  transition-duration: 4s;
+  transition-delay: 2s;
+}
+#countryInfo.hide {
+  opacity: 0;
+  transition-duration: 4s;
+  transition-delay: 2s;
+ }
+#countryInfo h1 {
+  background: rgba(255,255,255,1);
+  padding: .3rem;
+  margin-top: -.5rem;
+  text-align: center
+  font-weight: 400;
+}
+#countryInfo p {
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+#provinceInfo img {
+    width: 100%;
+}
+.map-btn {
+  position: absolute;
+  padding: 20px 20px;
+  margin-left: calc(100% - 200px);
+  margin-top: 20px;
+  z-index: 1;
+}
