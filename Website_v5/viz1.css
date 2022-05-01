@@ -86,8 +86,14 @@ body {
 }
 
 #provinceInfo img {
+    width: 200px;
+    height: 100px;
+}
+
+img {
     width: 100%;
 }
+
 .map-btn {
   position: absolute;
   padding: 20px 20px;

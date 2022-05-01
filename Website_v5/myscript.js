@@ -65,7 +65,7 @@ function onEachFeature(feature, layer) {
       }
 			provinceName = feature.properties.name
 			countryInfo.innerHTML = "";
-      countryInfo.insertAdjacentHTML("afterbegin", "<img src=\"swi.png\"><h1>"+provinceName+"</h1><p>Description of statics if needed</p>");
+      countryInfo.insertAdjacentHTML("afterbegin", "<img src=\"Visualization 1.jpg\"><h1>"+provinceName+"</h1><p>Description of statics if needed</p>");
 			countryInfo.classList.remove("hide");
 			countryInfo.classList.add("show");
 			mapholder.classList.remove("show");
