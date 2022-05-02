@@ -71,18 +71,16 @@ function onEachFeature(feature, layer) {
 			mapholder.classList.remove("show");
 			mapholder.classList.add("hide");
 
-			/*
+
 			map.dragging.disable();
 			map.touchZoom.disable();
 			map.doubleClickZoom.disable();
 			map.scrollWheelZoom.disable();
 			map.boxZoom.disable();
 			map.keyboard.disable();
-			if (map.tap) map.tap.disable();
-			document.getElementById('mapholder').style.cursor='default';
 
       prevLayerClicked = layer;
-			*/
+
     }
   });
 }
@@ -101,24 +99,6 @@ geojson = L.geoJson(countries, {
 
 map.setMinZoom(map.getBoundsZoom([[50.9, 160.9], [-50.9, -160.9]]));
 
-var curr_value = null;
-
-$(window).resize(function () {
-	if (curr_value) {
-		var frame = document.getElementById(curr_value.id);
-		var wn = $(window).width();
-		var hn = $(window).height();
-		frame.width = wn * 0.6;
-		frame.height = hn * 0.6;
-
-	}
-});
-
-function setUpFrame () {
-	var frame = window.frames['frame-' + curr_value.id];
-	frame.populate(curr_value);
-}
-
 var zoomControl = L.control.zoom({ position: 'topright' }).addTo(map);
 
 
@@ -130,5 +110,6 @@ $(document).ready(function () {
         countryInfo.classList.add("hide");
         mapholder.classList.remove("hide");
         mapholder.classList.add("show");
+				map.setZoom(3);
     });
 });

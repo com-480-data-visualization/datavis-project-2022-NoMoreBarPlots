@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <!-- Our Custom CSS -->
     <link rel="stylesheet" href="sidebar.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="viz1.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/fontawesome.min.css" />
 
@@ -47,69 +47,27 @@
 
         <!-- Page Content Holder -->
         <div id="content">
-					<nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <div class="container-fluid">
-											<button type="button" id="sidebarCollapse" class="navbar-btn active">
-				                <span></span>
-				                <span></span>
-				                <span></span>
-				            </button>
-                </div>
-            </nav>
-
-							<div class="width-limited">
-								<h4>Introduction</h4>
-								<p>
-								This visualization unveils the deepest mysteries of our world,
-								showing the facts through the lens of statistical data anlysis
-								and colorful animations.
-								The truth shines brightly and guides the lost minds.
-								</p>
-								<p>
-								We investigate the changes in population of alligators in Lac Léman
-								over the last century and extrapolate the trend to predict
-								a world of reptile domination.
-								Read more about the <a href="data.html">sources of our data</a>.
-								</p>
-
-							<h4>Viz1</h4>
-							<p>
-							Description
-							</p>
-
-							<div class="video-container">
-								<a href="viz1.html">
-							    <video autoplay muted loop>
-							    	<source src="world_rotating.mp4" type="video/mp4" />
-							    </video>
-									<div class="caption">
-							    	<h2>Viz1</h2>
-							    </div>
-								</a>
-						</div>
-
-						<h4>Viz2</h4>
-						<p>
-						Description
-						</p>
-
-						<div class="video-container">
-							<a href="viz2.html">
-								<video autoplay muted loop>
-										<source src="wind.mp4" type="video/mp4" />
-								</video>
-								<div class="caption">
-									<h2>Viz2</h2>
-								</div>
-							</a>
-					</div>
+              <button type="button" id="sidebarCollapse" class="navbar-btn-map active">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+            <button type="button" id="returnMap" class="map-btn"><span>Reset</button>
+            <div id="mapholder"></div>
+            <div id="countryInfo"></div>
+            </div>
     </div>
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="https://d3js.org/d3.v6.js"></script>
     <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script type="text/javascript" src="countries.js"></script>
+    <script src="myscript.js"></script>
     <script src="sidebar.js"></script>
     <!-- jQuery CDN - Slim version (=without AJAX) -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -118,4 +76,5 @@
     <!-- Bootstrap JS -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
 </body>
+
 </html>

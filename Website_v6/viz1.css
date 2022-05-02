@@ -26,18 +26,22 @@ body {
    height: 100%;
    margin-left: 0px;
    position: relative;
-   z-index:0;
+   z-index:50;
 }
 
 #mapholder.hide {
   opacity: 0.2;
   transition-duration: 2s;
   transition-delay: 1s;
+  z-index: 0;
+  filter: blur(5px);
 }
 #mapholder.show {
   opacity: 1;
   transition-duration: 2s;
   transition-delay: 1s;
+  z-index: 50;
+  filter: none;
 }
 
 #countryInfo {
@@ -67,11 +71,13 @@ body {
   opacity: 1;
   transition-duration: 4s;
   transition-delay: 2s;
+  z-index:50;
 }
 #countryInfo.hide {
   opacity: 0;
-  transition-duration: 4s;
-  transition-delay: 2s;
+  transition-duration: 2s;
+  transition-delay: 500ms;
+  z-index:0;
  }
 #countryInfo h1 {
   background: rgba(255,255,255,1);
@@ -96,8 +102,8 @@ img {
 
 .map-btn {
   position: absolute;
-  padding: 20px 20px;
+  padding: 10px 10px;
   margin-left: calc(100% - 200px);
   margin-top: 20px;
-  z-index: 1;
+  z-index: 20;
 }
