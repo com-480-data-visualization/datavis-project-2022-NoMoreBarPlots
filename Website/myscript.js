@@ -71,7 +71,7 @@ function onEachFeature(feature, layer) {
 			mapholder.classList.remove("show");
 			mapholder.classList.add("hide");
 
-
+/*
 			map.dragging.disable();
 			map.touchZoom.disable();
 			map.doubleClickZoom.disable();
@@ -80,7 +80,7 @@ function onEachFeature(feature, layer) {
 			map.keyboard.disable();
 
       prevLayerClicked = layer;
-
+*/
     }
   });
 }
