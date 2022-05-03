@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Title Website</title>
+    <title>Energy viz</title>
 
     <!-- Bootstrap CSS CDN -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
@@ -29,11 +29,11 @@
         <!-- Sidebar Holder -->
         <nav id="sidebar" class="active">
             <div class="sidebar-header">
-                <h3>Title sidebar</h3>
+                <h3>Energy visualisation</h3>
             </div>
 
             <ul class="list-unstyled components">
-                <p>Dummy Heading</p>
+                <p>Welcome to our viz</p>
                 <li class="active">
                   <a href="index.html"><i class="fa-solid fa-house"></i></i></i> Home</a>
                   <a href="viz1.html"><i class="fa-solid fa-earth-europe icon"></i> Viz1</a>
@@ -44,6 +44,7 @@
                 </li>
             </ul>
         </nav>
+
 
         <!-- Page Content Holder -->
         <div id="content">
@@ -72,38 +73,36 @@
 								Read more about the <a href="data.html">sources of our data</a>.
 								</p>
 
-							<h4>Viz1</h4>
-							<p>
-							Description
-							</p>
+                <p>Click on a video to access the visualisation</p>
 
-							<div class="video-container">
-								<a href="viz1.html">
-							    <video autoplay muted loop>
-							    	<source src="world_rotating.mp4" type="video/mp4" />
-							    </video>
-									<div class="caption">
-							    	<h2>Viz1</h2>
-							    </div>
-								</a>
-						</div>
+              <div class="flex-container">
 
-						<h4>Viz2</h4>
-						<p>
-						Description
-						</p>
+                <div class="flex-child magenta">
+                  <div class="video-container">
+    								<a href="viz1.html">
+    							    <video autoplay muted loop>
+    							    	<source src="world_rotating.mp4" type="video/mp4" />
+    							    </video>
+    									<div class="caption">
+    							    	<p>Viz1</p>
+    							    </div>
+    								</a>
+    						</div>
+                </div>
 
-						<div class="video-container">
-							<a href="viz2.html">
-								<video autoplay muted loop>
-										<source src="wind.mp4" type="video/mp4" />
-								</video>
-								<div class="caption">
-									<h2>Viz2</h2>
-								</div>
-							</a>
-					</div>
-    </div>
+                <div class="flex-child green">
+                  <div class="video-container">
+      							<a href="viz2.html">
+      								<video autoplay muted loop>
+      										<source src="wind.mp4" type="video/mp4" />
+      								</video>
+      								<div class="caption">
+      									<p>Viz2</p>
+      								</div>
+      							</a>
+      					 </div>
+                </div>
+              </div>
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>

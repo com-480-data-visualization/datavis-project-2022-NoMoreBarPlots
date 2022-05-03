@@ -84,6 +84,9 @@ img {
 h1, h2, h3, h4, h5, h6
 {
 	color: var(--theme-color-dark);
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.1em;
+	font-weight: 300;
 }
 h1 { font-size: 2rem; }
 h2 { font-size: 1.75rem; }
@@ -156,7 +159,7 @@ footer {
 
 .video-container {
 		height: 300px;
-    width: 600px;
+    width: 100%;
     position: relative;
 }
 
@@ -175,4 +178,17 @@ footer {
   text-align: center;
   color: #dc0000;
   padding: 10px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}
+
+.flex-child:first-child {
+    margin-right: 20px;
 }
