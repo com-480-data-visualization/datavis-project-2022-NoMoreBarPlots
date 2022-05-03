@@ -172,7 +172,7 @@ Through this visualization, we want to propose a way to visualize the evolution 
 
 ### Website basic skeleton
 
-You find the basic skeleton of the website thanks to the following link: [website](https://com-480-data-visualization.github.io/datavis-project-2022-NoMoreBarPlots/Website_v5/index.html).
+You find the basic skeleton of the website thanks to the following link: [website](https://com-480-data-visualization.github.io/datavis-project-2022-NoMoreBarPlots/Website/index.html).
 The website is composed of a home page presenting the objective of the project with two buttons allowing access to the two visualizations, two pages presenting the two visualizations, a description of the data and the team. A menu will allow you to go from one page to another. A plus would be to have the home page animated: the presentation of the project's objective appears on the screen little by little, then two buttons appear allowing access to the two visualizations.
 
 
