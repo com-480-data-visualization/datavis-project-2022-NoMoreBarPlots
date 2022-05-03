@@ -113,3 +113,12 @@ $(document).ready(function () {
 				map.setZoom(3);
     });
 });
+
+
+// Hide map instruction
+
+$(document).ready(function () {
+    $('#hideInstruction').on('click', function () {
+        mapInstruction.classList.add("hide");
+    });
+});

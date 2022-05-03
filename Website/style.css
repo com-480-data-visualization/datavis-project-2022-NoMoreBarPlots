@@ -43,11 +43,19 @@ html, body, figure {
 body {
 	margin: 0;
 	background-color: #111;
-	font-family: "Yanone Kaffeesatz", sans-serif;
-	font-weight: 200;
-	font-size: 17px;
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.1em;
+	font-weight: 300;
 	padding: 0;
 	height: 100%;
+}
+
+.page-title {
+	margin-left: 50%;
+	color: var(--theme-color-dark);
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.1em;
+	font-weight: 300;
 }
 
 /*

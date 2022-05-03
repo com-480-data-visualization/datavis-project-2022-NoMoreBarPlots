@@ -29,9 +29,9 @@ h4 { font-size: 1.25rem; }
 body {
   margin: 0;
   background-color: #111;
-  font-family: "Yanone Kaffeesatz", sans-serif;
-  font-weight: 200;
-  font-size: 17px;
+  font-family: 'Poppins', sans-serif;
+	font-size: 1.1em;
+	font-weight: 300;
   padding: 0;
   height: 100%;
 }
@@ -111,6 +111,29 @@ body {
     height: 100px;
 }
 
+
+#mapInstruction {
+  position: absolute;
+  border-radius: 25px;
+  left: 50%;
+  top: 10%;
+  padding: 10px 10px;
+  transform: translate(-50%,-50%);
+  background: rgba(108,117,125,0.5); /* Color of the top background */
+  opacity: 1;
+  transition: 1s;
+  z-index: 75;
+}
+
+#mapInstruction.hide {
+  opacity: 0;
+  transition-duration: 2s;
+  transition-delay: 500ms;
+  z-index:0;
+ }
+
+
+
 img {
     width: 100%;
 }
@@ -121,4 +144,15 @@ img {
   margin-left: calc(100% - 200px);
   margin-top: 20px;
   z-index: 20;
+  border-radius: 10px;
+}
+
+#hideInstruction {
+  text-align: center;
+  align-content: center;
+  padding: 5px 5px;
+  position: relative;
+  margin: auto;
+  z-index: 75;
+  border-radius: 10px;
 }
