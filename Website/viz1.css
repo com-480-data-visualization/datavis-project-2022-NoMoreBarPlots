@@ -127,8 +127,6 @@ body {
 
 #mapInstruction.hide {
   opacity: 0;
-  transition-duration: 2s;
-  transition-delay: 500ms;
   z-index:0;
  }
 
@@ -155,4 +153,35 @@ img {
   margin: auto;
   z-index: 75;
   border-radius: 10px;
+}
+
+#chart {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+	height: auto;
+}
+
+
+/* Sankey flow */
+
+.node rect {
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+
+.node text {
+  pointer-events: none;
+  color: rgb(255, 0, 0);
+}
+
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
 }

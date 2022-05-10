@@ -21,6 +21,11 @@
     <script defer src="https://use.fontawesome.com/releases/v6.1.1/js/fontawesome.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v6.1.1/js/brands.js"></script>
 
+    <!-- Sankey chart -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="sankey.js"></script>
+    <script src="https://unpkg.com/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+
 </head>
 
 <body>
@@ -54,18 +59,19 @@
             </button>
             <button type="button" id="returnMap" class="map-btn"><span>Reset</button>
             <div id="mapholder"></div>
-            <div id="countryInfo"></div>
+            <div id="countryInfo">
+              <div id="chart"></div>
+            </div>
             <div id="mapInstruction">
               <span>Click on a country to see stats</span>
               <button type="button" id="hideInstruction"><span>Hide</button>
             </div>
-            </div>
+
+    </div>
     </div>
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="https://d3js.org/d3.v6.js"></script>
-    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
     <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
     <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>

@@ -66,7 +66,7 @@ The various units of measurement available in CSS:
 	https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Values_and_units
 */
 .width-limited {
-	max-width: 60rem;
+	max-width: 80%;
 
 	/* Center horizontally: */
 	margin-left: auto;
@@ -193,10 +193,25 @@ footer {
 }
 
 .flex-child {
+	padding-left: 10px;
     flex: 1;
-    border: 2px solid yellow;
+    border: 2px solid red;
 }
 
 .flex-child:first-child {
     margin-right: 20px;
+}
+
+#bubbleChart {
+	margin-left: auto;
+	margin-top: auto;
+}
+
+.buttonBubble {
+	padding-top: auto;
+	padding-left: auto;
+}
+
+select {
+	width: 200px;
 }

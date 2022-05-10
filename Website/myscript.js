@@ -63,9 +63,9 @@ function onEachFeature(feature, layer) {
       if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
         layer.bringToFront();
       }
-			provinceName = feature.properties.name
+			countryName = feature.properties.name
 			countryInfo.innerHTML = "";
-      countryInfo.insertAdjacentHTML("afterbegin", "<img src=\"Visualization 1.jpg\"><h1>"+provinceName+"</h1><p>Description of statics if needed</p>");
+			SankeyChart(countryName);
 			countryInfo.classList.remove("hide");
 			countryInfo.classList.add("show");
 			mapholder.classList.remove("show");
