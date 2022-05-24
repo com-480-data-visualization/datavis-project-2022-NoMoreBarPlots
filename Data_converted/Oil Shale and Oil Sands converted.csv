@@ -1,0 +1,910 @@
+,Unnamed: 0,Country or Area,Commodity - Transaction,Commodity,Transaction,Year,Unit,Quantity,Quantity Footnotes,Conversion_in_kWh
+0,0,Albania,Oil shale - Production,Oil shale,Production,1998,"Metric tons,  thousand",10.0,1.0,22000000.0
+1,1,Albania,Oil shale - Production,Oil shale,Production,1997,"Metric tons,  thousand",10.0,1.0,22000000.0
+2,2,Albania,Oil shale - Production,Oil shale,Production,1996,"Metric tons,  thousand",10.0,1.0,22000000.0
+3,3,Albania,Oil shale - Production,Oil shale,Production,1995,"Metric tons,  thousand",10.0,1.0,22000000.0
+4,4,Albania,Oil shale - Production,Oil shale,Production,1994,"Metric tons,  thousand",10.0,,22000000.0
+5,5,Albania,Oil shale - Production,Oil shale,Production,1993,"Metric tons,  thousand",14.0,,30800000.0
+6,6,Albania,Oil shale - Production,Oil shale,Production,1992,"Metric tons,  thousand",7.0,,15400000.0
+7,7,Albania,Oil shale - Production,Oil shale,Production,1991,"Metric tons,  thousand",39.0,,85800000.0
+8,8,Albania,Oil shale - Production,Oil shale,Production,1990,"Metric tons,  thousand",95.0,1.0,209000000.0
+9,9,Albania,Oil shale - Transformation,Oil shale,Transformation,1998,"Metric tons,  thousand",10.0,1.0,22000000.0
+10,10,Albania,Oil shale - Transformation,Oil shale,Transformation,1997,"Metric tons,  thousand",10.0,1.0,22000000.0
+11,11,Albania,Oil shale - Transformation,Oil shale,Transformation,1996,"Metric tons,  thousand",10.0,1.0,22000000.0
+12,12,Albania,Oil shale - Transformation,Oil shale,Transformation,1995,"Metric tons,  thousand",10.0,1.0,22000000.0
+13,13,Albania,Oil shale - Transformation,Oil shale,Transformation,1994,"Metric tons,  thousand",10.0,1.0,22000000.0
+14,14,Albania,Oil shale - Transformation,Oil shale,Transformation,1993,"Metric tons,  thousand",14.0,1.0,30800000.0
+15,15,Albania,Oil shale - Transformation,Oil shale,Transformation,1992,"Metric tons,  thousand",7.0,1.0,15400000.0
+16,16,Albania,Oil shale - Transformation,Oil shale,Transformation,1991,"Metric tons,  thousand",39.0,1.0,85800000.0
+17,17,Albania,Oil shale - Transformation,Oil shale,Transformation,1990,"Metric tons,  thousand",95.0,1.0,209000000.0
+18,18,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1998,"Metric tons,  thousand",10.0,1.0,22000000.0
+19,19,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1997,"Metric tons,  thousand",10.0,1.0,22000000.0
+20,20,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1996,"Metric tons,  thousand",10.0,1.0,22000000.0
+21,21,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1995,"Metric tons,  thousand",10.0,1.0,22000000.0
+22,22,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1994,"Metric tons,  thousand",10.0,1.0,22000000.0
+23,23,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1993,"Metric tons,  thousand",14.0,1.0,30800000.0
+24,24,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1992,"Metric tons,  thousand",7.0,1.0,15400000.0
+25,25,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1991,"Metric tons,  thousand",39.0,1.0,85800000.0
+26,26,Albania,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1990,"Metric tons,  thousand",95.0,1.0,209000000.0
+27,27,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",10.0,1.0,22000000.0
+28,28,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1997,"Metric tons,  thousand",10.0,1.0,22000000.0
+29,29,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1996,"Metric tons,  thousand",10.0,1.0,22000000.0
+30,30,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1995,"Metric tons,  thousand",10.0,1.0,22000000.0
+31,31,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1994,"Metric tons,  thousand",10.0,1.0,22000000.0
+32,32,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1993,"Metric tons,  thousand",14.0,1.0,30800000.0
+33,33,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1992,"Metric tons,  thousand",7.0,1.0,15400000.0
+34,34,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1991,"Metric tons,  thousand",39.0,1.0,85800000.0
+35,35,Albania,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1990,"Metric tons,  thousand",95.0,1.0,209000000.0
+36,36,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1998,"Metric tons,  thousand",10.0,1.0,22000000.0
+37,37,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1997,"Metric tons,  thousand",10.0,1.0,22000000.0
+38,38,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1996,"Metric tons,  thousand",10.0,1.0,22000000.0
+39,39,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1995,"Metric tons,  thousand",10.0,1.0,22000000.0
+40,40,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1994,"Metric tons,  thousand",10.0,,22000000.0
+41,41,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1993,"Metric tons,  thousand",14.0,,30800000.0
+42,42,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1992,"Metric tons,  thousand",7.0,,15400000.0
+43,43,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1991,"Metric tons,  thousand",39.0,,85800000.0
+44,44,Albania,Oil shale - Total energy supply,Oil shale,Total energy supply,1990,"Metric tons,  thousand",95.0,1.0,209000000.0
+45,45,Bulgaria,Oil shale - Production,Oil shale,Production,2019,"Metric tons,  thousand",39.818,,87599600.0
+46,46,Bulgaria,Oil shale - Stock changes,Oil shale,Stock changes,2019,"Metric tons,  thousand",1.307,,2875400.0
+47,47,Bulgaria,Oil shale - Transformation,Oil shale,Transformation,2019,"Metric tons,  thousand",38.511,,84724200.0
+48,48,Bulgaria,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2019,"Metric tons,  thousand",38.511,,84724200.0
+49,49,Bulgaria,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2019,"Metric tons,  thousand",38.511,,84724200.0
+50,50,Bulgaria,Oil shale - Total energy supply,Oil shale,Total energy supply,2019,"Metric tons,  thousand",38.511,,84724200.0
+51,51,Estonia,Oil shale - Production,Oil shale,Production,2020,"Metric tons,  thousand",11981.0,,26358200000.0
+52,52,Estonia,Oil shale - Production,Oil shale,Production,2019,"Metric tons,  thousand",15877.28,,34930016000.0
+53,53,Estonia,Oil shale - Production,Oil shale,Production,2018,"Metric tons,  thousand",21883.023,,48142650600.0
+54,54,Estonia,Oil shale - Production,Oil shale,Production,2017,"Metric tons,  thousand",21625.213,,47575468600.0
+55,55,Estonia,Oil shale - Production,Oil shale,Production,2016,"Metric tons,  thousand",17057.0,,37525400000.0
+56,56,Estonia,Oil shale - Production,Oil shale,Production,2015,"Metric tons,  thousand",19616.0,,43155200000.0
+57,57,Estonia,Oil shale - Production,Oil shale,Production,2014,"Metric tons,  thousand",20995.0,,46189000000.0
+58,58,Estonia,Oil shale - Production,Oil shale,Production,2013,"Metric tons,  thousand",20511.0,,45124200000.0
+59,59,Estonia,Oil shale - Production,Oil shale,Production,2012,"Metric tons,  thousand",18796.0,,41351200000.0
+60,60,Estonia,Oil shale - Production,Oil shale,Production,2011,"Metric tons,  thousand",18734.0,,41214800000.0
+61,61,Estonia,Oil shale - Production,Oil shale,Production,2010,"Metric tons,  thousand",17933.0,,39452600000.0
+62,62,Estonia,Oil shale - Production,Oil shale,Production,2009,"Metric tons,  thousand",14939.0,,32865800000.0
+63,63,Estonia,Oil shale - Production,Oil shale,Production,2008,"Metric tons,  thousand",16117.0,,35457400000.0
+64,64,Estonia,Oil shale - Production,Oil shale,Production,2007,"Metric tons,  thousand",16544.0,,36396800000.0
+65,65,Estonia,Oil shale - Production,Oil shale,Production,2006,"Metric tons,  thousand",14095.0,,31009000000.0
+66,66,Estonia,Oil shale - Production,Oil shale,Production,2005,"Metric tons,  thousand",14591.0,,32100200000.0
+67,67,Estonia,Oil shale - Production,Oil shale,Production,2004,"Metric tons,  thousand",13993.0,,30784600000.0
+68,68,Estonia,Oil shale - Production,Oil shale,Production,2003,"Metric tons,  thousand",14892.0,,32762400000.0
+69,69,Estonia,Oil shale - Production,Oil shale,Production,2002,"Metric tons,  thousand",12400.0,,27280000000.0
+70,70,Estonia,Oil shale - Production,Oil shale,Production,2001,"Metric tons,  thousand",11838.0,,26043600000.0
+71,71,Estonia,Oil shale - Production,Oil shale,Production,2000,"Metric tons,  thousand",11727.0,,25799400000.0
+72,72,Estonia,Oil shale - Production,Oil shale,Production,1999,"Metric tons,  thousand",10687.0,,23511400000.0
+73,73,Estonia,Oil shale - Production,Oil shale,Production,1998,"Metric tons,  thousand",12464.0,,27420800000.0
+74,74,Estonia,Oil shale - Production,Oil shale,Production,1997,"Metric tons,  thousand",14383.0,,31642600000.0
+75,75,Estonia,Oil shale - Production,Oil shale,Production,1996,"Metric tons,  thousand",14735.0,,32417000000.0
+76,76,Estonia,Oil shale - Production,Oil shale,Production,1995,"Metric tons,  thousand",13310.0,,29282000000.0
+77,77,Estonia,Oil shale - Production,Oil shale,Production,1994,"Metric tons,  thousand",14530.0,,31966000000.0
+78,78,Estonia,Oil shale - Production,Oil shale,Production,1993,"Metric tons,  thousand",14915.0,,32813000000.0
+79,79,Estonia,Oil shale - Production,Oil shale,Production,1992,"Metric tons,  thousand",18849.0,,41467800000.0
+80,80,Estonia,Oil shale - Imports,Oil shale,Imports,2009,"Metric tons,  thousand",23.0,,50600000.0
+81,81,Estonia,Oil shale - Imports,Oil shale,Imports,2008,"Metric tons,  thousand",31.0,,68200000.0
+82,82,Estonia,Oil shale - Imports,Oil shale,Imports,2007,"Metric tons,  thousand",0.0,,0.0
+83,83,Estonia,Oil shale - Imports,Oil shale,Imports,2006,"Metric tons,  thousand",0.0,,0.0
+84,84,Estonia,Oil shale - Imports,Oil shale,Imports,2005,"Metric tons,  thousand",180.0,,396000000.0
+85,85,Estonia,Oil shale - Imports,Oil shale,Imports,2004,"Metric tons,  thousand",1195.0,,2629000000.0
+86,86,Estonia,Oil shale - Imports,Oil shale,Imports,2003,"Metric tons,  thousand",1111.0,,2444200000.0
+87,87,Estonia,Oil shale - Imports,Oil shale,Imports,2002,"Metric tons,  thousand",716.0,,1575200000.0
+88,88,Estonia,Oil shale - Imports,Oil shale,Imports,2001,"Metric tons,  thousand",1180.0,,2596000000.0
+89,89,Estonia,Oil shale - Imports,Oil shale,Imports,2000,"Metric tons,  thousand",1368.0,,3009600000.0
+90,90,Estonia,Oil shale - Imports,Oil shale,Imports,1999,"Metric tons,  thousand",1361.0,,2994200000.0
+91,91,Estonia,Oil shale - Imports,Oil shale,Imports,1998,"Metric tons,  thousand",1318.0,,2899600000.0
+92,92,Estonia,Oil shale - Imports,Oil shale,Imports,1997,"Metric tons,  thousand",1534.0,,3374800000.0
+93,93,Estonia,Oil shale - Imports,Oil shale,Imports,1996,"Metric tons,  thousand",829.0,,1823800000.0
+94,94,Estonia,Oil shale - Imports,Oil shale,Imports,1995,"Metric tons,  thousand",1515.0,,3333000000.0
+95,95,Estonia,Oil shale - Imports,Oil shale,Imports,1994,"Metric tons,  thousand",1777.0,,3909400000.0
+96,96,Estonia,Oil shale - Imports,Oil shale,Imports,1993,"Metric tons,  thousand",1765.0,,3883000000.0
+97,97,Estonia,Oil shale - Imports,Oil shale,Imports,1992,"Metric tons,  thousand",2043.0,,4494600000.0
+98,98,Estonia,Oil shale - Exports,Oil shale,Exports,2009,"Metric tons,  thousand",0.0,,0.0
+99,99,Estonia,Oil shale - Exports,Oil shale,Exports,2008,"Metric tons,  thousand",0.0,,0.0
+100,100,Estonia,Oil shale - Exports,Oil shale,Exports,2007,"Metric tons,  thousand",5.0,,11000000.0
+101,101,Estonia,Oil shale - Exports,Oil shale,Exports,2006,"Metric tons,  thousand",9.0,,19800000.0
+102,102,Estonia,Oil shale - Exports,Oil shale,Exports,2005,"Metric tons,  thousand",4.0,,8800000.0
+103,103,Estonia,Oil shale - Exports,Oil shale,Exports,2004,"Metric tons,  thousand",9.0,,19800000.0
+104,104,Estonia,Oil shale - Exports,Oil shale,Exports,2003,"Metric tons,  thousand",9.0,,19800000.0
+105,105,Estonia,Oil shale - Exports,Oil shale,Exports,2002,"Metric tons,  thousand",13.0,,28600000.0
+106,106,Estonia,Oil shale - Exports,Oil shale,Exports,2001,"Metric tons,  thousand",11.0,,24200000.0
+107,107,Estonia,Oil shale - Exports,Oil shale,Exports,2000,"Metric tons,  thousand",12.0,,26400000.0
+108,108,Estonia,Oil shale - Exports,Oil shale,Exports,1999,"Metric tons,  thousand",12.0,,26400000.0
+109,109,Estonia,Oil shale - Exports,Oil shale,Exports,1998,"Metric tons,  thousand",6.0,,13200000.0
+110,110,Estonia,Oil shale - Exports,Oil shale,Exports,1997,"Metric tons,  thousand",16.0,,35200000.0
+111,111,Estonia,Oil shale - Exports,Oil shale,Exports,1996,"Metric tons,  thousand",3.0,,6600000.0
+112,112,Estonia,Oil shale - Exports,Oil shale,Exports,1995,"Metric tons,  thousand",7.0,,15400000.0
+113,113,Estonia,Oil shale - Exports,Oil shale,Exports,1994,"Metric tons,  thousand",7.0,,15400000.0
+114,114,Estonia,Oil shale - Exports,Oil shale,Exports,1993,"Metric tons,  thousand",2.0,,4400000.0
+115,115,Estonia,Oil shale - Exports,Oil shale,Exports,1992,"Metric tons,  thousand",23.0,,50600000.0
+116,116,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2020,"Metric tons,  thousand",216.467,,476227400.0
+117,117,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2019,"Metric tons,  thousand",233.421,,513526200.0
+118,118,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2018,"Metric tons,  thousand",984.977,,2166949400.0
+119,119,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2017,"Metric tons,  thousand",-272.0,,-598400000.0
+120,120,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2016,"Metric tons,  thousand",-2837.0,,-6241400000.0
+121,121,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2015,"Metric tons,  thousand",1717.0,,3777400000.0
+122,122,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2014,"Metric tons,  thousand",367.0,,807400000.0
+123,123,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2013,"Metric tons,  thousand",25.0,,55000000.0
+124,124,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2012,"Metric tons,  thousand",1270.0,,2794000000.0
+125,125,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2011,"Metric tons,  thousand",-5.0,,-11000000.0
+126,126,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2010,"Metric tons,  thousand",44.0,,96800000.0
+127,127,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2009,"Metric tons,  thousand",1193.0,,2624600000.0
+128,128,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2008,"Metric tons,  thousand",444.0,,976800000.0
+129,129,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2007,"Metric tons,  thousand",-271.0,,-596200000.0
+130,130,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2006,"Metric tons,  thousand",58.0,,127600000.0
+131,131,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2005,"Metric tons,  thousand",-37.0,,-81400000.0
+132,132,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2004,"Metric tons,  thousand",-324.0,,-712800000.0
+133,133,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2003,"Metric tons,  thousand",517.0,,1137400000.0
+134,134,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2002,"Metric tons,  thousand",76.0,,167200000.0
+135,135,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2001,"Metric tons,  thousand",-233.0,,-512600000.0
+136,136,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,2000,"Metric tons,  thousand",-149.0,,-327800000.0
+137,137,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,1999,"Metric tons,  thousand",-649.0,,-1427800000.0
+138,138,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,1998,"Metric tons,  thousand",-112.0,,-246400000.0
+139,139,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,1997,"Metric tons,  thousand",-50.0,,-110000000.0
+140,140,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,1996,"Metric tons,  thousand",-473.0,,-1040600000.0
+141,141,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,1995,"Metric tons,  thousand",-620.0,,-1364000000.0
+142,142,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,1994,"Metric tons,  thousand",0.0,,0.0
+143,143,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,1993,"Metric tons,  thousand",0.0,,0.0
+144,144,Estonia,Oil shale - Stock changes,Oil shale,Stock changes,1992,"Metric tons,  thousand",344.0,,756800000.0
+145,145,Estonia,Oil shale - Transformation,Oil shale,Transformation,2019,"Metric tons,  thousand",15253.085,,33556786999.999996
+146,146,Estonia,Oil shale - Transformation,Oil shale,Transformation,2018,"Metric tons,  thousand",20531.706,,45169753200.0
+147,147,Estonia,Oil shale - Transformation,Oil shale,Transformation,2017,"Metric tons,  thousand",21523.89,,47352558000.0
+148,148,Estonia,Oil shale - Transformation,Oil shale,Transformation,2016,"Metric tons,  thousand",19547.0,,43003400000.0
+149,149,Estonia,Oil shale - Transformation,Oil shale,Transformation,2015,"Metric tons,  thousand",17731.0,,39008200000.0
+150,150,Estonia,Oil shale - Transformation,Oil shale,Transformation,2014,"Metric tons,  thousand",20349.0,,44767800000.0
+151,151,Estonia,Oil shale - Transformation,Oil shale,Transformation,2013,"Metric tons,  thousand",20242.0,,44532400000.0
+152,152,Estonia,Oil shale - Transformation,Oil shale,Transformation,2012,"Metric tons,  thousand",17249.0,,37947800000.0
+153,153,Estonia,Oil shale - Transformation,Oil shale,Transformation,2011,"Metric tons,  thousand",18458.0,,40607600000.0
+154,154,Estonia,Oil shale - Transformation,Oil shale,Transformation,2010,"Metric tons,  thousand",17671.0,,38876200000.0
+155,155,Estonia,Oil shale - Transformation,Oil shale,Transformation,2009,"Metric tons,  thousand",13544.0,,29796800000.0
+156,156,Estonia,Oil shale - Transformation,Oil shale,Transformation,2008,"Metric tons,  thousand",15397.0,,33873400000.0
+157,157,Estonia,Oil shale - Transformation,Oil shale,Transformation,2007,"Metric tons,  thousand",16494.0,,36286800000.0
+158,158,Estonia,Oil shale - Transformation,Oil shale,Transformation,2006,"Metric tons,  thousand",13780.0,,30316000000.0
+159,159,Estonia,Oil shale - Transformation,Oil shale,Transformation,2005,"Metric tons,  thousand",14433.0,,31752600000.0
+160,160,Estonia,Oil shale - Transformation,Oil shale,Transformation,2004,"Metric tons,  thousand",15178.0,,33391600000.0
+161,161,Estonia,Oil shale - Transformation,Oil shale,Transformation,2003,"Metric tons,  thousand",15134.0,,33294800000.0
+162,162,Estonia,Oil shale - Transformation,Oil shale,Transformation,2002,"Metric tons,  thousand",12646.0,,27821200000.0
+163,163,Estonia,Oil shale - Transformation,Oil shale,Transformation,2001,"Metric tons,  thousand",12848.0,,28265600000.0
+164,164,Estonia,Oil shale - Transformation,Oil shale,Transformation,2000,"Metric tons,  thousand",12849.0,,28267800000.0
+165,165,Estonia,Oil shale - Transformation,Oil shale,Transformation,1999,"Metric tons,  thousand",12366.0,,27205200000.0
+166,166,Estonia,Oil shale - Transformation,Oil shale,Transformation,1998,"Metric tons,  thousand",13355.0,,29381000000.0
+167,167,Estonia,Oil shale - Transformation,Oil shale,Transformation,1997,"Metric tons,  thousand",14579.0,,32073800000.0
+168,168,Estonia,Oil shale - Transformation,Oil shale,Transformation,1996,"Metric tons,  thousand",14442.0,,31772400000.0
+169,169,Estonia,Oil shale - Transformation,Oil shale,Transformation,1995,"Metric tons,  thousand",13950.0,,30690000000.0
+170,170,Estonia,Oil shale - Transformation,Oil shale,Transformation,1994,"Metric tons,  thousand",15046.0,,33101200000.0
+171,171,Estonia,Oil shale - Transformation,Oil shale,Transformation,1993,"Metric tons,  thousand",15103.0,,33226600000.0
+172,172,Estonia,Oil shale - Transformation,Oil shale,Transformation,1992,"Metric tons,  thousand",20107.0,,44235400000.0
+173,173,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2019,"Metric tons,  thousand",35.716,,78575200.0
+174,174,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2018,"Metric tons,  thousand",73.2,,161040000.0
+175,175,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2017,"Metric tons,  thousand",81.0,,178200000.0
+176,176,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2016,"Metric tons,  thousand",57.0,,125400000.0
+177,177,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2015,"Metric tons,  thousand",35.0,,77000000.0
+178,178,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2014,"Metric tons,  thousand",103.0,,226600000.0
+179,179,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2013,"Metric tons,  thousand",82.0,,180400000.0
+180,180,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2012,"Metric tons,  thousand",83.0,,182600000.0
+181,181,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2011,"Metric tons,  thousand",81.0,,178200000.0
+182,182,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2010,"Metric tons,  thousand",82.0,,180400000.0
+183,183,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2009,"Metric tons,  thousand",73.0,,160600000.0
+184,184,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2008,"Metric tons,  thousand",150.0,,330000000.0
+185,185,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2007,"Metric tons,  thousand",170.0,,374000000.0
+186,186,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2006,"Metric tons,  thousand",159.0,,349800000.0
+187,187,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2005,"Metric tons,  thousand",149.0,,327800000.0
+188,188,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2004,"Metric tons,  thousand",140.0,,308000000.0
+189,189,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2003,"Metric tons,  thousand",120.0,,264000000.0
+190,190,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2002,"Metric tons,  thousand",120.0,,264000000.0
+191,191,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2001,"Metric tons,  thousand",104.0,,228800000.0
+192,192,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,2000,"Metric tons,  thousand",93.0,,204600000.0
+193,193,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,1999,"Metric tons,  thousand",63.0,,138600000.0
+194,194,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,1998,"Metric tons,  thousand",107.0,,235400000.0
+195,195,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,1997,"Metric tons,  thousand",167.0,,367400000.0
+196,196,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,1996,"Metric tons,  thousand",164.0,,360800000.0
+197,197,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,1995,"Metric tons,  thousand",155.0,,341000000.0
+198,198,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,1994,"Metric tons,  thousand",148.0,,325600000.0
+199,199,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,1993,"Metric tons,  thousand",135.0,,297000000.0
+200,200,Estonia,Oil shale - Transformation in coke ovens,Oil shale,Transformation in coke ovens,1992,"Metric tons,  thousand",151.0,,332200000.0
+201,201,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2019,"Metric tons,  thousand",2164.214,,4761270800.0
+202,202,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2018,"Metric tons,  thousand",1652.052,,3634514400.0
+203,203,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2017,"Metric tons,  thousand",918.0,,2019600000.0
+204,204,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2016,"Metric tons,  thousand",1263.0,,2778600000.0
+205,205,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2015,"Metric tons,  thousand",750.0,,1650000000.0
+206,206,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2014,"Metric tons,  thousand",1043.0,,2294600000.0
+207,207,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2013,"Metric tons,  thousand",980.0,,2156000000.0
+208,208,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2012,"Metric tons,  thousand",1035.0,,2277000000.0
+209,209,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2011,"Metric tons,  thousand",979.0,,2153800000.0
+210,210,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2010,"Metric tons,  thousand",1030.0,,2266000000.0
+211,211,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2009,"Metric tons,  thousand",902.0,,1984400000.0
+212,212,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2008,"Metric tons,  thousand",1100.0,,2420000000.0
+213,213,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2007,"Metric tons,  thousand",1009.0,,2219800000.0
+214,214,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2006,"Metric tons,  thousand",884.0,,1944800000.0
+215,215,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2005,"Metric tons,  thousand",830.0,,1826000000.0
+216,216,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2004,"Metric tons,  thousand",780.0,,1716000000.0
+217,217,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2003,"Metric tons,  thousand",816.0,,1795200000.0
+218,218,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2002,"Metric tons,  thousand",800.0,,1760000000.0
+219,219,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2001,"Metric tons,  thousand",687.0,,1511400000.0
+220,220,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,2000,"Metric tons,  thousand",614.0,,1350800000.0
+221,221,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,1999,"Metric tons,  thousand",395.0,,869000000.0
+222,222,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,1998,"Metric tons,  thousand",603.0,,1326600000.0
+223,223,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,1997,"Metric tons,  thousand",738.0,,1623600000.0
+224,224,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,1996,"Metric tons,  thousand",703.0,,1546600000.0
+225,225,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,1995,"Metric tons,  thousand",677.0,,1489400000.0
+226,226,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,1994,"Metric tons,  thousand",794.0,,1746800000.0
+227,227,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,1993,"Metric tons,  thousand",453.0,,996600000.0
+228,228,Estonia,Oil shale - Transformation in gas works,Oil shale,Transformation in gas works,1992,"Metric tons,  thousand",550.0,,1210000000.0
+229,229,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2019,"Metric tons,  thousand",7316.995,,16097389000.0
+230,230,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2018,"Metric tons,  thousand",6310.454,,13882998800.0
+231,231,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2017,"Metric tons,  thousand",7153.0,,15736600000.0
+232,232,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2016,"Metric tons,  thousand",5562.0,,12236400000.0
+233,233,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2015,"Metric tons,  thousand",4868.0,,10709600000.0
+234,234,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2014,"Metric tons,  thousand",3974.0,,8742800000.0
+235,235,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2013,"Metric tons,  thousand",3740.0,,8228000000.0
+236,236,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2012,"Metric tons,  thousand",3590.0,,7898000000.0
+237,237,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2011,"Metric tons,  thousand",3400.0,,7480000000.0
+238,238,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2010,"Metric tons,  thousand",3009.0,,6619800000.0
+239,239,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2009,"Metric tons,  thousand",2720.0,,5984000000.0
+240,240,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2008,"Metric tons,  thousand",2049.0,,4507800000.0
+241,241,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2007,"Metric tons,  thousand",1815.0,,3993000000.0
+242,242,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2006,"Metric tons,  thousand",1947.0,,4283400000.0
+243,243,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2005,"Metric tons,  thousand",1829.0,,4023800000.0
+244,244,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2004,"Metric tons,  thousand",1720.0,,3784000000.0
+245,245,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2003,"Metric tons,  thousand",1597.0,,3513400000.0
+246,246,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2002,"Metric tons,  thousand",1363.0,,2998600000.0
+247,247,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2001,"Metric tons,  thousand",1405.0,,3091000000.0
+248,248,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,2000,"Metric tons,  thousand",1298.0,,2855600000.0
+249,249,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,1999,"Metric tons,  thousand",889.0,,1955800000.0
+250,250,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,1998,"Metric tons,  thousand",1087.0,,2391400000.0
+251,251,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,1997,"Metric tons,  thousand",1750.0,,3850000000.0
+252,252,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,1996,"Metric tons,  thousand",1647.0,,3623400000.0
+253,253,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,1995,"Metric tons,  thousand",1622.0,,3568400000.0
+254,254,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,1994,"Metric tons,  thousand",1524.0,,3352800000.0
+255,255,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,1993,"Metric tons,  thousand",1499.0,,3297800000.0
+256,256,Estonia,Oil Shale - Transformation in coal liquefaction plants,Oil Shale,Transformation in coal liquefaction plants,1992,"Metric tons,  thousand",1468.0,,3229600000.0
+257,257,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2019,"Metric tons,  thousand",5736.16,,12619552000.0
+258,258,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2018,"Metric tons,  thousand",12496.0,,27491200000.0
+259,259,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2017,"Metric tons,  thousand",13371.89,,29418158000.0
+260,260,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2016,"Metric tons,  thousand",12665.0,,27863000000.0
+261,261,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2015,"Metric tons,  thousand",12078.0,,26571600000.0
+262,262,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2014,"Metric tons,  thousand",15229.0,,33503800000.0
+263,263,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2013,"Metric tons,  thousand",15440.0,,33968000000.0
+264,264,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2012,"Metric tons,  thousand",12541.0,,27590200000.0
+265,265,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2011,"Metric tons,  thousand",13998.0,,30795600000.0
+266,266,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2010,"Metric tons,  thousand",13550.0,,29810000000.0
+267,267,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2009,"Metric tons,  thousand",9849.0,,21667800000.0
+268,268,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2008,"Metric tons,  thousand",12098.0,,26615600000.0
+269,269,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2007,"Metric tons,  thousand",13500.0,,29700000000.0
+270,270,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2006,"Metric tons,  thousand",10790.0,,23738000000.0
+271,271,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2005,"Metric tons,  thousand",11625.0,,25575000000.0
+272,272,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2004,"Metric tons,  thousand",12538.0,,27583600000.0
+273,273,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2003,"Metric tons,  thousand",12601.0,,27722200000.0
+274,274,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2002,"Metric tons,  thousand",10363.0,,22798600000.0
+275,275,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2001,"Metric tons,  thousand",10652.0,,23434400000.0
+276,276,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2000,"Metric tons,  thousand",10844.0,,23856800000.0
+277,277,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1999,"Metric tons,  thousand",11019.0,,24241800000.0
+278,278,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1998,"Metric tons,  thousand",11558.0,,25427600000.0
+279,279,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1997,"Metric tons,  thousand",11924.0,,26232800000.0
+280,280,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1996,"Metric tons,  thousand",11928.0,,26241600000.0
+281,281,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1995,"Metric tons,  thousand",11496.0,,25291200000.0
+282,282,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1994,"Metric tons,  thousand",12580.0,,27676000000.0
+283,283,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1993,"Metric tons,  thousand",13016.0,,28635200000.0
+284,284,Estonia,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1992,"Metric tons,  thousand",17938.0,,39463600000.0
+285,285,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2019,"Metric tons,  thousand",5300.938,,11662063600.0
+286,286,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2018,"Metric tons,  thousand",11955.0,,26301000000.0
+287,287,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2017,"Metric tons,  thousand",12885.775,,28348705000.0
+288,288,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2016,"Metric tons,  thousand",12159.0,,26749800000.0
+289,289,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2015,"Metric tons,  thousand",11390.0,,25058000000.0
+290,290,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2014,"Metric tons,  thousand",14577.0,,32069400000.0
+291,291,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2013,"Metric tons,  thousand",14696.0,,32331200000.0
+292,292,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2012,"Metric tons,  thousand",11887.0,,26151400000.0
+293,293,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2011,"Metric tons,  thousand",13361.0,,29394200000.0
+294,294,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2010,"Metric tons,  thousand",12760.0,,28072000000.0
+295,295,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2009,"Metric tons,  thousand",9078.0,,19971600000.0
+296,296,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2008,"Metric tons,  thousand",11043.0,,24294600000.0
+297,297,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2007,"Metric tons,  thousand",11848.0,,26065600000.0
+298,298,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2006,"Metric tons,  thousand",9703.0,,21346600000.0
+299,299,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2005,"Metric tons,  thousand",10429.0,,22943800000.0
+300,300,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2004,"Metric tons,  thousand",10474.0,,23042800000.0
+301,301,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2003,"Metric tons,  thousand",11072.0,,24358400000.0
+302,302,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2002,"Metric tons,  thousand",8780.0,,19316000000.0
+303,303,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2001,"Metric tons,  thousand",8950.0,,19690000000.0
+304,304,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2000,"Metric tons,  thousand",9145.0,,20119000000.0
+305,305,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1999,"Metric tons,  thousand",9272.0,,20398400000.0
+306,306,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",9485.0,,20867000000.0
+307,307,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1997,"Metric tons,  thousand",9752.0,,21454400000.0
+308,308,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1996,"Metric tons,  thousand",0.0,,0.0
+309,309,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1995,"Metric tons,  thousand",0.0,,0.0
+310,310,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1994,"Metric tons,  thousand",0.0,,0.0
+311,311,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1993,"Metric tons,  thousand",0.0,,0.0
+312,312,Estonia,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1992,"Metric tons,  thousand",0.0,,0.0
+313,313,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2019,"Metric tons,  thousand",1.865,,4103000.0
+314,314,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2018,"Metric tons,  thousand",3.0,,6600000.0
+315,315,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2017,"Metric tons,  thousand",2.963,,6518600.0
+316,316,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2016,"Metric tons,  thousand",52.0,,114400000.0
+317,317,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2015,"Metric tons,  thousand",80.0,,176000000.0
+318,318,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2014,"Metric tons,  thousand",0.0,,0.0
+319,319,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2013,"Metric tons,  thousand",2.0,,4400000.0
+320,320,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2012,"Metric tons,  thousand",2.0,,4400000.0
+321,321,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2011,"Metric tons,  thousand",2.0,,4400000.0
+322,322,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2010,"Metric tons,  thousand",10.0,,22000000.0
+323,323,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2009,"Metric tons,  thousand",0.0,,0.0
+324,324,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2008,"Metric tons,  thousand",0.0,,0.0
+325,325,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2007,"Metric tons,  thousand",0.0,,0.0
+326,326,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2006,"Metric tons,  thousand",0.0,,0.0
+327,327,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2005,"Metric tons,  thousand",0.0,,0.0
+328,328,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2004,"Metric tons,  thousand",2.0,,4400000.0
+329,329,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2003,"Metric tons,  thousand",0.0,,0.0
+330,330,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2000,"Metric tons,  thousand",2.0,,4400000.0
+331,331,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1999,"Metric tons,  thousand",2.0,,4400000.0
+332,332,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",11.0,,24200000.0
+333,333,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1997,"Metric tons,  thousand",11.0,,24200000.0
+334,334,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1996,"Metric tons,  thousand",0.0,,0.0
+335,335,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1995,"Metric tons,  thousand",0.0,,0.0
+336,336,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1994,"Metric tons,  thousand",0.0,,0.0
+337,337,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1993,"Metric tons,  thousand",0.0,,0.0
+338,338,Estonia,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1992,"Metric tons,  thousand",0.0,,0.0
+339,339,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2019,"Metric tons,  thousand",425.12,,935264000.0
+340,340,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2018,"Metric tons,  thousand",526.0,,1157200000.0
+341,341,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2017,"Metric tons,  thousand",473.0,,1040600000.0
+342,342,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2016,"Metric tons,  thousand",454.0,,998800000.0
+343,343,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2015,"Metric tons,  thousand",608.0,,1337600000.0
+344,344,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2014,"Metric tons,  thousand",652.0,,1434400000.0
+345,345,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2013,"Metric tons,  thousand",733.0,,1612600000.0
+346,346,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2012,"Metric tons,  thousand",624.0,,1372800000.0
+347,347,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2011,"Metric tons,  thousand",602.0,,1324400000.0
+348,348,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2010,"Metric tons,  thousand",758.0,,1667600000.0
+349,349,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2009,"Metric tons,  thousand",732.0,,1610400000.0
+350,350,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2008,"Metric tons,  thousand",988.0,,2173600000.0
+351,351,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2007,"Metric tons,  thousand",1592.0,,3502400000.0
+352,352,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2006,"Metric tons,  thousand",1029.0,,2263800000.0
+353,353,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2005,"Metric tons,  thousand",1177.0,,2589400000.0
+354,354,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2004,"Metric tons,  thousand",2020.0,,4444000000.0
+355,355,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2003,"Metric tons,  thousand",1104.0,,2428800000.0
+356,356,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2002,"Metric tons,  thousand",1516.0,,3335200000.0
+357,357,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2001,"Metric tons,  thousand",1674.0,,3682800000.0
+358,358,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,2000,"Metric tons,  thousand",1642.0,,3612400000.0
+359,359,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,1999,"Metric tons,  thousand",1662.0,,3656400000.0
+360,360,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",1966.0,,4325200000.0
+361,361,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,1997,"Metric tons,  thousand",2033.0,,4472600000.0
+362,362,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,1996,"Metric tons,  thousand",11771.0,,25896200000.0
+363,363,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,1995,"Metric tons,  thousand",11332.0,,24930400000.0
+364,364,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,1994,"Metric tons,  thousand",12215.0,,26873000000.0
+365,365,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,1993,"Metric tons,  thousand",13004.0,,28608800000.0
+366,366,Estonia,Oil Shale - Transformation in CHP plants - main activity producers,Oil Shale,Oil Shale,1992,"Metric tons,  thousand",17938.0,,39463600000.0
+367,367,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2019,"Metric tons,  thousand",8.237,,18121400.0
+368,368,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2018,"Metric tons,  thousand",12.0,,26400000.0
+369,369,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2017,"Metric tons,  thousand",10.152,,22334400.0
+370,370,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2015,"Metric tons,  thousand",0.0,,0.0
+371,371,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2014,"Metric tons,  thousand",0.0,,0.0
+372,372,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2013,"Metric tons,  thousand",4.0,,8800000.0
+373,373,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2012,"Metric tons,  thousand",4.0,,8800000.0
+374,374,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2011,"Metric tons,  thousand",10.0,,22000000.0
+375,375,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2010,"Metric tons,  thousand",0.0,,0.0
+376,376,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2009,"Metric tons,  thousand",24.0,,52800000.0
+377,377,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2008,"Metric tons,  thousand",24.0,,52800000.0
+378,378,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2007,"Metric tons,  thousand",26.0,,57200000.0
+379,379,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2006,"Metric tons,  thousand",7.0,,15400000.0
+380,380,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2005,"Metric tons,  thousand",7.0,,15400000.0
+381,381,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2004,"Metric tons,  thousand",3.0,,6600000.0
+382,382,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2003,"Metric tons,  thousand",0.0,,0.0
+383,383,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2002,"Metric tons,  thousand",0.0,,0.0
+384,384,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2001,"Metric tons,  thousand",12.0,,26400000.0
+385,385,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2000,"Metric tons,  thousand",8.0,,17600000.0
+386,386,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,1999,"Metric tons,  thousand",0.0,,0.0
+387,387,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",8.0,,17600000.0
+388,388,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,1997,"Metric tons,  thousand",17.0,,37400000.0
+389,389,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,1996,"Metric tons,  thousand",133.0,,292600000.0
+390,390,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,1995,"Metric tons,  thousand",136.0,,299200000.0
+391,391,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,1994,"Metric tons,  thousand",278.0,,611600000.0
+392,392,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,1993,"Metric tons,  thousand",0.0,,0.0
+393,393,Estonia,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,1992,"Metric tons,  thousand",0.0,,0.0
+394,394,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2015,"Metric tons,  thousand",0.0,,0.0
+395,395,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2014,"Metric tons,  thousand",0.0,,0.0
+396,396,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2013,"Metric tons,  thousand",5.0,,11000000.0
+397,397,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2012,"Metric tons,  thousand",24.0,,52800000.0
+398,398,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2011,"Metric tons,  thousand",23.0,,50600000.0
+399,399,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2010,"Metric tons,  thousand",16.0,,35200000.0
+400,400,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2009,"Metric tons,  thousand",9.0,,19800000.0
+401,401,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2008,"Metric tons,  thousand",36.0,,79200000.0
+402,402,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2007,"Metric tons,  thousand",34.0,,74800000.0
+403,403,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2006,"Metric tons,  thousand",51.0,,112200000.0
+404,404,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2005,"Metric tons,  thousand",12.0,,26400000.0
+405,405,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2004,"Metric tons,  thousand",36.0,,79200000.0
+406,406,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2003,"Metric tons,  thousand",422.0,,928400000.0
+407,407,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2002,"Metric tons,  thousand",51.0,,112200000.0
+408,408,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2001,"Metric tons,  thousand",15.0,,33000000.0
+409,409,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,2000,"Metric tons,  thousand",37.0,,81400000.0
+410,410,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,1999,"Metric tons,  thousand",80.0,,176000000.0
+411,411,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",71.0,,156200000.0
+412,412,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,1997,"Metric tons,  thousand",60.0,,132000000.0
+413,413,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,1996,"Metric tons,  thousand",7.0,,15400000.0
+414,414,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,1995,"Metric tons,  thousand",13.0,,28600000.0
+415,415,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,1994,"Metric tons,  thousand",15.0,,33000000.0
+416,416,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,1993,"Metric tons,  thousand",12.0,,26400000.0
+417,417,Estonia,Oil Shale - Transformation in heat plants - main activity producers,Oil Shale,Oil Shale,1992,"Metric tons,  thousand",0.0,,0.0
+418,418,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2015,"Metric tons,  thousand",0.0,,0.0
+419,419,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2014,"Metric tons,  thousand",0.0,,0.0
+420,420,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2013,"Metric tons,  thousand",0.0,,0.0
+421,421,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2012,"Metric tons,  thousand",0.0,,0.0
+422,422,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2011,"Metric tons,  thousand",0.0,,0.0
+423,423,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2010,"Metric tons,  thousand",6.0,,13200000.0
+424,424,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2009,"Metric tons,  thousand",6.0,,13200000.0
+425,425,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2008,"Metric tons,  thousand",7.0,,15400000.0
+426,426,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2007,"Metric tons,  thousand",0.0,,0.0
+427,427,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2006,"Metric tons,  thousand",0.0,,0.0
+428,428,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2005,"Metric tons,  thousand",0.0,,0.0
+429,429,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2004,"Metric tons,  thousand",3.0,,6600000.0
+430,430,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2003,"Metric tons,  thousand",3.0,,6600000.0
+431,431,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2002,"Metric tons,  thousand",16.0,,35200000.0
+432,432,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2001,"Metric tons,  thousand",1.0,,2200000.0
+433,433,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,2000,"Metric tons,  thousand",10.0,,22000000.0
+434,434,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,1999,"Metric tons,  thousand",3.0,,6600000.0
+435,435,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",17.0,,37400000.0
+436,436,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,1997,"Metric tons,  thousand",51.0,,112200000.0
+437,437,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,1996,"Metric tons,  thousand",17.0,,37400000.0
+438,438,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,1995,"Metric tons,  thousand",15.0,,33000000.0
+439,439,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,1994,"Metric tons,  thousand",72.0,,158400000.0
+440,440,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,1993,"Metric tons,  thousand",0.0,,0.0
+441,441,Estonia,Oil Shale - Transformation in heat plants - autoproducers,Oil Shale,Oil Shale,1992,"Metric tons,  thousand",0.0,,0.0
+442,442,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2017,"Metric tons,  thousand",10.0,,22000000.0
+443,443,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2016,"Metric tons,  thousand",20.0,,44000000.0
+444,444,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2015,"Metric tons,  thousand",52.0,,114400000.0
+445,445,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2014,"Metric tons,  thousand",18.0,,39600000.0
+446,446,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2013,"Metric tons,  thousand",7.0,,15400000.0
+447,447,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2012,"Metric tons,  thousand",9.0,,19800000.0
+448,448,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2011,"Metric tons,  thousand",10.0,,22000000.0
+449,449,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2010,"Metric tons,  thousand",4.0,,8800000.0
+450,450,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2009,"Metric tons,  thousand",12.0,,26400000.0
+451,451,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2008,"Metric tons,  thousand",12.0,,26400000.0
+452,452,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2007,"Metric tons,  thousand",16.0,,35200000.0
+453,453,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2006,"Metric tons,  thousand",30.0,,66000000.0
+454,454,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2005,"Metric tons,  thousand",21.0,,46200000.0
+455,455,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2004,"Metric tons,  thousand",17.0,,37400000.0
+456,456,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2003,"Metric tons,  thousand",53.0,,116600000.0
+457,457,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2002,"Metric tons,  thousand",56.0,,123200000.0
+458,458,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2001,"Metric tons,  thousand",46.0,,101200000.0
+459,459,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,2000,"Metric tons,  thousand",34.0,,74800000.0
+460,460,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,1999,"Metric tons,  thousand",40.0,,88000000.0
+461,461,Estonia,Oil shale - Energy industries own use,Oil shale,Energy industries own use,1998,"Metric tons,  thousand",42.0,,92400000.0
+462,462,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2017,"Metric tons,  thousand",10.0,,22000000.0
+463,463,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2016,"Metric tons,  thousand",20.0,,44000000.0
+464,464,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2015,"Metric tons,  thousand",52.0,,114400000.0
+465,465,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2014,"Metric tons,  thousand",18.0,,39600000.0
+466,466,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2013,"Metric tons,  thousand",7.0,,15400000.0
+467,467,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2012,"Metric tons,  thousand",9.0,,19800000.0
+468,468,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2011,"Metric tons,  thousand",10.0,,22000000.0
+469,469,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2010,"Metric tons,  thousand",4.0,,8800000.0
+470,470,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2009,"Metric tons,  thousand",12.0,,26400000.0
+471,471,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2008,"Metric tons,  thousand",12.0,,26400000.0
+472,472,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2007,"Metric tons,  thousand",16.0,,35200000.0
+473,473,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2006,"Metric tons,  thousand",17.0,,37400000.0
+474,474,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2005,"Metric tons,  thousand",21.0,,46200000.0
+475,475,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2004,"Metric tons,  thousand",8.0,,17600000.0
+476,476,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2003,"Metric tons,  thousand",32.0,,70400000.0
+477,477,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2002,"Metric tons,  thousand",33.0,,72600000.0
+478,478,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2001,"Metric tons,  thousand",32.0,,70400000.0
+479,479,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,2000,"Metric tons,  thousand",27.0,,59400000.0
+480,480,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,1999,"Metric tons,  thousand",40.0,,88000000.0
+481,481,Estonia,Oil shale - Own use in coal mines,Oil shale,Own use in coal mines,1998,"Metric tons,  thousand",42.0,,92400000.0
+482,482,Estonia,Oil shale - Other energy industry own use,Oil shale,Other energy industry own use,2006,"Metric tons,  thousand",13.0,,28600000.0
+483,483,Estonia,Oil shale - Other energy industry own use,Oil shale,Other energy industry own use,2005,"Metric tons,  thousand",0.0,,0.0
+484,484,Estonia,Oil shale - Other energy industry own use,Oil shale,Other energy industry own use,2004,"Metric tons,  thousand",9.0,,19800000.0
+485,485,Estonia,Oil shale - Other energy industry own use,Oil shale,Other energy industry own use,2003,"Metric tons,  thousand",21.0,,46200000.0
+486,486,Estonia,Oil shale - Other energy industry own use,Oil shale,Other energy industry own use,2002,"Metric tons,  thousand",23.0,,50600000.0
+487,487,Estonia,Oil shale - Other energy industry own use,Oil shale,Other energy industry own use,2001,"Metric tons,  thousand",14.0,,30800000.0
+488,488,Estonia,Oil shale - Other energy industry own use,Oil shale,Other energy industry own use,2000,"Metric tons,  thousand",7.0,,15400000.0
+489,489,Estonia,Oil shale - Losses,Oil shale,Losses,2006,"Metric tons,  thousand",0.0,,0.0
+490,490,Estonia,Oil shale - Losses,Oil shale,Losses,2005,"Metric tons,  thousand",0.0,,0.0
+491,491,Estonia,Oil shale - Losses,Oil shale,Losses,2004,"Metric tons,  thousand",2.0,,4400000.0
+492,492,Estonia,Oil shale - Losses,Oil shale,Losses,2003,"Metric tons,  thousand",3.0,,6600000.0
+493,493,Estonia,Oil shale - Losses,Oil shale,Losses,2002,"Metric tons,  thousand",0.0,,0.0
+494,494,Estonia,Oil shale - Losses,Oil shale,Losses,2001,"Metric tons,  thousand",14.0,,30800000.0
+495,495,Estonia,Oil shale - Losses,Oil shale,Losses,2000,"Metric tons,  thousand",0.0,,0.0
+496,496,Estonia,Oil shale - Losses,Oil shale,Losses,1999,"Metric tons,  thousand",0.0,,0.0
+497,497,Estonia,Oil shale - Losses,Oil shale,Losses,1998,"Metric tons,  thousand",1.0,,2200000.0
+498,498,Estonia,Oil shale - Losses,Oil shale,Losses,1997,"Metric tons,  thousand",0.0,,0.0
+499,499,Estonia,Oil shale - Losses,Oil shale,Losses,1996,"Metric tons,  thousand",1.0,,2200000.0
+500,500,Estonia,Oil shale - Losses,Oil shale,Losses,1995,"Metric tons,  thousand",18.0,,39600000.0
+501,501,Estonia,Oil shale - Losses,Oil shale,Losses,1994,"Metric tons,  thousand",1.0,,2200000.0
+502,502,Estonia,Oil shale - Losses,Oil shale,Losses,1993,"Metric tons,  thousand",6.0,,13200000.0
+503,503,Estonia,Oil shale - Losses,Oil shale,Losses,1992,"Metric tons,  thousand",102.0,,224400000.0
+504,504,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2020,"Metric tons,  thousand",300.0,,660000000.0
+505,505,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2019,"Metric tons,  thousand",294.977,,648949400.0
+506,506,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2018,"Metric tons,  thousand",260.0,,572000000.0
+507,507,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2017,"Metric tons,  thousand",265.0,,583000000.0
+508,508,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2016,"Metric tons,  thousand",279.0,,613800000.0
+509,509,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2015,"Metric tons,  thousand",139.0,,305800000.0
+510,510,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2014,"Metric tons,  thousand",97.0,,213400000.0
+511,511,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2013,"Metric tons,  thousand",81.0,,178200000.0
+512,512,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2012,"Metric tons,  thousand",77.0,,169400000.0
+513,513,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2011,"Metric tons,  thousand",10.0,,22000000.0
+514,514,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2010,"Metric tons,  thousand",58.0,,127600000.0
+515,515,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2009,"Metric tons,  thousand",54.0,,118800000.0
+516,516,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2008,"Metric tons,  thousand",8.0,,17600000.0
+517,517,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2007,"Metric tons,  thousand",8.0,,17600000.0
+518,518,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2006,"Metric tons,  thousand",7.0,,15400000.0
+519,519,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2005,"Metric tons,  thousand",81.0,,178200000.0
+520,520,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2004,"Metric tons,  thousand",121.0,,266200000.0
+521,521,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2003,"Metric tons,  thousand",124.0,,272800000.0
+522,522,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2002,"Metric tons,  thousand",195.0,,429000000.0
+523,523,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2001,"Metric tons,  thousand",139.0,,305800000.0
+524,524,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,2000,"Metric tons,  thousand",148.0,,325600000.0
+525,525,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,1999,"Metric tons,  thousand",34.0,,74800000.0
+526,526,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,1998,"Metric tons,  thousand",124.0,,272800000.0
+527,527,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,1997,"Metric tons,  thousand",91.0,,200200000.0
+528,528,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,1996,"Metric tons,  thousand",98.0,,215600000.0
+529,529,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,1995,"Metric tons,  thousand",93.0,,204600000.0
+530,530,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,1994,"Metric tons,  thousand",69.0,,151800000.0
+531,531,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,1993,"Metric tons,  thousand",0.0,,0.0
+532,532,Estonia,Oil shale - Non-energy use,Oil shale,Non-energy use,1992,"Metric tons,  thousand",0.0,,0.0
+533,533,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2019,"Metric tons,  thousand",95.795,,210749000.0
+534,534,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2018,"Metric tons,  thousand",106.34,,233948000.0
+535,535,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2017,"Metric tons,  thousand",98.323,,216310600.0
+536,536,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2016,"Metric tons,  thousand",48.0,,105600000.0
+537,537,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2015,"Metric tons,  thousand",74.0,,162800000.0
+538,538,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2014,"Metric tons,  thousand",164.0,,360800000.0
+539,539,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2013,"Metric tons,  thousand",156.0,,343200000.0
+540,540,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2012,"Metric tons,  thousand",191.0,,420200000.0
+541,541,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2011,"Metric tons,  thousand",261.0,,574200000.0
+542,542,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2010,"Metric tons,  thousand",156.0,,343200000.0
+543,543,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2009,"Metric tons,  thousand",159.0,,349800000.0
+544,544,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2008,"Metric tons,  thousand",287.0,,631400000.0
+545,545,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2007,"Metric tons,  thousand",292.0,,642400000.0
+546,546,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2006,"Metric tons,  thousand",211.0,,464200000.0
+547,547,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2005,"Metric tons,  thousand",269.0,,591800000.0
+548,548,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2004,"Metric tons,  thousand",184.0,,404800000.0
+549,549,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2003,"Metric tons,  thousand",163.0,,358600000.0
+550,550,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2002,"Metric tons,  thousand",187.0,,411400000.0
+551,551,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2001,"Metric tons,  thousand",218.0,,479600000.0
+552,552,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2000,"Metric tons,  thousand",222.0,,488400000.0
+553,553,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,1999,"Metric tons,  thousand",221.0,,486200000.0
+554,554,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,1998,"Metric tons,  thousand",366.0,,805200000.0
+555,555,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,1997,"Metric tons,  thousand",342.0,,752400000.0
+556,556,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,1996,"Metric tons,  thousand",498.0,,1095600000.0
+557,557,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,1995,"Metric tons,  thousand",500.0,,1100000000.0
+558,558,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,1994,"Metric tons,  thousand",368.0,,809600000.0
+559,559,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,1993,"Metric tons,  thousand",260.0,,572000000.0
+560,560,Estonia,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,1992,"Metric tons,  thousand",336.0,,739200000.0
+561,561,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2019,"Metric tons,  thousand",95.795,,210749000.0
+562,562,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2018,"Metric tons,  thousand",106.34,,233948000.0
+563,563,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2017,"Metric tons,  thousand",98.323,,216310600.0
+564,564,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2016,"Metric tons,  thousand",48.0,,105600000.0
+565,565,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2015,"Metric tons,  thousand",74.0,,162800000.0
+566,566,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2014,"Metric tons,  thousand",164.0,,360800000.0
+567,567,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2013,"Metric tons,  thousand",156.0,,343200000.0
+568,568,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2012,"Metric tons,  thousand",191.0,,420200000.0
+569,569,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2011,"Metric tons,  thousand",261.0,,574200000.0
+570,570,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2010,"Metric tons,  thousand",156.0,,343200000.0
+571,571,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2009,"Metric tons,  thousand",159.0,,349800000.0
+572,572,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2008,"Metric tons,  thousand",287.0,,631400000.0
+573,573,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2007,"Metric tons,  thousand",292.0,,642400000.0
+574,574,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2006,"Metric tons,  thousand",211.0,,464200000.0
+575,575,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2005,"Metric tons,  thousand",269.0,,591800000.0
+576,576,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2004,"Metric tons,  thousand",184.0,,404800000.0
+577,577,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2003,"Metric tons,  thousand",163.0,,358600000.0
+578,578,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2002,"Metric tons,  thousand",187.0,,411400000.0
+579,579,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2001,"Metric tons,  thousand",218.0,,479600000.0
+580,580,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2000,"Metric tons,  thousand",222.0,,488400000.0
+581,581,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",1999,"Metric tons,  thousand",221.0,,486200000.0
+582,582,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",1998,"Metric tons,  thousand",366.0,,805200000.0
+583,583,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",1997,"Metric tons,  thousand",342.0,,752400000.0
+584,584,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",1996,"Metric tons,  thousand",498.0,,1095600000.0
+585,585,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",1995,"Metric tons,  thousand",500.0,,1100000000.0
+586,586,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",1994,"Metric tons,  thousand",368.0,,809600000.0
+587,587,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",1993,"Metric tons,  thousand",260.0,,572000000.0
+588,588,Estonia,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",1992,"Metric tons,  thousand",336.0,,739200000.0
+589,589,Estonia,Oil shale - consumption by chemical and petrochemical industry,Oil shale,consumption by chemical and petrochemical industry,1998,"Metric tons,  thousand",27.0,,59400000.0
+590,590,Estonia,Oil shale - consumption by chemical and petrochemical industry,Oil shale,consumption by chemical and petrochemical industry,1997,"Metric tons,  thousand",10.0,,22000000.0
+591,591,Estonia,Oil shale - consumption by chemical and petrochemical industry,Oil shale,consumption by chemical and petrochemical industry,1996,"Metric tons,  thousand",0.0,,0.0
+592,592,Estonia,Oil shale - consumption by chemical and petrochemical industry,Oil shale,consumption by chemical and petrochemical industry,1995,"Metric tons,  thousand",0.0,,0.0
+593,593,Estonia,Oil shale - consumption by chemical and petrochemical industry,Oil shale,consumption by chemical and petrochemical industry,1994,"Metric tons,  thousand",0.0,,0.0
+594,594,Estonia,Oil shale - consumption by chemical and petrochemical industry,Oil shale,consumption by chemical and petrochemical industry,1993,"Metric tons,  thousand",0.0,,0.0
+595,595,Estonia,Oil shale - consumption by chemical and petrochemical industry,Oil shale,consumption by chemical and petrochemical industry,1992,"Metric tons,  thousand",0.0,,0.0
+596,596,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2019,"Metric tons,  thousand",95.795,,210749000.0
+597,597,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2018,"Metric tons,  thousand",106.34,,233948000.0
+598,598,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2017,"Metric tons,  thousand",98.323,,216310600.0
+599,599,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2016,"Metric tons,  thousand",48.0,,105600000.0
+600,600,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2015,"Metric tons,  thousand",74.0,,162800000.0
+601,601,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2014,"Metric tons,  thousand",164.0,,360800000.0
+602,602,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2013,"Metric tons,  thousand",156.0,,343200000.0
+603,603,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2012,"Metric tons,  thousand",191.0,,420200000.0
+604,604,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2011,"Metric tons,  thousand",261.0,,574200000.0
+605,605,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2010,"Metric tons,  thousand",156.0,,343200000.0
+606,606,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2009,"Metric tons,  thousand",159.0,,349800000.0
+607,607,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2008,"Metric tons,  thousand",287.0,,631400000.0
+608,608,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2007,"Metric tons,  thousand",292.0,,642400000.0
+609,609,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2006,"Metric tons,  thousand",211.0,,464200000.0
+610,610,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2005,"Metric tons,  thousand",269.0,,591800000.0
+611,611,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2004,"Metric tons,  thousand",184.0,,404800000.0
+612,612,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2003,"Metric tons,  thousand",163.0,,358600000.0
+613,613,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2002,"Metric tons,  thousand",187.0,,411400000.0
+614,614,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2001,"Metric tons,  thousand",218.0,,479600000.0
+615,615,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2000,"Metric tons,  thousand",222.0,,488400000.0
+616,616,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",1999,"Metric tons,  thousand",221.0,,486200000.0
+617,617,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",1998,"Metric tons,  thousand",339.0,,745800000.0
+618,618,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",1997,"Metric tons,  thousand",332.0,,730400000.0
+619,619,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",1996,"Metric tons,  thousand",498.0,,1095600000.0
+620,620,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",1995,"Metric tons,  thousand",500.0,,1100000000.0
+621,621,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",1994,"Metric tons,  thousand",368.0,,809600000.0
+622,622,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",1993,"Metric tons,  thousand",260.0,,572000000.0
+623,623,Estonia,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",1992,"Metric tons,  thousand",336.0,,739200000.0
+624,624,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2019,"Metric tons,  thousand",95.795,,210749000.0
+625,625,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2018,"Metric tons,  thousand",106.34,,233948000.0
+626,626,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2017,"Metric tons,  thousand",97.0,,213400000.0
+627,627,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2016,"Metric tons,  thousand",48.0,,105600000.0
+628,628,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2015,"Metric tons,  thousand",74.0,,162800000.0
+629,629,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2014,"Metric tons,  thousand",164.0,,360800000.0
+630,630,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2013,"Metric tons,  thousand",156.0,,343200000.0
+631,631,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2012,"Metric tons,  thousand",191.0,,420200000.0
+632,632,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2011,"Metric tons,  thousand",261.0,,574200000.0
+633,633,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2010,"Metric tons,  thousand",156.0,,343200000.0
+634,634,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2009,"Metric tons,  thousand",159.0,,349800000.0
+635,635,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2008,"Metric tons,  thousand",287.0,,631400000.0
+636,636,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2007,"Metric tons,  thousand",292.0,,642400000.0
+637,637,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2006,"Metric tons,  thousand",211.0,,464200000.0
+638,638,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2005,"Metric tons,  thousand",269.0,,591800000.0
+639,639,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2004,"Metric tons,  thousand",184.0,,404800000.0
+640,640,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2003,"Metric tons,  thousand",163.0,,358600000.0
+641,641,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2002,"Metric tons,  thousand",187.0,,411400000.0
+642,642,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2001,"Metric tons,  thousand",217.0,,477400000.0
+643,643,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,2000,"Metric tons,  thousand",221.0,,486200000.0
+644,644,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,1999,"Metric tons,  thousand",220.0,,484000000.0
+645,645,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,1998,"Metric tons,  thousand",334.0,,734800000.0
+646,646,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,1997,"Metric tons,  thousand",326.0,,717200000.0
+647,647,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,1996,"Metric tons,  thousand",498.0,,1095600000.0
+648,648,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,1995,"Metric tons,  thousand",500.0,,1100000000.0
+649,649,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,1994,"Metric tons,  thousand",368.0,,809600000.0
+650,650,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,1993,"Metric tons,  thousand",260.0,,572000000.0
+651,651,Estonia,Oil Shale - Consumption by non-metallic minerals ,Oil Shale,Consumption by non-metallic minerals ,1992,"Metric tons,  thousand",336.0,,739200000.0
+652,652,Estonia,Oil Shale - Consumption by food and tobacco ,Oil Shale,Consumption by food and tobacco ,2017,"Metric tons,  thousand",1.323,,2910600.0
+653,653,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,2001,"Metric tons,  thousand",1.0,,2200000.0
+654,654,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,2000,"Metric tons,  thousand",1.0,,2200000.0
+655,655,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,1999,"Metric tons,  thousand",1.0,,2200000.0
+656,656,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,1998,"Metric tons,  thousand",5.0,,11000000.0
+657,657,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,1997,"Metric tons,  thousand",5.0,,11000000.0
+658,658,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,1996,"Metric tons,  thousand",0.0,,0.0
+659,659,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,1995,"Metric tons,  thousand",0.0,,0.0
+660,660,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,1994,"Metric tons,  thousand",0.0,,0.0
+661,661,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,1993,"Metric tons,  thousand",0.0,,0.0
+662,662,Estonia,Oil Shale - Consumption by wood and wood products ,Oil Shale,Consumption by wood and wood products ,1992,"Metric tons,  thousand",0.0,,0.0
+663,663,Estonia,Oil Shale - Consumption by textile and leather ,Oil Shale,Consumption by textile and leather ,1997,"Metric tons,  thousand",1.0,,2200000.0
+664,664,Estonia,Oil Shale - Consumption by textile and leather ,Oil Shale,Consumption by textile and leather ,1996,"Metric tons,  thousand",0.0,,0.0
+665,665,Estonia,Oil Shale - Consumption by textile and leather ,Oil Shale,Consumption by textile and leather ,1995,"Metric tons,  thousand",0.0,,0.0
+666,666,Estonia,Oil Shale - Consumption by textile and leather ,Oil Shale,Consumption by textile and leather ,1994,"Metric tons,  thousand",0.0,,0.0
+667,667,Estonia,Oil Shale - Consumption by textile and leather ,Oil Shale,Consumption by textile and leather ,1993,"Metric tons,  thousand",0.0,,0.0
+668,668,Estonia,Oil Shale - Consumption by textile and leather ,Oil Shale,Consumption by textile and leather ,1992,"Metric tons,  thousand",0.0,,0.0
+669,669,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2020,"Metric tons,  thousand",11764.533,,25881972600.0
+670,670,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2019,"Metric tons,  thousand",15643.859,,34416489800.0
+671,671,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2018,"Metric tons,  thousand",20898.046,,45975701200.0
+672,672,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2017,"Metric tons,  thousand",21897.213,,48173868600.0
+673,673,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2016,"Metric tons,  thousand",19894.0,,43766800000.0
+674,674,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2015,"Metric tons,  thousand",17899.0,,39377800000.0
+675,675,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2014,"Metric tons,  thousand",20628.0,,45381600000.0
+676,676,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2013,"Metric tons,  thousand",20486.0,,45069200000.0
+677,677,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2012,"Metric tons,  thousand",17526.0,,38557200000.0
+678,678,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2011,"Metric tons,  thousand",18739.0,,41225800000.0
+679,679,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2010,"Metric tons,  thousand",17889.0,,39355800000.0
+680,680,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2009,"Metric tons,  thousand",13769.0,,30291800000.0
+681,681,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2008,"Metric tons,  thousand",15704.0,,34548800000.0
+682,682,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2007,"Metric tons,  thousand",16810.0,,36982000000.0
+683,683,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2006,"Metric tons,  thousand",14028.0,,30861600000.0
+684,684,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2005,"Metric tons,  thousand",14804.0,,32568800000.0
+685,685,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2004,"Metric tons,  thousand",15503.0,,34106600000.0
+686,686,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2003,"Metric tons,  thousand",15477.0,,34049400000.0
+687,687,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2002,"Metric tons,  thousand",13027.0,,28659400000.0
+688,688,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2001,"Metric tons,  thousand",13240.0,,29128000000.0
+689,689,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,2000,"Metric tons,  thousand",13232.0,,29110400000.0
+690,690,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,1999,"Metric tons,  thousand",12685.0,,27907000000.0
+691,691,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,1998,"Metric tons,  thousand",13888.0,,30553600000.0
+692,692,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,1997,"Metric tons,  thousand",15951.0,,35092200000.0
+693,693,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,1996,"Metric tons,  thousand",16034.0,,35274800000.0
+694,694,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,1995,"Metric tons,  thousand",15438.0,,33963600000.0
+695,695,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,1994,"Metric tons,  thousand",16300.0,,35860000000.0
+696,696,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,1993,"Metric tons,  thousand",16678.0,,36691600000.0
+697,697,Estonia,Oil shale - Total energy supply,Oil shale,Total energy supply,1992,"Metric tons,  thousand",20525.0,,45155000000.0
+698,698,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2020,"Metric tons,  thousand",300.0,,660000000.0
+699,699,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2019,"Metric tons,  thousand",390.772,,859698400.0
+700,700,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2018,"Metric tons,  thousand",366.34,,805948000.0
+701,701,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2017,"Metric tons,  thousand",363.323,,799310600.0
+702,702,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2016,"Metric tons,  thousand",327.0,,719400000.0
+703,703,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2015,"Metric tons,  thousand",213.0,,468600000.0
+704,704,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2014,"Metric tons,  thousand",261.0,,574200000.0
+705,705,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2013,"Metric tons,  thousand",237.0,,521400000.0
+706,706,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2012,"Metric tons,  thousand",268.0,,589600000.0
+707,707,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2011,"Metric tons,  thousand",271.0,,596200000.0
+708,708,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2010,"Metric tons,  thousand",214.0,,470800000.0
+709,709,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2009,"Metric tons,  thousand",213.0,,468600000.0
+710,710,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2008,"Metric tons,  thousand",295.0,,649000000.0
+711,711,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2007,"Metric tons,  thousand",300.0,,660000000.0
+712,712,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2006,"Metric tons,  thousand",218.0,,479600000.0
+713,713,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2005,"Metric tons,  thousand",350.0,,770000000.0
+714,714,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2004,"Metric tons,  thousand",305.0,,671000000.0
+715,715,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2003,"Metric tons,  thousand",287.0,,631400000.0
+716,716,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2002,"Metric tons,  thousand",382.0,,840400000.0
+717,717,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2001,"Metric tons,  thousand",357.0,,785400000.0
+718,718,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,2000,"Metric tons,  thousand",370.0,,814000000.0
+719,719,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,1999,"Metric tons,  thousand",255.0,,561000000.0
+720,720,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,1998,"Metric tons,  thousand",490.0,,1078000000.0
+721,721,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,1997,"Metric tons,  thousand",433.0,,952600000.0
+722,722,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,1996,"Metric tons,  thousand",596.0,,1311200000.0
+723,723,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,1995,"Metric tons,  thousand",593.0,,1304600000.0
+724,724,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,1994,"Metric tons,  thousand",437.0,,961400000.0
+725,725,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,1993,"Metric tons,  thousand",260.0,,572000000.0
+726,726,Estonia,Oil Shale - Final consumption,Oil Shale,Final consumption,1992,"Metric tons,  thousand",336.0,,739200000.0
+727,727,Israel,Oil shale - Production,Oil shale,Production,2020,"Metric tons,  thousand",392.99,,864578000.0
+728,728,Israel,Oil shale - Production,Oil shale,Production,2019,"Metric tons,  thousand",402.781,,886118200.0
+729,729,Israel,Oil shale - Production,Oil shale,Production,2018,"Metric tons,  thousand",414.58,,912076000.0
+730,730,Israel,Oil shale - Production,Oil shale,Production,2017,"Metric tons,  thousand",449.107,,988035400.0000001
+731,731,Israel,Oil shale - Production,Oil shale,Production,2016,"Metric tons,  thousand",423.0,,930600000.0
+732,732,Israel,Oil shale - Production,Oil shale,Production,2015,"Metric tons,  thousand",420.0,,924000000.0
+733,733,Israel,Oil shale - Production,Oil shale,Production,2014,"Metric tons,  thousand",396.0,,871200000.0
+734,734,Israel,Oil shale - Production,Oil shale,Production,2013,"Metric tons,  thousand",421.0,,926200000.0
+735,735,Israel,Oil shale - Production,Oil shale,Production,2012,"Metric tons,  thousand",423.0,,930600000.0
+736,736,Israel,Oil shale - Production,Oil shale,Production,2011,"Metric tons,  thousand",416.0,,915200000.0
+737,737,Israel,Oil shale - Production,Oil shale,Production,2010,"Metric tons,  thousand",432.0,,950400000.0
+738,738,Israel,Oil shale - Production,Oil shale,Production,2009,"Metric tons,  thousand",444.0,,976800000.0
+739,739,Israel,Oil shale - Production,Oil shale,Production,2008,"Metric tons,  thousand",427.0,,939400000.0
+740,740,Israel,Oil shale - Production,Oil shale,Production,2007,"Metric tons,  thousand",429.0,,943800000.0
+741,741,Israel,Oil shale - Production,Oil shale,Production,2006,"Metric tons,  thousand",452.0,,994400000.0
+742,742,Israel,Oil shale - Production,Oil shale,Production,2005,"Metric tons,  thousand",429.0,,943800000.0
+743,743,Israel,Oil shale - Production,Oil shale,Production,2004,"Metric tons,  thousand",439.0,,965800000.0
+744,744,Israel,Oil shale - Production,Oil shale,Production,2003,"Metric tons,  thousand",437.0,,961400000.0
+745,745,Israel,Oil shale - Production,Oil shale,Production,2002,"Metric tons,  thousand",458.0,,1007600000.0
+746,746,Israel,Oil shale - Production,Oil shale,Production,2001,"Metric tons,  thousand",415.0,,913000000.0
+747,747,Israel,Oil shale - Production,Oil shale,Production,2000,"Metric tons,  thousand",390.0,,858000000.0
+748,748,Israel,Oil shale - Production,Oil shale,Production,1999,"Metric tons,  thousand",495.0,,1089000000.0
+749,749,Israel,Oil shale - Production,Oil shale,Production,1998,"Metric tons,  thousand",471.0,,1036200000.0
+750,750,Israel,Oil shale - Production,Oil shale,Production,1997,"Metric tons,  thousand",472.0,,1038400000.0
+751,751,Israel,Oil shale - Production,Oil shale,Production,1996,"Metric tons,  thousand",421.0,,926200000.0
+752,752,Israel,Oil shale - Production,Oil shale,Production,1995,"Metric tons,  thousand",470.0,,1034000000.0
+753,753,Israel,Oil shale - Production,Oil shale,Production,1994,"Metric tons,  thousand",381.0,,838200000.0
+754,754,Israel,Oil shale - Production,Oil shale,Production,1993,"Metric tons,  thousand",399.0,,877800000.0
+755,755,Israel,Oil shale - Production,Oil shale,Production,1992,"Metric tons,  thousand",355.0,,781000000.0
+756,756,Israel,Oil shale - Production,Oil shale,Production,1991,"Metric tons,  thousand",336.0,,739200000.0
+757,757,Israel,Oil shale - Production,Oil shale,Production,1990,"Metric tons,  thousand",303.0,,666600000.0
+758,758,Israel,Oil shale - Transformation,Oil shale,Transformation,2019,"Metric tons,  thousand",154.64,,340207999.99999994
+759,759,Israel,Oil shale - Transformation,Oil shale,Transformation,2018,"Metric tons,  thousand",163.27,,359194000.0
+760,760,Israel,Oil shale - Transformation,Oil shale,Transformation,2017,"Metric tons,  thousand",449.107,,988035400.0000001
+761,761,Israel,Oil shale - Transformation,Oil shale,Transformation,2016,"Metric tons,  thousand",423.0,,930600000.0
+762,762,Israel,Oil shale - Transformation,Oil shale,Transformation,2015,"Metric tons,  thousand",420.0,,924000000.0
+763,763,Israel,Oil shale - Transformation,Oil shale,Transformation,2014,"Metric tons,  thousand",396.0,,871200000.0
+764,764,Israel,Oil shale - Transformation,Oil shale,Transformation,2013,"Metric tons,  thousand",421.0,,926200000.0
+765,765,Israel,Oil shale - Transformation,Oil shale,Transformation,2012,"Metric tons,  thousand",423.0,,930600000.0
+766,766,Israel,Oil shale - Transformation,Oil shale,Transformation,2011,"Metric tons,  thousand",416.0,,915200000.0
+767,767,Israel,Oil shale - Transformation,Oil shale,Transformation,2010,"Metric tons,  thousand",432.0,,950400000.0
+768,768,Israel,Oil shale - Transformation,Oil shale,Transformation,2009,"Metric tons,  thousand",444.0,,976800000.0
+769,769,Israel,Oil shale - Transformation,Oil shale,Transformation,2008,"Metric tons,  thousand",427.0,,939400000.0
+770,770,Israel,Oil shale - Transformation,Oil shale,Transformation,2007,"Metric tons,  thousand",429.0,,943800000.0
+771,771,Israel,Oil shale - Transformation,Oil shale,Transformation,2006,"Metric tons,  thousand",452.0,,994400000.0
+772,772,Israel,Oil shale - Transformation,Oil shale,Transformation,2005,"Metric tons,  thousand",429.0,,943800000.0
+773,773,Israel,Oil shale - Transformation,Oil shale,Transformation,2004,"Metric tons,  thousand",439.0,,965800000.0
+774,774,Israel,Oil shale - Transformation,Oil shale,Transformation,2003,"Metric tons,  thousand",437.0,,961400000.0
+775,775,Israel,Oil shale - Transformation,Oil shale,Transformation,2002,"Metric tons,  thousand",458.0,,1007600000.0
+776,776,Israel,Oil shale - Transformation,Oil shale,Transformation,2001,"Metric tons,  thousand",415.0,,913000000.0
+777,777,Israel,Oil shale - Transformation,Oil shale,Transformation,2000,"Metric tons,  thousand",456.0,,1003200000.0
+778,778,Israel,Oil shale - Transformation,Oil shale,Transformation,1999,"Metric tons,  thousand",496.0,,1091200000.0
+779,779,Israel,Oil shale - Transformation,Oil shale,Transformation,1998,"Metric tons,  thousand",471.0,,1036200000.0
+780,780,Israel,Oil shale - Transformation,Oil shale,Transformation,1997,"Metric tons,  thousand",472.0,,1038400000.0
+781,781,Israel,Oil shale - Transformation,Oil shale,Transformation,1996,"Metric tons,  thousand",421.0,,926200000.0
+782,782,Israel,Oil shale - Transformation,Oil shale,Transformation,1995,"Metric tons,  thousand",470.0,,1034000000.0
+783,783,Israel,Oil shale - Transformation,Oil shale,Transformation,1994,"Metric tons,  thousand",381.0,,838200000.0
+784,784,Israel,Oil shale - Transformation,Oil shale,Transformation,1993,"Metric tons,  thousand",399.0,,877800000.0
+785,785,Israel,Oil shale - Transformation,Oil shale,Transformation,1992,"Metric tons,  thousand",355.0,,781000000.0
+786,786,Israel,Oil shale - Transformation,Oil shale,Transformation,1991,"Metric tons,  thousand",336.0,,739200000.0
+787,787,Israel,Oil shale - Transformation,Oil shale,Transformation,1990,"Metric tons,  thousand",303.0,,666600000.0
+788,788,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2019,"Metric tons,  thousand",154.64,,340207999.99999994
+789,789,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2018,"Metric tons,  thousand",163.27,,359194000.0
+790,790,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2017,"Metric tons,  thousand",449.107,,988035400.0000001
+791,791,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2016,"Metric tons,  thousand",423.0,,930600000.0
+792,792,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2015,"Metric tons,  thousand",420.0,,924000000.0
+793,793,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2014,"Metric tons,  thousand",396.0,,871200000.0
+794,794,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2013,"Metric tons,  thousand",421.0,,926200000.0
+795,795,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2012,"Metric tons,  thousand",423.0,,930600000.0
+796,796,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2011,"Metric tons,  thousand",416.0,,915200000.0
+797,797,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2010,"Metric tons,  thousand",432.0,,950400000.0
+798,798,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2009,"Metric tons,  thousand",444.0,,976800000.0
+799,799,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2008,"Metric tons,  thousand",427.0,,939400000.0
+800,800,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2007,"Metric tons,  thousand",429.0,,943800000.0
+801,801,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2006,"Metric tons,  thousand",452.0,,994400000.0
+802,802,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2005,"Metric tons,  thousand",429.0,,943800000.0
+803,803,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2004,"Metric tons,  thousand",439.0,,965800000.0
+804,804,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2003,"Metric tons,  thousand",437.0,,961400000.0
+805,805,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2002,"Metric tons,  thousand",458.0,,1007600000.0
+806,806,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2001,"Metric tons,  thousand",415.0,,913000000.0
+807,807,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",2000,"Metric tons,  thousand",456.0,,1003200000.0
+808,808,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1999,"Metric tons,  thousand",496.0,,1091200000.0
+809,809,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1998,"Metric tons,  thousand",471.0,,1036200000.0
+810,810,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1997,"Metric tons,  thousand",472.0,,1038400000.0
+811,811,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1996,"Metric tons,  thousand",421.0,,926200000.0
+812,812,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1995,"Metric tons,  thousand",470.0,,1034000000.0
+813,813,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1994,"Metric tons,  thousand",381.0,,838200000.0
+814,814,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1993,"Metric tons,  thousand",399.0,,877800000.0
+815,815,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1992,"Metric tons,  thousand",355.0,,781000000.0
+816,816,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1991,"Metric tons,  thousand",336.0,,739200000.0
+817,817,Israel,"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1990,"Metric tons,  thousand",303.0,,666600000.0
+818,818,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2007,"Metric tons,  thousand",256.0,,563200000.0
+819,819,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2006,"Metric tons,  thousand",270.0,,594000000.0
+820,820,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2005,"Metric tons,  thousand",256.0,,563200000.0
+821,821,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2004,"Metric tons,  thousand",262.0,,576400000.0
+822,822,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2003,"Metric tons,  thousand",261.0,,574200000.0
+823,823,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2002,"Metric tons,  thousand",274.0,,602800000.0
+824,824,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2001,"Metric tons,  thousand",248.0,,545600000.0
+825,825,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,2000,"Metric tons,  thousand",273.0,,600600000.0
+826,826,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1999,"Metric tons,  thousand",315.0,,693000000.0
+827,827,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",311.0,,684200000.0
+828,828,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1997,"Metric tons,  thousand",472.0,,1038400000.0
+829,829,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1996,"Metric tons,  thousand",421.0,,926200000.0
+830,830,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1995,"Metric tons,  thousand",470.0,,1034000000.0
+831,831,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1994,"Metric tons,  thousand",381.0,,838200000.0
+832,832,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1993,"Metric tons,  thousand",399.0,,877800000.0
+833,833,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1992,"Metric tons,  thousand",355.0,,781000000.0
+834,834,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1991,"Metric tons,  thousand",336.0,,739200000.0
+835,835,Israel,Oil Shale - Transformation in electricity plants - main activity producers,Oil Shale,Oil Shale,1990,"Metric tons,  thousand",303.0,,666600000.0
+836,836,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2017,"Metric tons,  thousand",449.107,,988035400.0000001
+837,837,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2016,"Metric tons,  thousand",423.0,,930600000.0
+838,838,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2015,"Metric tons,  thousand",420.0,,924000000.0
+839,839,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2014,"Metric tons,  thousand",396.0,,871200000.0
+840,840,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2013,"Metric tons,  thousand",421.0,,926200000.0
+841,841,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2012,"Metric tons,  thousand",423.0,,930600000.0
+842,842,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2011,"Metric tons,  thousand",416.0,,915200000.0
+843,843,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2010,"Metric tons,  thousand",432.0,,950400000.0
+844,844,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2009,"Metric tons,  thousand",444.0,,976800000.0
+845,845,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2008,"Metric tons,  thousand",427.0,,939400000.0
+846,846,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2007,"Metric tons,  thousand",173.0,,380600000.0
+847,847,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2006,"Metric tons,  thousand",182.0,,400400000.0
+848,848,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2005,"Metric tons,  thousand",173.0,,380600000.0
+849,849,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2004,"Metric tons,  thousand",177.0,,389400000.0
+850,850,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2003,"Metric tons,  thousand",176.0,,387200000.0
+851,851,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2002,"Metric tons,  thousand",184.0,,404800000.0
+852,852,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2001,"Metric tons,  thousand",167.0,,367400000.0
+853,853,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,2000,"Metric tons,  thousand",183.0,,402600000.0
+854,854,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1999,"Metric tons,  thousand",181.0,,398200000.0
+855,855,Israel,Oil Shale - Transformation in electricity plants - autoproducers,Oil Shale,Oil Shale,1998,"Metric tons,  thousand",160.0,,352000000.0
+856,856,Israel,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2019,"Metric tons,  thousand",154.64,,340207999.99999994
+857,857,Israel,Oil Shale - Transformation in CHP plants - autoproducers,Oil Shale,Oil Shale,2018,"Metric tons,  thousand",163.27,,359194000.0
+858,858,Israel,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2019,"Metric tons,  thousand",248.141,,545910200.0
+859,859,Israel,Oil Shale - Final energy consumption,Oil Shale,Final energy consumption,2018,"Metric tons,  thousand",251.31,,552882000.0
+860,860,Israel,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2019,"Metric tons,  thousand",248.141,,545910200.0
+861,861,Israel,"Oil Shale - Consumption by manufacturing, construction and non-fuel industry",Oil Shale,"Consumption by manufacturing, construction and non-fuel industry",2018,"Metric tons,  thousand",251.31,,552882000.0
+862,862,Israel,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2019,"Metric tons,  thousand",248.141,,545910200.0
+863,863,Israel,"Oil shale - Consumption by other manuf., const. and non-fuel min. ind.",Oil shale,"Consumption by other manuf., const. and non-fuel min. ind.",2018,"Metric tons,  thousand",251.31,,552882000.0
+864,864,Israel,Oil Shale - Consumption not elsewhere specified (industry),Oil Shale,Consumption not elsewhere specified (industry),2019,"Metric tons,  thousand",248.141,,545910200.0
+865,865,Israel,Oil Shale - Consumption not elsewhere specified (industry),Oil Shale,Consumption not elsewhere specified (industry),2018,"Metric tons,  thousand",251.31,,552882000.0
+866,866,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2020,"Metric tons,  thousand",392.99,,864578000.0
+867,867,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2019,"Metric tons,  thousand",402.781,,886118200.0
+868,868,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2018,"Metric tons,  thousand",414.58,,912076000.0
+869,869,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2017,"Metric tons,  thousand",449.107,,988035400.0000001
+870,870,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2016,"Metric tons,  thousand",423.0,,930600000.0
+871,871,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2015,"Metric tons,  thousand",420.0,,924000000.0
+872,872,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2014,"Metric tons,  thousand",396.0,,871200000.0
+873,873,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2013,"Metric tons,  thousand",421.0,,926200000.0
+874,874,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2012,"Metric tons,  thousand",423.0,,930600000.0
+875,875,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2011,"Metric tons,  thousand",416.0,,915200000.0
+876,876,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2010,"Metric tons,  thousand",432.0,,950400000.0
+877,877,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2009,"Metric tons,  thousand",444.0,,976800000.0
+878,878,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2008,"Metric tons,  thousand",427.0,,939400000.0
+879,879,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2007,"Metric tons,  thousand",429.0,,943800000.0
+880,880,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2006,"Metric tons,  thousand",452.0,,994400000.0
+881,881,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2005,"Metric tons,  thousand",429.0,,943800000.0
+882,882,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2004,"Metric tons,  thousand",439.0,,965800000.0
+883,883,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2003,"Metric tons,  thousand",437.0,,961400000.0
+884,884,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2002,"Metric tons,  thousand",458.0,,1007600000.0
+885,885,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2001,"Metric tons,  thousand",415.0,,913000000.0
+886,886,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,2000,"Metric tons,  thousand",390.0,,858000000.0
+887,887,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1999,"Metric tons,  thousand",495.0,,1089000000.0
+888,888,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1998,"Metric tons,  thousand",471.0,,1036200000.0
+889,889,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1997,"Metric tons,  thousand",472.0,,1038400000.0
+890,890,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1996,"Metric tons,  thousand",421.0,,926200000.0
+891,891,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1995,"Metric tons,  thousand",470.0,,1034000000.0
+892,892,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1994,"Metric tons,  thousand",381.0,,838200000.0
+893,893,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1993,"Metric tons,  thousand",399.0,,877800000.0
+894,894,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1992,"Metric tons,  thousand",355.0,,781000000.0
+895,895,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1991,"Metric tons,  thousand",336.0,,739200000.0
+896,896,Israel,Oil shale - Total energy supply,Oil shale,Total energy supply,1990,"Metric tons,  thousand",303.0,,666600000.0
+897,897,Israel,Oil Shale - Final consumption,Oil Shale,Final consumption,2019,"Metric tons,  thousand",248.141,,545910200.0
+898,898,Israel,Oil Shale - Final consumption,Oil Shale,Final consumption,2018,"Metric tons,  thousand",251.31,,552882000.0
+899,899,USSR (former),Oil shale - Production,Oil shale,Production,1991,"Metric tons,  thousand",26000.0,,57200000000.0
+900,900,USSR (former),Oil shale - Production,Oil shale,Production,1990,"Metric tons,  thousand",27042.0,,59492400000.0
+901,901,USSR (former),Oil shale - Transformation,Oil shale,Transformation,1991,"Metric tons,  thousand",26000.0,1.0,57200000000.0
+902,902,USSR (former),Oil shale - Transformation,Oil shale,Transformation,1990,"Metric tons,  thousand",27000.0,1.0,59400000000.0
+903,903,USSR (former),"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1991,"Metric tons,  thousand",23000.0,1.0,50600000000.0
+904,904,USSR (former),"Oil shale - Transformation in electricity, CHP and heat plants",Oil shale,"Transformation in electricity, CHP and heat plants",1990,"Metric tons,  thousand",23500.0,1.0,51700000000.0
+905,905,USSR (former),Oil Shale - Other transformation,Oil Shale,Other transformation,1991,"Metric tons,  thousand",3000.0,1.0,6600000000.0
+906,906,USSR (former),Oil Shale - Other transformation,Oil Shale,Other transformation,1990,"Metric tons,  thousand",3500.0,1.0,7700000000.0
+907,907,USSR (former),Oil shale - Total energy supply,Oil shale,Total energy supply,1991,"Metric tons,  thousand",26000.0,,57200000000.0
+908,908,USSR (former),Oil shale - Total energy supply,Oil shale,Total energy supply,1990,"Metric tons,  thousand",27042.0,,59492400000.0
