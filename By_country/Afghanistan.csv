@@ -1,0 +1,2407 @@
+,Country or Area,Commodity,Transaction,Year,Quantity Footnotes,Conversion_in_kWh
+0,Afghanistan,Electricity,Gross production,2020,,13368800000.000002
+1,Afghanistan,Electricity,Gross production,2019,,15915000000.0
+2,Afghanistan,Electricity,Gross production,2018,,12657200000.0
+3,Afghanistan,Electricity,Gross production,2017,,14200400000.0
+4,Afghanistan,Electricity,Gross production,2016,,13939000000.0
+5,Afghanistan,Electricity,Gross production,2015,,13387000000.0
+6,Afghanistan,Electricity,Gross production,2014,,13560000000.0
+7,Afghanistan,Electricity,Gross production,2013,1.0,10223000000.0
+8,Afghanistan,Electricity,Gross production,2012,,10220000000.0
+9,Afghanistan,Electricity,Gross production,2011,,10050000000.0
+10,Afghanistan,Electricity,Gross production,2010,,8920000000.0
+11,Afghanistan,Electricity,Gross production,2009,,8890000000.0
+12,Afghanistan,Electricity,Gross production,2008,,7880000000.0
+13,Afghanistan,Electricity,Gross production,2007,,9500000000.0
+14,Afghanistan,Electricity,Gross production,2006,,9130000000.0
+15,Afghanistan,Electricity,Gross production,2005,,9060000000.0
+16,Afghanistan,Electricity,Gross production,2004,,7970000000.0
+17,Afghanistan,Electricity,Gross production,2003,,9210000000.0
+18,Afghanistan,Electricity,Gross production,2002,,7222000000.0
+19,Afghanistan,Electricity,Gross production,2001,,6911000000.0
+20,Afghanistan,Electricity,Gross production,2000,,6877000000.0
+21,Afghanistan,Electricity,Gross production,1999,1.0,6850000000.0
+22,Afghanistan,Electricity,Gross production,1998,1.0,6650000000.0
+23,Afghanistan,Electricity,Gross production,1997,1.0,6700000000.0
+24,Afghanistan,Electricity,Gross production,1996,1.0,6750000000.0
+25,Afghanistan,Electricity,Gross production,1995,1.0,6750000000.0
+26,Afghanistan,Electricity,Gross production,1994,1.0,6870000000.0
+27,Afghanistan,Electricity,Gross production,1993,1.0,6950000000.0
+28,Afghanistan,Electricity,Gross production,1992,1.0,7030000000.0
+29,Afghanistan,Electricity,Gross production,1991,1.0,10150000000.0
+30,Afghanistan,Electricity,Gross production,1990,1.0,11280000000.0
+31,Afghanistan,From combustible fuels,Main activity,2020,,1182800000.0
+32,Afghanistan,From combustible fuels,Main activity,2019,,1766900000.0
+33,Afghanistan,From combustible fuels,Main activity,2018,,1929300000.0
+34,Afghanistan,From combustible fuels,Main activity,2017,,1682600000.0
+35,Afghanistan,From combustible fuels,Main activity,2016,,1497000000.0
+36,Afghanistan,From combustible fuels,Main activity,2015,,1442000000.0
+37,Afghanistan,From combustible fuels,Main activity,2014,,1540000000.0
+38,Afghanistan,From combustible fuels,Main activity,2013,1.0,2134000000.0
+39,Afghanistan,From combustible fuels,Main activity,2012,,1390000000.0
+40,Afghanistan,From combustible fuels,Main activity,2011,,1710000000.0
+41,Afghanistan,From combustible fuels,Main activity,2010,,1200000000.0
+42,Afghanistan,From combustible fuels,Main activity,2009,,1090000000.0
+43,Afghanistan,From combustible fuels,Main activity,2008,,2000000000.0
+44,Afghanistan,From combustible fuels,Main activity,2007,,2350000000.0
+45,Afghanistan,From combustible fuels,Main activity,2006,,2000000000.0
+46,Afghanistan,From combustible fuels,Main activity,2005,,1820000000.0
+47,Afghanistan,From combustible fuels,Main activity,2004,,1770000000.0
+48,Afghanistan,From combustible fuels,Main activity,2003,,1940000000.0
+49,Afghanistan,From combustible fuels,Main activity,2002,,12000000.0
+50,Afghanistan,From combustible fuels,Main activity,2001,,15000000.0
+51,Afghanistan,From combustible fuels,Main activity,2000,,20000000.0
+52,Afghanistan,From combustible fuels,Main activity,1999,1.0,300000000.0
+53,Afghanistan,From combustible fuels,Main activity,1998,1.0,300000000.0
+54,Afghanistan,From combustible fuels,Main activity,1997,1.0,350000000.0
+55,Afghanistan,From combustible fuels,Main activity,1996,1.0,400000000.0
+56,Afghanistan,From combustible fuels,Main activity,1995,1.0,420000000.0
+57,Afghanistan,From combustible fuels,Main activity,1994,1.0,450000000.0
+58,Afghanistan,From combustible fuels,Main activity,1993,1.0,480000000.0
+59,Afghanistan,From combustible fuels,Main activity,1992,1.0,500000000.0
+60,Afghanistan,From combustible fuels,Main activity,1991,1.0,650000000.0
+61,Afghanistan,From combustible fuels,Main activity,1990,1.0,740000000.0
+62,Afghanistan,From combustible fuels,From combustible fuels,2020,,1182800000.0
+63,Afghanistan,From combustible fuels,From combustible fuels,2019,,1766900000.0
+64,Afghanistan,From combustible fuels,From combustible fuels,2018,,1929300000.0
+65,Afghanistan,From combustible fuels,From combustible fuels,2017,,1682600000.0
+66,Afghanistan,From combustible fuels,From combustible fuels,2016,,1497000000.0
+67,Afghanistan,From combustible fuels,From combustible fuels,2015,,1442000000.0
+68,Afghanistan,From combustible fuels,From combustible fuels,2014,,1540000000.0
+69,Afghanistan,From combustible fuels,From combustible fuels,2013,1.0,2134000000.0
+70,Afghanistan,From combustible fuels,From combustible fuels,2012,,1390000000.0
+71,Afghanistan,From combustible fuels,From combustible fuels,2011,,1710000000.0
+72,Afghanistan,From combustible fuels,From combustible fuels,2010,,1200000000.0
+73,Afghanistan,From combustible fuels,From combustible fuels,2009,,1090000000.0
+74,Afghanistan,From combustible fuels,From combustible fuels,2008,,2000000000.0
+75,Afghanistan,From combustible fuels,From combustible fuels,2007,,2350000000.0
+76,Afghanistan,Hydro,Main activity,2020,,8806700000.0
+77,Afghanistan,Hydro,Main activity,2019,,10880400000.0
+78,Afghanistan,Hydro,Main activity,2018,,7857900000.0
+79,Afghanistan,Hydro,Main activity,2017,,9298800000.0
+80,Afghanistan,Hydro,Main activity,2016,,9266000000.0
+81,Afghanistan,Hydro,Main activity,2015,,8895000000.0
+82,Afghanistan,Hydro,Main activity,2014,,8950000000.0
+83,Afghanistan,Hydro,Main activity,2013,1.0,5329000000.0
+84,Afghanistan,Hydro,Main activity,2012,,5820000000.0
+85,Afghanistan,Hydro,Main activity,2011,,5480000000.0
+86,Afghanistan,Hydro,Main activity,2010,,5020000000.0
+87,Afghanistan,Hydro,Main activity,2009,,5100000000.0
+88,Afghanistan,Hydro,Main activity,2008,,3590000000.0
+89,Afghanistan,Hydro,Main activity,2007,,4440000000.0
+90,Afghanistan,Hydro,Main activity,2006,,4810000000.0
+91,Afghanistan,Hydro,Main activity,2005,,5090000000.0
+92,Afghanistan,Hydro,Main activity,2004,,4450000000.0
+93,Afghanistan,Hydro,Main activity,2003,,6320000000.0
+94,Afghanistan,Hydro,Main activity,2002,,5560000000.0
+95,Afghanistan,Hydro,Main activity,2001,,4882000000.0
+96,Afghanistan,Hydro,Main activity,2000,,5007000000.0
+97,Afghanistan,Hydro,Main activity,1999,1.0,4900000000.0
+98,Afghanistan,Hydro,Main activity,1998,1.0,4800000000.0
+99,Afghanistan,Hydro,Main activity,1997,1.0,4700000000.0
+100,Afghanistan,Hydro,Main activity,1996,1.0,4600000000.0
+101,Afghanistan,Hydro,Main activity,1995,1.0,4500000000.0
+102,Afghanistan,Hydro,Main activity,1994,1.0,4550000000.0
+103,Afghanistan,Hydro,Main activity,1993,1.0,4570000000.0
+104,Afghanistan,Hydro,Main activity,1992,1.0,4600000000.0
+105,Afghanistan,Hydro,Main activity,1991,1.0,6700000000.0
+106,Afghanistan,Hydro,Main activity,1990,1.0,7400000000.0
+107,Afghanistan,Solar,Main activity,2020,,319300000.0
+108,Afghanistan,Solar,Main activity,2019,,207700000.0
+109,Afghanistan,Solar photovoltaic,Main activity,2020,,319300000.0
+110,Afghanistan,Solar photovoltaic,Main activity,2019,,207700000.0
+111,Afghanistan,From combustible fuels,Autoproducer,2020,1.0,60000000.0
+112,Afghanistan,From combustible fuels,Autoproducer,2019,1.0,60000000.0
+113,Afghanistan,From combustible fuels,Autoproducer,2018,1.0,70000000.0
+114,Afghanistan,From combustible fuels,Autoproducer,2017,1.0,80000000.0
+115,Afghanistan,From combustible fuels,Autoproducer,2016,1.0,50000000.0
+116,Afghanistan,From combustible fuels,Autoproducer,2015,1.0,50000000.0
+117,Afghanistan,From combustible fuels,Autoproducer,2014,1.0,50000000.0
+118,Afghanistan,From combustible fuels,Autoproducer,2013,1.0,50000000.0
+119,Afghanistan,From combustible fuels,Autoproducer,2012,,50000000.0
+120,Afghanistan,From combustible fuels,Autoproducer,2011,,50000000.0
+121,Afghanistan,From combustible fuels,Autoproducer,2010,,50000000.0
+122,Afghanistan,From combustible fuels,Autoproducer,2009,,50000000.0
+123,Afghanistan,From combustible fuels,Autoproducer,2008,,470000000.0
+124,Afghanistan,From combustible fuels,Autoproducer,2007,,310000000.0
+125,Afghanistan,From combustible fuels,Autoproducer,2006,,670000000.0
+126,Afghanistan,From combustible fuels,Autoproducer,2005,,530000000.0
+127,Afghanistan,From combustible fuels,Autoproducer,2004,1.0,550000000.0
+128,Afghanistan,From combustible fuels,Autoproducer,2003,1.0,800000000.0
+129,Afghanistan,From combustible fuels,Autoproducer,2002,1.0,1500000000.0
+130,Afghanistan,From combustible fuels,Autoproducer,2001,,1864000000.0
+131,Afghanistan,From combustible fuels,Autoproducer,2000,1.0,1700000000.0
+132,Afghanistan,From combustible fuels,Autoproducer,1999,1.0,1500000000.0
+133,Afghanistan,From combustible fuels,Autoproducer,1998,1.0,1400000000.0
+134,Afghanistan,From combustible fuels,Autoproducer,1997,1.0,1500000000.0
+135,Afghanistan,From combustible fuels,Autoproducer,1996,1.0,1600000000.0
+136,Afghanistan,From combustible fuels,Autoproducer,1995,1.0,1670000000.0
+137,Afghanistan,From combustible fuels,Autoproducer,1994,1.0,1700000000.0
+138,Afghanistan,From combustible fuels,Autoproducer,1993,1.0,1720000000.0
+139,Afghanistan,From combustible fuels,Autoproducer,1992,1.0,1750000000.0
+140,Afghanistan,From combustible fuels,Autoproducer,1991,1.0,2600000000.0
+141,Afghanistan,From combustible fuels,Autoproducer,1990,1.0,2900000000.0
+142,Afghanistan,From combustible fuels,From combustible fuels,2020,1.0,60000000.0
+143,Afghanistan,From combustible fuels,From combustible fuels,2019,1.0,60000000.0
+144,Afghanistan,From combustible fuels,From combustible fuels,2018,1.0,70000000.0
+145,Afghanistan,From combustible fuels,From combustible fuels,2017,1.0,80000000.0
+146,Afghanistan,From combustible fuels,From combustible fuels,2016,1.0,50000000.0
+147,Afghanistan,From combustible fuels,From combustible fuels,2015,1.0,50000000.0
+148,Afghanistan,From combustible fuels,From combustible fuels,2014,1.0,50000000.0
+149,Afghanistan,From combustible fuels,From combustible fuels,2013,1.0,50000000.0
+150,Afghanistan,From combustible fuels,From combustible fuels,2012,,50000000.0
+151,Afghanistan,From combustible fuels,From combustible fuels,2011,,50000000.0
+152,Afghanistan,From combustible fuels,From combustible fuels,2010,,50000000.0
+153,Afghanistan,From combustible fuels,From combustible fuels,2009,,50000000.0
+154,Afghanistan,From combustible fuels,From combustible fuels,2008,,470000000.0
+155,Afghanistan,From combustible fuels,From combustible fuels,2007,,310000000.0
+156,Afghanistan,Hydro,Autoproducer,2020,1.0,3000000000.0
+157,Afghanistan,Hydro,Autoproducer,2019,1.0,3000000000.0
+158,Afghanistan,Hydro,Autoproducer,2018,1.0,2800000000.0
+159,Afghanistan,Hydro,Autoproducer,2017,1.0,3139000000.0
+160,Afghanistan,Hydro,Autoproducer,2016,1.0,3126000000.0
+161,Afghanistan,Hydro,Autoproducer,2015,1.0,3000000000.0
+162,Afghanistan,Hydro,Autoproducer,2014,1.0,3020000000.0
+163,Afghanistan,Hydro,Autoproducer,2013,1.0,2710000000.0
+164,Afghanistan,Hydro,Autoproducer,2012,,2960000000.0
+165,Afghanistan,Hydro,Autoproducer,2011,,2810000000.0
+166,Afghanistan,Hydro,Autoproducer,2010,,2650000000.0
+167,Afghanistan,Hydro,Autoproducer,2009,,2650000000.0
+168,Afghanistan,Hydro,Autoproducer,2008,,1820000000.0
+169,Afghanistan,Hydro,Autoproducer,2007,,2400000000.0
+170,Afghanistan,Hydro,Autoproducer,2006,,1650000000.0
+171,Afghanistan,Hydro,Autoproducer,2005,,1620000000.0
+172,Afghanistan,Hydro,Autoproducer,2004,,1200000000.0
+173,Afghanistan,Hydro,Autoproducer,2003,1.0,150000000.0
+174,Afghanistan,Hydro,Autoproducer,2002,1.0,150000000.0
+175,Afghanistan,Hydro,Autoproducer,2001,1.0,150000000.0
+176,Afghanistan,Hydro,Autoproducer,2000,1.0,150000000.0
+177,Afghanistan,Hydro,Autoproducer,1999,1.0,150000000.0
+178,Afghanistan,Hydro,Autoproducer,1998,1.0,150000000.0
+179,Afghanistan,Hydro,Autoproducer,1997,1.0,150000000.0
+180,Afghanistan,Hydro,Autoproducer,1996,1.0,150000000.0
+181,Afghanistan,Hydro,Autoproducer,1995,1.0,160000000.0
+182,Afghanistan,Hydro,Autoproducer,1994,1.0,170000000.0
+183,Afghanistan,Hydro,Autoproducer,1993,1.0,180000000.0
+184,Afghanistan,Hydro,Autoproducer,1992,1.0,180000000.0
+185,Afghanistan,Hydro,Autoproducer,1991,1.0,200000000.0
+186,Afghanistan,Hydro,Autoproducer,1990,1.0,240000000.0
+187,Afghanistan,Electricity,net production,2020,1.0,12820000000.0
+188,Afghanistan,Electricity,net production,2019,1.0,15370000000.0
+189,Afghanistan,Electricity,net production,2018,1.0,12110000000.0
+190,Afghanistan,Electricity,net production,2017,1.0,13650000000.0
+191,Afghanistan,Electricity,net production,2016,1.0,13390000000.0
+192,Afghanistan,Electricity,net production,2015,1.0,12840000000.0
+193,Afghanistan,Electricity,net production,2014,1.0,13010000000.0
+194,Afghanistan,Electricity,net production,2013,1.0,9653000000.0
+195,Afghanistan,Electricity,net production,2012,1.0,9670000000.0
+196,Afghanistan,Electricity,net production,2011,1.0,9550000000.0
+197,Afghanistan,Electricity,net production,2010,,8650000000.0
+198,Afghanistan,Electricity,net production,2009,,8360000000.0
+199,Afghanistan,Electricity,net production,2008,,7330000000.0
+200,Afghanistan,Electricity,net production,2007,,8970000000.0
+201,Afghanistan,Electricity,net production,2006,,8610000000.0
+202,Afghanistan,Electricity,net production,2005,,8560000000.0
+203,Afghanistan,Electricity,net production,2004,,7530000000.0
+204,Afghanistan,Electricity,net production,2003,,8770000000.0
+205,Afghanistan,Electricity,net production,2002,,6822000000.0
+206,Afghanistan,Electricity,net production,2001,,6501000000.0
+207,Afghanistan,Electricity,net production,2000,,6467000000.0
+208,Afghanistan,Electricity,net production,1999,,6440000000.0
+209,Afghanistan,Electricity,net production,1998,,6240000000.0
+210,Afghanistan,Electricity,net production,1997,,6280000000.0
+211,Afghanistan,Electricity,net production,1996,,6330000000.0
+212,Afghanistan,Electricity,net production,1995,,6330000000.0
+213,Afghanistan,Electricity,net production,1994,,6420000000.0
+214,Afghanistan,Electricity,net production,1993,,6500000000.0
+215,Afghanistan,Electricity,net production,1992,,6580000000.0
+216,Afghanistan,Electricity,net production,1991,,9450000000.0
+217,Afghanistan,Electricity,net production,1990,,10550000000.0
+218,Afghanistan,Electricity,imports,2020,,51518800000.0
+219,Afghanistan,Electricity,imports,2019,,49120000000.0
+220,Afghanistan,Electricity,imports,2018,,49860000000.0
+221,Afghanistan,Electricity,imports,2017,,46113000000.0
+222,Afghanistan,Electricity,imports,2016,,43325000000.0
+223,Afghanistan,Electricity,imports,2015,,37789000000.0
+224,Afghanistan,Electricity,imports,2014,,37108000000.0
+225,Afghanistan,Electricity,imports,2013,,36152000000.0
+226,Afghanistan,Electricity,imports,2012,,30710000000.0
+227,Afghanistan,Electricity,imports,2011,,27320000000.0
+228,Afghanistan,Electricity,imports,2010,,18670000000.0
+229,Afghanistan,Electricity,imports,2009,,9570000000.0
+230,Afghanistan,Electricity,imports,2008,,8350000000.0
+231,Afghanistan,Electricity,imports,2007,,7850000000.0
+232,Afghanistan,Electricity,imports,2006,,5940000000.0
+233,Afghanistan,Electricity,imports,2005,,1370000000.0
+234,Afghanistan,Electricity,imports,2004,1.0,1900000000.0
+235,Afghanistan,Electricity,imports,2003,1.0,1000000000.0
+236,Afghanistan,Electricity,imports,2002,1.0,1000000000.0
+237,Afghanistan,Electricity,imports,2001,,950000000.0
+238,Afghanistan,Electricity,imports,2000,1.0,950000000.0
+239,Afghanistan,Electricity,imports,1999,1.0,950000000.0
+240,Afghanistan,Electricity,imports,1998,1.0,950000000.0
+241,Afghanistan,Electricity,imports,1997,1.0,1000000000.0
+242,Afghanistan,Electricity,imports,1996,1.0,1100000000.0
+243,Afghanistan,Electricity,imports,1995,1.0,1200000000.0
+244,Afghanistan,Electricity,imports,1994,1.0,1280000000.0
+245,Afghanistan,Electricity,imports,1993,1.0,1300000000.0
+246,Afghanistan,Electricity,imports,1992,,1310000000.0
+247,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2020,1.0,548799999.999999
+248,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2019,1.0,545000000.0
+249,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2018,1.0,547200000.0
+250,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2017,1.0,550400000.000001
+251,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2016,1.0,549000000.0
+252,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2015,1.0,547000000.0
+253,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2014,1.0,550000000.0
+254,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2013,1.0,570000000.0
+255,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2012,,550000000.0
+256,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2011,,500000000.0
+257,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2010,,270000000.0
+258,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2009,,530000000.0
+259,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2008,,550000000.0
+260,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2007,,530000000.0
+261,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2006,,520000000.0
+262,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2005,,500000000.0
+263,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2004,,440000000.0
+264,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2003,,440000000.0
+265,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2002,,400000000.0
+266,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2001,,410000000.0
+267,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",2000,,409999999.999999
+268,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1999,1.0,410000000.0
+269,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1998,1.0,410000000.0
+270,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1997,1.0,420000000.0
+271,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1996,1.0,420000000.0
+272,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1995,1.0,420000000.0
+273,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1994,1.0,450000000.0
+274,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1993,1.0,450000000.0
+275,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1992,1.0,450000000.0
+276,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1991,1.0,700000000.0
+277,Afghanistan,Electricity,"Own use by electricity, heat and CHP plants",1990,1.0,730000000.0
+278,Afghanistan,Electricity,Losses,2020,1.0,6700000000.0
+279,Afghanistan,Electricity,Losses,2019,1.0,6700000000.0
+280,Afghanistan,Electricity,Losses,2018,1.0,6400000000.0
+281,Afghanistan,Electricity,Losses,2017,1.0,6150000000.0
+282,Afghanistan,Electricity,Losses,2016,1.0,5900000000.0
+283,Afghanistan,Electricity,Losses,2015,1.0,5220000000.0
+284,Afghanistan,Electricity,Losses,2014,1.0,5200000000.0
+285,Afghanistan,Electricity,Losses,2013,1.0,4900000000.0
+286,Afghanistan,Electricity,Losses,2012,,4040000000.0
+287,Afghanistan,Electricity,Losses,2011,,4040000000.0
+288,Afghanistan,Electricity,Losses,2010,1.0,3040000000.0
+289,Afghanistan,Electricity,Losses,2009,1.0,2200000000.0
+290,Afghanistan,Electricity,Losses,2008,1.0,2000000000.0
+291,Afghanistan,Electricity,Losses,2007,1.0,2100000000.0
+292,Afghanistan,Electricity,Losses,2006,1.0,2000000000.0
+293,Afghanistan,Electricity,Losses,2005,1.0,1500000000.0
+294,Afghanistan,Electricity,Losses,2004,1.0,1500000000.0
+295,Afghanistan,Electricity,Losses,2003,1.0,1500000000.0
+296,Afghanistan,Electricity,Losses,2002,1.0,1300000000.0
+297,Afghanistan,Electricity,Losses,2001,1.0,1250000000.0
+298,Afghanistan,Electricity,Losses,2000,1.0,1250000000.0
+299,Afghanistan,Electricity,Losses,1999,1.0,1250000000.0
+300,Afghanistan,Electricity,Losses,1998,1.0,1250000000.0
+301,Afghanistan,Electricity,Losses,1997,1.0,1250000000.0
+302,Afghanistan,Electricity,Losses,1996,1.0,1270000000.0
+303,Afghanistan,Electricity,Losses,1995,1.0,1270000000.0
+304,Afghanistan,Electricity,Losses,1994,1.0,1300000000.0
+305,Afghanistan,Electricity,Losses,1993,1.0,1300000000.0
+306,Afghanistan,Electricity,Losses,1992,1.0,1300000000.0
+307,Afghanistan,Electricity,Losses,1991,1.0,1450000000.0
+308,Afghanistan,Electricity,Losses,1990,1.0,1580000000.0
+309,Afghanistan,Electricity,Final energy consumption,2020,1.0,57600000000.0
+310,Afghanistan,Electricity,Final energy consumption,2019,1.0,57770000000.0
+311,Afghanistan,Electricity,Final energy consumption,2018,1.0,55520000000.0
+312,Afghanistan,Electricity,Final energy consumption,2017,1.0,53570000000.0
+313,Afghanistan,Electricity,Final energy consumption,2016,1.0,50800000000.0
+314,Afghanistan,Electricity,Final energy consumption,2015,1.0,45400000000.0
+315,Afghanistan,Electricity,Final energy consumption,2014,1.0,44920000000.0
+316,Afghanistan,Electricity,Final energy consumption,2013,1.0,40904000000.0
+317,Afghanistan,Electricity,Final energy consumption,2012,,36310000000.0
+318,Afghanistan,Electricity,Final energy consumption,2011,1.0,32750000000.0
+319,Afghanistan,Electricity,Final energy consumption,2010,,24300000000.0
+320,Afghanistan,Electricity,Final energy consumption,2009,1.0,15720000000.0
+321,Afghanistan,Electricity,Final energy consumption,2008,1.0,13680000000.0
+322,Afghanistan,Electricity,Final energy consumption,2007,1.0,14720000000.0
+323,Afghanistan,Electricity,Final energy consumption,2006,1.0,12550000000.0
+324,Afghanistan,Electricity,Final energy consumption,2005,1.0,8430000000.0
+325,Afghanistan,Electricity,Final energy consumption,2004,1.0,7930000000.0
+326,Afghanistan,Electricity,Final energy consumption,2003,1.0,8270000000.0
+327,Afghanistan,Electricity,Final energy consumption,2002,1.0,6520000000.0
+328,Afghanistan,Electricity,Final energy consumption,2001,1.0,6200000000.0
+329,Afghanistan,Electricity,Final energy consumption,2000,1.0,6170000000.0
+330,Afghanistan,Electricity,Final energy consumption,1999,1.0,6140000000.0
+331,Afghanistan,Electricity,Final energy consumption,1998,1.0,5940000000.0
+332,Afghanistan,Electricity,Final energy consumption,1997,1.0,6030000000.0
+333,Afghanistan,Electricity,Final energy consumption,1996,1.0,6160000000.0
+334,Afghanistan,Electricity,Final energy consumption,1995,1.0,6260000000.0
+335,Afghanistan,Electricity,Final energy consumption,1994,1.0,6400000000.0
+336,Afghanistan,Electricity,Final energy consumption,1993,1.0,6500000000.0
+337,Afghanistan,Electricity,Final energy consumption,1992,1.0,6590000000.0
+338,Afghanistan,Electricity,Final energy consumption,1991,1.0,8000000000.0
+339,Afghanistan,Electricity,Final energy consumption,1990,1.0,8970000000.0
+340,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2020,1.0,13200000000.0
+341,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2019,1.0,15100000000.0
+342,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2018,1.0,14600000000.0
+343,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2017,1.0,13900000000.0
+344,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2016,1.0,13100000000.0
+345,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2015,1.0,12200000000.0
+346,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2014,1.0,10500000000.0
+347,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2013,1.0,8000000000.0
+348,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2012,,6000000000.0
+349,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2011,,6000000000.0
+350,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2010,1.0,4500000000.0
+351,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2009,1.0,3000000000.0
+352,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2008,1.0,3000000000.0
+353,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2007,1.0,3000000000.0
+354,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2006,1.0,3000000000.0
+355,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2005,1.0,2500000000.0
+356,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2004,1.0,2500000000.0
+357,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2003,1.0,2500000000.0
+358,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2002,1.0,2200000000.0
+359,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2001,1.0,1900000000.0
+360,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",2000,1.0,2000000000.0
+361,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1999,1.0,2000000000.0
+362,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1998,1.0,2520000000.0
+363,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1997,1.0,2650000000.0
+364,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1996,1.0,2800000000.0
+365,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1995,1.0,3200000000.0
+366,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1994,1.0,3550000000.0
+367,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1993,1.0,3600000000.0
+368,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1992,1.0,3650000000.0
+369,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1991,1.0,4400000000.0
+370,Afghanistan,Electricity,"Consumption by manufacturing, construction and non-fuel industry",1990,1.0,4930000000.0
+371,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2020,1.0,13200000000.0
+372,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2019,1.0,15100000000.0
+373,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2018,1.0,14600000000.0
+374,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2017,1.0,13900000000.0
+375,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2016,1.0,13100000000.0
+376,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2015,1.0,12200000000.0
+377,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2014,1.0,10500000000.0
+378,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2013,1.0,8000000000.0
+379,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2012,,6000000000.0
+380,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2011,,6000000000.0
+381,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2010,1.0,4500000000.0
+382,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2009,1.0,3000000000.0
+383,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2008,1.0,3000000000.0
+384,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2007,1.0,3000000000.0
+385,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2006,1.0,3000000000.0
+386,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2005,1.0,2500000000.0
+387,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2004,1.0,2500000000.0
+388,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2003,1.0,2500000000.0
+389,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2002,1.0,2200000000.0
+390,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2001,1.0,1900000000.0
+391,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",2000,1.0,2000000000.0
+392,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1999,1.0,2000000000.0
+393,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1998,1.0,2520000000.0
+394,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1997,1.0,2650000000.0
+395,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1996,1.0,2800000000.0
+396,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1995,1.0,3200000000.0
+397,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1994,1.0,3550000000.0
+398,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1993,1.0,3600000000.0
+399,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1992,1.0,3650000000.0
+400,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1991,1.0,4400000000.0
+401,Afghanistan,Electricity,"Consumption by other manuf., const. and non-fuel ind.",1990,1.0,4930000000.0
+402,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2020,1.0,13200000000.0
+403,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2019,1.0,15100000000.0
+404,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2018,1.0,14600000000.0
+405,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2017,1.0,13900000000.0
+406,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2016,1.0,13100000000.0
+407,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2015,1.0,12200000000.0
+408,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2014,1.0,10500000000.0
+409,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2013,1.0,8000000000.0
+410,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2012,,6000000000.0
+411,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2011,,6000000000.0
+412,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2010,1.0,4500000000.0
+413,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2009,1.0,3000000000.0
+414,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2008,1.0,3000000000.0
+415,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2007,1.0,3000000000.0
+416,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2006,1.0,3000000000.0
+417,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2005,1.0,2500000000.0
+418,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2004,1.0,2500000000.0
+419,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2003,1.0,2500000000.0
+420,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2002,1.0,2200000000.0
+421,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2001,1.0,1900000000.0
+422,Afghanistan,Electricity,Consumption not elsewhere specified (industry),2000,1.0,2000000000.0
+423,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1999,1.0,2000000000.0
+424,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1998,1.0,2520000000.0
+425,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1997,1.0,2650000000.0
+426,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1996,1.0,2800000000.0
+427,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1995,1.0,3200000000.0
+428,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1994,1.0,3550000000.0
+429,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1993,1.0,3600000000.0
+430,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1992,1.0,3650000000.0
+431,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1991,1.0,4400000000.0
+432,Afghanistan,Electricity,Consumption not elsewhere specified (industry),1990,1.0,4930000000.0
+433,Afghanistan,Electricity,Consumption by other,2020,1.0,44400000000.0
+434,Afghanistan,Electricity,Consumption by other,2019,1.0,42670000000.0
+435,Afghanistan,Electricity,Consumption by other,2018,1.0,40920000000.0
+436,Afghanistan,Electricity,Consumption by other,2017,1.0,39670000000.0
+437,Afghanistan,Electricity,Consumption by other,2016,1.0,37700000000.0
+438,Afghanistan,Electricity,Consumption by other,2015,1.0,33200000000.0
+439,Afghanistan,Electricity,Consumption by other,2014,1.0,34420000000.0
+440,Afghanistan,Electricity,Consumption by other,2013,1.0,32904000000.0
+441,Afghanistan,Electricity,Consumption by other,2012,,30310000000.0
+442,Afghanistan,Electricity,Consumption by other,2011,1.0,26750000000.0
+443,Afghanistan,Electricity,Consumption by other,2010,,19800000000.0
+444,Afghanistan,Electricity,Consumption by other,2009,1.0,12720000000.0
+445,Afghanistan,Electricity,Consumption by other,2008,1.0,10680000000.0
+446,Afghanistan,Electricity,Consumption by other,2007,1.0,11720000000.0
+447,Afghanistan,Electricity,Consumption by other,2006,1.0,9550000000.0
+448,Afghanistan,Electricity,Consumption by other,2005,1.0,5930000000.0
+449,Afghanistan,Electricity,Consumption by other,2004,1.0,5430000000.0
+450,Afghanistan,Electricity,Consumption by other,2003,1.0,5770000000.0
+451,Afghanistan,Electricity,Consumption by other,2002,1.0,4320000000.0
+452,Afghanistan,Electricity,Consumption by other,2001,1.0,4300000000.0
+453,Afghanistan,Electricity,Consumption by other,2000,1.0,4170000000.0
+454,Afghanistan,Electricity,Consumption by other,1999,1.0,4140000000.0
+455,Afghanistan,Electricity,Consumption by other,1998,1.0,3420000000.0
+456,Afghanistan,Electricity,Consumption by other,1997,1.0,3380000000.0
+457,Afghanistan,Electricity,Consumption by other,1996,1.0,3360000000.0
+458,Afghanistan,Electricity,Consumption by other,1995,1.0,3060000000.0
+459,Afghanistan,Electricity,Consumption by other,1994,1.0,2850000000.0
+460,Afghanistan,Electricity,Consumption by other,1993,1.0,2900000000.0
+461,Afghanistan,Electricity,Consumption by other,1992,1.0,2940000000.0
+462,Afghanistan,Electricity,Consumption by other,1991,1.0,3600000000.0
+463,Afghanistan,Electricity,Consumption by other,1990,1.0,4040000000.0
+464,Afghanistan,Electricity,Consumption by households,2020,1.0,34000000000.0
+465,Afghanistan,Electricity,Consumption by households,2019,1.0,30470000000.0
+466,Afghanistan,Electricity,Consumption by households,2018,1.0,29520000000.0
+467,Afghanistan,Electricity,Consumption by households,2017,1.0,28970000000.0
+468,Afghanistan,Electricity,Consumption by households,2016,1.0,27900000000.0
+469,Afghanistan,Electricity,Consumption by households,2015,1.0,24600000000.0
+470,Afghanistan,Electricity,Consumption by households,2014,1.0,23000000000.0
+471,Afghanistan,Electricity,Consumption by households,2013,1.0,21000000000.0
+472,Afghanistan,Electricity,Consumption by households,2012,,19220000000.0
+473,Afghanistan,Electricity,Consumption by households,2011,1.0,18800000000.0
+474,Afghanistan,Electricity,Consumption by households,2010,,13870000000.0
+475,Afghanistan,Electricity,Consumption by households,2009,1.0,9920000000.0
+476,Afghanistan,Electricity,Consumption by households,2008,1.0,8080000000.0
+477,Afghanistan,Electricity,Consumption by households,2007,1.0,3000000000.0
+478,Afghanistan,Electricity,Consumption by households,2006,1.0,2400000000.0
+479,Afghanistan,Electricity,Consumption by households,2005,1.0,1900000000.0
+480,Afghanistan,Electricity,Consumption by households,2004,1.0,1500000000.0
+481,Afghanistan,Electricity,Consumption by households,2003,1.0,1350000000.0
+482,Afghanistan,Electricity,Consumption by households,2002,1.0,1250000000.0
+483,Afghanistan,Electricity,Consumption by households,2001,1.0,980000000.0
+484,Afghanistan,Electricity,Consumption by households,2000,1.0,1000000000.0
+485,Afghanistan,Electricity,Consumption by households,1999,1.0,1000000000.0
+486,Afghanistan,Electricity,Consumption by households,1998,1.0,1150000000.0
+487,Afghanistan,Electricity,Consumption by households,1997,1.0,1220000000.0
+488,Afghanistan,Electricity,Consumption by households,1996,1.0,1620000000.0
+489,Afghanistan,Electricity,Consumption by households,1995,1.0,1800000000.0
+490,Afghanistan,Electricity,Consumption by households,1994,1.0,2000000000.0
+491,Afghanistan,Electricity,Consumption by households,1993,1.0,2030000000.0
+492,Afghanistan,Electricity,Consumption by households,1992,1.0,2050000000.0
+493,Afghanistan,Electricity,Consumption by households,1991,1.0,2500000000.0
+494,Afghanistan,Electricity,Consumption by households,1990,1.0,2820000000.0
+495,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2020,1.0,2200000000.0
+496,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2019,1.0,2000000000.0
+497,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2018,1.0,1800000000.0
+498,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2017,1.0,1900000000.0
+499,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2016,1.0,1700000000.0
+500,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2015,1.0,1500000000.0
+501,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2014,1.0,1500000000.0
+502,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2013,1.0,1500000000.0
+503,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2012,,1000000000.0
+504,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2011,,1000000000.0
+505,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2010,1.0,1200000000.0
+506,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2009,1.0,1000000000.0
+507,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2008,1.0,1000000000.0
+508,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2007,1.0,1000000000.0
+509,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2006,1.0,600000000.0
+510,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2005,1.0,200000000.0
+511,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2004,1.0,200000000.0
+512,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2003,1.0,150000000.0
+513,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2002,1.0,150000000.0
+514,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2001,1.0,100000000.0
+515,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",2000,1.0,100000000.0
+516,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1999,1.0,120000000.0
+517,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1998,1.0,150000000.0
+518,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1997,1.0,160000000.0
+519,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1996,1.0,160000000.0
+520,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1995,1.0,180000000.0
+521,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1994,1.0,200000000.0
+522,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1993,1.0,210000000.0
+523,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1992,1.0,220000000.0
+524,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1991,1.0,280000000.0
+525,Afghanistan,Electricity,"Consumption in agriculture, forestry and fishing",1990,1.0,320000000.0
+526,Afghanistan,Electricity,Consumption not elsewhere specified (other),2014,1.0,3420000000.0
+527,Afghanistan,Electricity,Consumption not elsewhere specified (other),2013,1.0,8050000000.0
+528,Afghanistan,Electricity,Consumption not elsewhere specified (other),2012,1.0,7200000000.0
+529,Afghanistan,Electricity,Consumption not elsewhere specified (other),2011,,3550000000.0
+530,Afghanistan,Electricity,Consumption not elsewhere specified (other),2010,,3130000000.0
+531,Afghanistan,Electricity,Consumption not elsewhere specified (other),2007,1.0,6320000000.0
+532,Afghanistan,Electricity,Consumption not elsewhere specified (other),2006,1.0,5450000000.0
+533,Afghanistan,Electricity,Consumption not elsewhere specified (other),2005,1.0,3030000000.0
+534,Afghanistan,Electricity,Consumption not elsewhere specified (other),2004,1.0,3130000000.0
+535,Afghanistan,Electricity,Consumption not elsewhere specified (other),2003,1.0,3870000000.0
+536,Afghanistan,Electricity,Consumption not elsewhere specified (other),2002,1.0,2570000000.0
+537,Afghanistan,Electricity,Consumption not elsewhere specified (other),2001,1.0,2930000000.0
+538,Afghanistan,Electricity,Consumption not elsewhere specified (other),2000,1.0,2780000000.0
+539,Afghanistan,Electricity,Consumption not elsewhere specified (other),1999,1.0,2730000000.0
+540,Afghanistan,Electricity,Consumption not elsewhere specified (other),1998,1.0,1800000000.0
+541,Afghanistan,Electricity,Consumption not elsewhere specified (other),1997,1.0,1650000000.0
+542,Afghanistan,Electricity,Consumption not elsewhere specified (other),1996,1.0,1100000000.0
+543,Afghanistan,Electricity,Consumption not elsewhere specified (other),1995,1.0,500000000.0
+544,Afghanistan,Electricity,Consumption by commercial and public services,2020,1.0,8200000000.0
+545,Afghanistan,Electricity,Consumption by commercial and public services,2019,1.0,10200000000.0
+546,Afghanistan,Electricity,Consumption by commercial and public services,2018,1.0,9600000000.0
+547,Afghanistan,Electricity,Consumption by commercial and public services,2017,1.0,8800000000.0
+548,Afghanistan,Electricity,Consumption by commercial and public services,2016,1.0,8100000000.0
+549,Afghanistan,Electricity,Consumption by commercial and public services,2015,1.0,7100000000.0
+550,Afghanistan,Electricity,Consumption by commercial and public services,2014,1.0,6500000000.0
+551,Afghanistan,Electricity,Consumption by commercial and public services,2013,,2354000000.0
+552,Afghanistan,Electricity,Consumption by commercial and public services,2012,,2890000000.0
+553,Afghanistan,Electricity,Consumption by commercial and public services,2011,1.0,3400000000.0
+554,Afghanistan,Electricity,Consumption by commercial and public services,2010,1.0,1600000000.0
+555,Afghanistan,Electricity,Consumption by commercial and public services,2009,1.0,1800000000.0
+556,Afghanistan,Electricity,Consumption by commercial and public services,2008,1.0,1600000000.0
+557,Afghanistan,Electricity,Consumption by commercial and public services,2007,1.0,1400000000.0
+558,Afghanistan,Electricity,Consumption by commercial and public services,2006,1.0,1100000000.0
+559,Afghanistan,Electricity,Consumption by commercial and public services,2005,1.0,800000000.0
+560,Afghanistan,Electricity,Consumption by commercial and public services,2004,1.0,600000000.0
+561,Afghanistan,Electricity,Consumption by commercial and public services,2003,1.0,400000000.0
+562,Afghanistan,Electricity,Consumption by commercial and public services,2002,1.0,350000000.0
+563,Afghanistan,Electricity,Consumption by commercial and public services,2001,1.0,290000000.0
+564,Afghanistan,Electricity,Consumption by commercial and public services,2000,1.0,290000000.0
+565,Afghanistan,Electricity,Consumption by commercial and public services,1999,1.0,290000000.0
+566,Afghanistan,Electricity,Consumption by commercial and public services,1998,1.0,320000000.0
+567,Afghanistan,Electricity,Consumption by commercial and public services,1997,1.0,350000000.0
+568,Afghanistan,Electricity,Consumption by commercial and public services,1996,1.0,480000000.0
+569,Afghanistan,Electricity,Consumption by commercial and public services,1995,1.0,580000000.0
+570,Afghanistan,Electricity,Consumption by commercial and public services,1994,1.0,650000000.0
+571,Afghanistan,Electricity,Consumption by commercial and public services,1993,1.0,660000000.0
+572,Afghanistan,Electricity,Consumption by commercial and public services,1992,1.0,670000000.0
+573,Afghanistan,Electricity,Consumption by commercial and public services,1991,1.0,820000000.0
+574,Afghanistan,Electricity,Consumption by commercial and public services,1990,1.0,900000000.0
+575,Afghanistan,Electricity,"total production, main activity",2020,,10308800000.000002
+576,Afghanistan,Electricity,"total production, main activity",2019,,12855000000.0
+577,Afghanistan,Electricity,"total production, main activity",2018,,9787200000.0
+578,Afghanistan,Electricity,"total production, main activity",2017,,10981400000.000002
+579,Afghanistan,Electricity,"total production, main activity",2016,,10763000000.0
+580,Afghanistan,Electricity,"total production, main activity",2015,,10337000000.0
+581,Afghanistan,Electricity,"total production, main activity",2014,,10490000000.0
+582,Afghanistan,Electricity,"total production, main activity",2013,1.0,7463000000.0
+583,Afghanistan,Electricity,"total production, main activity",2012,,7210000000.0
+584,Afghanistan,Electricity,"total production, main activity",2011,,7190000000.0
+585,Afghanistan,Electricity,"total production, main activity",2010,,6220000000.0
+586,Afghanistan,Electricity,"total production, main activity",2009,,6190000000.0
+587,Afghanistan,Electricity,"total production, main activity",2008,,5590000000.0
+588,Afghanistan,Electricity,"total production, main activity",2007,,6790000000.0
+589,Afghanistan,Electricity,"total production, main activity",2006,,6810000000.0
+590,Afghanistan,Electricity,"total production, main activity",2005,,6910000000.0
+591,Afghanistan,Electricity,"total production, main activity",2004,,6220000000.0
+592,Afghanistan,Electricity,"total production, main activity",2003,,8260000000.0
+593,Afghanistan,Electricity,"total production, main activity",2002,,5572000000.0
+594,Afghanistan,Electricity,"total production, main activity",2001,,4897000000.0
+595,Afghanistan,Electricity,"total production, main activity",2000,,5027000000.0
+596,Afghanistan,Electricity,"total production, main activity",1999,1.0,5200000000.0
+597,Afghanistan,Electricity,"total production, main activity",1998,1.0,5100000000.0
+598,Afghanistan,Electricity,"total production, main activity",1997,1.0,5050000000.0
+599,Afghanistan,Electricity,"total production, main activity",1996,1.0,5000000000.0
+600,Afghanistan,Electricity,"total production, main activity",1995,1.0,4920000000.0
+601,Afghanistan,Electricity,"total production, main activity",1994,1.0,5000000000.0
+602,Afghanistan,Electricity,"total production, main activity",1993,1.0,5050000000.0
+603,Afghanistan,Electricity,"total production, main activity",1992,1.0,5100000000.0
+604,Afghanistan,Electricity,"total production, main activity",1991,1.0,7350000000.0
+605,Afghanistan,Electricity,"total production, main activity",1990,1.0,8140000000.0
+606,Afghanistan,Electricity,Gross demand,2020,,64338800000.0
+607,Afghanistan,Electricity,Gross demand,2019,,64490000000.0
+608,Afghanistan,Electricity,Gross demand,2018,,61970000000.0
+609,Afghanistan,Electricity,Gross demand,2017,,59763000000.0
+610,Afghanistan,Electricity,Gross demand,2016,,56715000000.0
+611,Afghanistan,Electricity,Gross demand,2015,,50629000000.0
+612,Afghanistan,Electricity,Gross demand,2014,,50118000000.0
+613,Afghanistan,Electricity,Gross demand,2013,,45805000000.0
+614,Afghanistan,Electricity,Gross demand,2012,,40380000000.0
+615,Afghanistan,Electricity,Gross demand,2011,,36870000000.0
+616,Afghanistan,Electricity,Gross demand,2010,,27320000000.0
+617,Afghanistan,Electricity,Gross demand,2009,,17930000000.0
+618,Afghanistan,Electricity,Gross demand,2008,,15680000000.0
+619,Afghanistan,Electricity,Gross demand,2007,,16820000000.0
+620,Afghanistan,Electricity,Gross demand,2006,,14550000000.0
+621,Afghanistan,Electricity,Gross demand,2005,,9930000000.0
+622,Afghanistan,Electricity,Gross demand,2004,,9430000000.0
+623,Afghanistan,Electricity,Gross demand,2003,,9770000000.0
+624,Afghanistan,Electricity,Gross demand,2002,,7822000000.0
+625,Afghanistan,Electricity,Gross demand,2001,,7451000000.0
+626,Afghanistan,Electricity,Gross demand,2000,,7417000000.0
+627,Afghanistan,Electricity,Gross demand,1999,,7390000000.0
+628,Afghanistan,Electricity,Gross demand,1998,,7190000000.0
+629,Afghanistan,Electricity,Gross demand,1997,,7280000000.0
+630,Afghanistan,Electricity,Gross demand,1996,,7430000000.0
+631,Afghanistan,Electricity,Gross demand,1995,,7530000000.0
+632,Afghanistan,Electricity,Gross demand,1994,,7700000000.0
+633,Afghanistan,Electricity,Gross demand,1993,,7800000000.0
+634,Afghanistan,Electricity,Gross demand,1992,,7890000000.0
+635,Afghanistan,Electricity,Gross demand,1991,,9450000000.0
+636,Afghanistan,Electricity,Gross demand,1990,,10550000000.0
+637,Afghanistan,Electricity,"total production, autoproducer",2020,1.0,3060000000.0
+638,Afghanistan,Electricity,"total production, autoproducer",2019,1.0,3060000000.0
+639,Afghanistan,Electricity,"total production, autoproducer",2018,1.0,2870000000.0
+640,Afghanistan,Electricity,"total production, autoproducer",2017,1.0,3219000000.0
+641,Afghanistan,Electricity,"total production, autoproducer",2016,1.0,3176000000.0
+642,Afghanistan,Electricity,"total production, autoproducer",2015,1.0,3050000000.0
+643,Afghanistan,Electricity,"total production, autoproducer",2014,1.0,3070000000.0
+644,Afghanistan,Electricity,"total production, autoproducer",2013,1.0,2760000000.0
+645,Afghanistan,Electricity,"total production, autoproducer",2012,,3010000000.0
+646,Afghanistan,Electricity,"total production, autoproducer",2011,,2860000000.0
+647,Afghanistan,Electricity,"total production, autoproducer",2010,,2700000000.0
+648,Afghanistan,Electricity,"total production, autoproducer",2009,,2700000000.0
+649,Afghanistan,Electricity,"total production, autoproducer",2008,,2290000000.0
+650,Afghanistan,Electricity,"total production, autoproducer",2007,,2710000000.0
+651,Afghanistan,Electricity,"total production, autoproducer",2006,,2320000000.0
+652,Afghanistan,Electricity,"total production, autoproducer",2005,,2150000000.0
+653,Afghanistan,Electricity,"total production, autoproducer",2004,,1750000000.0
+654,Afghanistan,Electricity,"total production, autoproducer",2003,1.0,950000000.0
+655,Afghanistan,Electricity,"total production, autoproducer",2002,1.0,1650000000.0
+656,Afghanistan,Electricity,"total production, autoproducer",2001,,2014000000.0
+657,Afghanistan,Electricity,"total production, autoproducer",2000,1.0,1850000000.0
+658,Afghanistan,Electricity,"total production, autoproducer",1999,1.0,1650000000.0
+659,Afghanistan,Electricity,"total production, autoproducer",1998,1.0,1550000000.0
+660,Afghanistan,Electricity,"total production, autoproducer",1997,1.0,1650000000.0
+661,Afghanistan,Electricity,"total production, autoproducer",1996,1.0,1750000000.0
+662,Afghanistan,Electricity,"total production, autoproducer",1995,1.0,1830000000.0
+663,Afghanistan,Electricity,"total production, autoproducer",1994,1.0,1870000000.0
+664,Afghanistan,Electricity,"total production, autoproducer",1993,1.0,1900000000.0
+665,Afghanistan,Electricity,"total production, autoproducer",1992,1.0,1930000000.0
+666,Afghanistan,Electricity,"total production, autoproducer",1991,1.0,2800000000.0
+667,Afghanistan,Electricity,"total production, autoproducer",1990,1.0,3140000000.0
+0,Afghanistan,Additives and Oxygenates,Imports,2020,1.0,3332000.0
+1,Afghanistan,Additives and Oxygenates,Imports,2019,,3332000.0
+2,Afghanistan,Additives and Oxygenates,Transformation,2020,1.0,3332000.0
+3,Afghanistan,Additives and Oxygenates,Transformation,2019,1.0,3332000.0
+4,Afghanistan,Additives and Oxygenates,Transformation in oil refineries,2020,1.0,3332000.0
+5,Afghanistan,Additives and Oxygenates,Transformation in oil refineries,2019,1.0,3332000.0
+6,Afghanistan,Additives and Oxygenates,Total energy supply,2020,1.0,3332000.0
+7,Afghanistan,Additives and Oxygenates,Total energy supply,2019,,3332000.0
+0,Afghanistan,Conventional crude oil,imports,2020,,590850000.0
+1,Afghanistan,Conventional crude oil,imports,2019,,1385280000.0
+2,Afghanistan,Conventional crude oil,imports,2018,,2162160000.0
+3,Afghanistan,Conventional crude oil,imports,2017,,1366560000.0
+4,Afghanistan,Conventional crude oil,imports,2016,1.0,1287000000.0
+5,Afghanistan,Conventional crude oil,imports,2015,1.0,1287000000.0
+6,Afghanistan,Conventional crude oil,imports,2014,1.0,1170000000.0
+7,Afghanistan,Conventional crude oil,imports,2013,1.0,1053000000.0
+8,Afghanistan,Conventional crude oil,imports,2012,1.0,936000000.0
+9,Afghanistan,Conventional crude oil,imports,2011,1.0,585000000.0
+10,Afghanistan,Conventional crude oil,transformation,2020,1.0,590850000.0
+11,Afghanistan,Conventional crude oil,transformation,2019,1.0,1385280000.0
+12,Afghanistan,Conventional crude oil,transformation,2018,1.0,2162160000.0
+13,Afghanistan,Conventional crude oil,transformation,2017,1.0,1366560000.0
+14,Afghanistan,Conventional crude oil,transformation,2016,1.0,1287000000.0
+15,Afghanistan,Conventional crude oil,transformation,2015,1.0,1287000000.0
+16,Afghanistan,Conventional crude oil,transformation,2014,1.0,1170000000.0
+17,Afghanistan,Conventional crude oil,transformation,2013,1.0,1053000000.0
+18,Afghanistan,Conventional crude oil,transformation,2012,1.0,936000000.0
+19,Afghanistan,Conventional crude oil,transformation,2011,1.0,585000000.0
+20,Afghanistan,Conventional crude oil,transformation in oil refineries,2020,1.0,590850000.0
+21,Afghanistan,Conventional crude oil,transformation in oil refineries,2019,1.0,1385280000.0
+22,Afghanistan,Conventional crude oil,transformation in oil refineries,2018,1.0,2162160000.0
+23,Afghanistan,Conventional crude oil,transformation in oil refineries,2017,1.0,1366560000.0
+24,Afghanistan,Conventional crude oil,transformation in oil refineries,2016,1.0,1287000000.0
+25,Afghanistan,Conventional crude oil,transformation in oil refineries,2015,1.0,1287000000.0
+26,Afghanistan,Conventional crude oil,transformation in oil refineries,2014,1.0,1170000000.0
+27,Afghanistan,Conventional crude oil,transformation in oil refineries,2013,1.0,1053000000.0
+28,Afghanistan,Conventional crude oil,transformation in oil refineries,2012,1.0,936000000.0
+29,Afghanistan,Conventional crude oil,transformation in oil refineries,2011,1.0,585000000.0
+30,Afghanistan,Crude petroleum,refinery capacity,2020,1.0,2164500000.0
+31,Afghanistan,Crude petroleum,refinery capacity,2019,1.0,2164500000.0
+32,Afghanistan,Crude petroleum,refinery capacity,2018,1.0,2164500000.0
+33,Afghanistan,Crude petroleum,refinery capacity,2017,,1755000000.0
+34,Afghanistan,Crude petroleum,refinery capacity,2016,,1755000000.0
+35,Afghanistan,Crude petroleum,refinery capacity,2015,,1755000000.0
+36,Afghanistan,Crude petroleum,refinery capacity,2014,,1755000000.0
+37,Afghanistan,Crude petroleum,refinery capacity,2013,,1755000000.0
+38,Afghanistan,Crude petroleum,refinery capacity,2012,,1755000000.0
+39,Afghanistan,Crude petroleum,refinery capacity,2011,,1755000000.0
+40,Afghanistan,Conventional crude oil,total energy supply,2020,,590850000.0
+41,Afghanistan,Conventional crude oil,total energy supply,2019,,1385280000.0
+42,Afghanistan,Conventional crude oil,total energy supply,2018,,2162160000.0
+43,Afghanistan,Conventional crude oil,total energy supply,2017,,1366560000.0
+44,Afghanistan,Conventional crude oil,total energy supply,2016,1.0,1287000000.0
+45,Afghanistan,Conventional crude oil,total energy supply,2015,1.0,1287000000.0
+46,Afghanistan,Conventional crude oil,total energy supply,2014,1.0,1170000000.0
+47,Afghanistan,Conventional crude oil,total energy supply,2013,1.0,1053000000.0
+48,Afghanistan,Conventional crude oil,total energy supply,2012,1.0,936000000.0
+49,Afghanistan,Conventional crude oil,total energy supply,2011,1.0,585000000.0
+0,Afghanistan,Hard coal,production,2020,1.0,392942800.0
+1,Afghanistan,Hard coal,production,2019,,14844660000.0
+2,Afghanistan,Hard coal,production,2018,,16968300000.0
+3,Afghanistan,Hard coal,production,2017,,15208316000.0
+4,Afghanistan,Hard coal,production,2016,,11785508000.0
+5,Afghanistan,Hard coal,production,2015,,9471712000.0
+6,Afghanistan,Hard coal,production,2014,,10530756000.0
+7,Afghanistan,Hard coal,production,2013,,9348180000.0
+8,Afghanistan,Hard coal,production,2012,,8605600000.0
+9,Afghanistan,Hard coal,production,2011,,10271200000.0
+10,Afghanistan,Hard coal,production,2010,,5031500000.0
+11,Afghanistan,Hard coal,production,2009,,3470000000.0
+12,Afghanistan,Hard coal,production,2008,,2408180000.0
+13,Afghanistan,Hard coal,production,2007,,1686420000.0
+14,Afghanistan,Hard coal,production,2006,,242900000.0
+15,Afghanistan,Hard coal,production,2005,1.0,229020000.0
+16,Afghanistan,Hard coal,production,2004,,235960000.0
+17,Afghanistan,Hard coal,production,2003,,242900000.0
+18,Afghanistan,Hard coal,production,2002,,145740000.0
+19,Afghanistan,Hard coal,production,2001,,180440000.0
+20,Afghanistan,Hard coal,production,2000,,6940000.0
+21,Afghanistan,Hard coal,production,1999,,6940000.0
+22,Afghanistan,Hard coal,production,1998,,13880000.0
+23,Afghanistan,Hard coal,production,1997,1.0,13880000.0
+24,Afghanistan,Hard coal,production,1996,,20820000.0
+25,Afghanistan,Hard coal,production,1995,1.0,34700000.0
+26,Afghanistan,Hard coal,production,1994,1.0,41640000.0
+27,Afghanistan,Hard coal,production,1993,1.0,48580000.0
+28,Afghanistan,Hard coal,production,1992,,55520000.0
+29,Afghanistan,Hard coal,production,1991,,652360000.0
+30,Afghanistan,Hard coal,production,1990,,728700000.0
+31,Afghanistan,Hard coal,imports,2020,,0.0
+32,Afghanistan,Hard coal,imports,2019,,3470000.0
+33,Afghanistan,Hard coal,imports,1992,,0.0
+34,Afghanistan,Hard coal,imports,1991,1.0,0.0
+35,Afghanistan,Hard coal,imports,1990,1.0,0.0
+36,Afghanistan,Hard coal,exports,2020,1.0,1984978800.0
+37,Afghanistan,Hard coal,exports,2019,,5357680000.0
+38,Afghanistan,Hard coal,exports,2018,,7751980000.0
+39,Afghanistan,Hard coal,exports,2017,,7037160000.0
+40,Afghanistan,Hard coal,exports,2016,,5087020000.0
+41,Afghanistan,Hard coal,exports,2015,,2949500000.0
+42,Afghanistan,Hard coal,exports,2014,,1748880000.0
+43,Afghanistan,Hard coal,exports,2013,,1603140000.0
+44,Afghanistan,Hard coal,exports,2012,,1408820000.0
+45,Afghanistan,Hard coal,exports,2011,,319240000.0
+46,Afghanistan,Hard coal,exports,2010,,138800000.0
+47,Afghanistan,Hard coal,exports,2009,,55520000.0
+48,Afghanistan,Hard coal,exports,1992,,0.0
+49,Afghanistan,Hard coal,exports,1991,1.0,0.0
+50,Afghanistan,Hard coal,exports,1990,1.0,0.0
+51,Afghanistan,Hard coal,transformation,2019,1.0,957720000.0
+52,Afghanistan,Hard coal,transformation,2018,1.0,1013240000.0
+53,Afghanistan,Hard coal,transformation,2017,1.0,1000748000.0
+54,Afghanistan,Hard coal,transformation,2016,1.0,958414000.0
+55,Afghanistan,Hard coal,transformation,2015,1.0,831412000.0
+56,Afghanistan,Hard coal,transformation,2014,1.0,893177999.9999999
+57,Afghanistan,Hard coal,transformation,2013,1.0,864030000.0
+58,Afghanistan,Hard coal,transformation,2012,1.0,685672000.0
+59,Afghanistan,Hard coal,transformation,2011,1.0,789772000.0
+60,Afghanistan,Hard coal,transformation,2010,1.0,650972000.0
+61,Afghanistan,Hard coal,transformation,2009,1.0,392804000.0
+62,Afghanistan,Hard coal,transformation,2008,1.0,425630200.0
+63,Afghanistan,Hard coal,transformation,2007,1.0,485800000.0
+64,Afghanistan,Hard coal,transformation,2006,1.0,485800000.0
+65,Afghanistan,Hard coal,transformation,2005,1.0,208200000.0
+66,Afghanistan,Hard coal,transformation,2004,1.0,208200000.0
+67,Afghanistan,Hard coal,transformation,2003,1.0,277600000.0
+68,Afghanistan,Hard coal,transformation,2002,1.0,138800000.0
+69,Afghanistan,Hard coal,transformation,2001,1.0,138800000.0
+70,Afghanistan,Hard coal,transformation,1991,1.0,277600000.0
+71,Afghanistan,Hard coal,transformation,1990,1.0,277600000.0
+72,Afghanistan,Hard coal,transformation in coke ovens,2019,1.0,624600000.0
+73,Afghanistan,Hard coal,transformation in coke ovens,2018,1.0,624600000.0
+74,Afghanistan,Hard coal,transformation in coke ovens,2017,1.0,632928000.0
+75,Afghanistan,Hard coal,transformation in coke ovens,2016,1.0,611414000.0
+76,Afghanistan,Hard coal,transformation in coke ovens,2015,1.0,491352000.0
+77,Afghanistan,Hard coal,transformation in coke ovens,2014,1.0,546178000.0
+78,Afghanistan,Hard coal,transformation in coke ovens,2013,1.0,482330000.0
+79,Afghanistan,Hard coal,transformation in coke ovens,2012,1.0,442772000.0
+80,Afghanistan,Hard coal,transformation in coke ovens,2011,1.0,442772000.0
+81,Afghanistan,Hard coal,transformation in coke ovens,2010,1.0,442772000.0
+82,Afghanistan,Hard coal,transformation in coke ovens,2009,1.0,184604000.0
+83,Afghanistan,Hard coal,transformation in coke ovens,2008,1.0,9230200.0
+84,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2019,1.0,333120000.0
+85,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2018,1.0,388640000.0
+86,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2017,1.0,367820000.0
+87,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2016,1.0,347000000.0
+88,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2015,1.0,340060000.0
+89,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2014,1.0,347000000.0
+90,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2013,1.0,381700000.0
+91,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2012,1.0,242900000.0
+92,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2011,,347000000.0
+93,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2010,,208200000.0
+94,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2009,1.0,208200000.0
+95,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2008,1.0,416400000.0
+96,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2007,1.0,485800000.0
+97,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2006,1.0,485800000.0
+98,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2005,1.0,208200000.0
+99,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2004,1.0,208200000.0
+100,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2003,1.0,277600000.0
+101,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2002,1.0,138800000.0
+102,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",2001,1.0,138800000.0
+103,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",1991,1.0,277600000.0
+104,Afghanistan,Hard coal,"transformation in electricity, CHP and heat plants",1990,1.0,277600000.0
+105,Afghanistan,Hard coal,Hard coal,2019,1.0,319240000.0
+106,Afghanistan,Hard coal,Hard coal,2018,1.0,374760000.0
+107,Afghanistan,Hard coal,Hard coal,2017,1.0,353940000.0
+108,Afghanistan,Hard coal,Hard coal,2016,1.0,333120000.0
+109,Afghanistan,Hard coal,Hard coal,2015,1.0,326180000.0
+110,Afghanistan,Hard coal,Hard coal,2014,1.0,333120000.0
+111,Afghanistan,Hard coal,Hard coal,2013,1.0,374760000.0
+112,Afghanistan,Hard coal,Hard coal,2012,1.0,235960000.0
+113,Afghanistan,Hard coal,Hard coal,2011,1.0,340060000.0
+114,Afghanistan,Hard coal,Hard coal,2010,1.0,201260000.0
+115,Afghanistan,Hard coal,Hard coal,2009,1.0,201260000.0
+116,Afghanistan,Hard coal,Hard coal,2008,1.0,340060000.0
+117,Afghanistan,Hard coal,Hard coal,2007,1.0,430280000.0
+118,Afghanistan,Hard coal,Hard coal,2006,1.0,360880000.0
+119,Afghanistan,Hard coal,Hard coal,2005,1.0,159620000.0
+120,Afghanistan,Hard coal,Hard coal,2004,1.0,173500000.0
+121,Afghanistan,Hard coal,Hard coal,2003,1.0,166560000.0
+122,Afghanistan,Hard coal,Hard coal,2002,1.0,0.0
+123,Afghanistan,Hard coal,Hard coal,2001,1.0,0.0
+124,Afghanistan,Hard coal,Hard coal,1991,1.0,55520000.0
+125,Afghanistan,Hard coal,Hard coal,1990,1.0,55520000.0
+126,Afghanistan,Hard coal,Hard coal,2019,1.0,13880000.0
+127,Afghanistan,Hard coal,Hard coal,2018,1.0,13880000.0
+128,Afghanistan,Hard coal,Hard coal,2017,1.0,13880000.0
+129,Afghanistan,Hard coal,Hard coal,2016,1.0,13880000.0
+130,Afghanistan,Hard coal,Hard coal,2015,1.0,13880000.0
+131,Afghanistan,Hard coal,Hard coal,2014,1.0,13880000.0
+132,Afghanistan,Hard coal,Hard coal,2013,1.0,6940000.0
+133,Afghanistan,Hard coal,Hard coal,2012,1.0,6940000.0
+134,Afghanistan,Hard coal,Hard coal,2011,1.0,6940000.0
+135,Afghanistan,Hard coal,Hard coal,2010,1.0,6940000.0
+136,Afghanistan,Hard coal,Hard coal,2009,1.0,6940000.0
+137,Afghanistan,Hard coal,Hard coal,2008,1.0,76340000.0
+138,Afghanistan,Hard coal,Hard coal,2007,1.0,55520000.0
+139,Afghanistan,Hard coal,Hard coal,2006,1.0,124920000.0
+140,Afghanistan,Hard coal,Hard coal,2005,1.0,48580000.0
+141,Afghanistan,Hard coal,Hard coal,2004,1.0,34700000.0
+142,Afghanistan,Hard coal,Hard coal,2003,1.0,111040000.0
+143,Afghanistan,Hard coal,Hard coal,2002,1.0,138800000.0
+144,Afghanistan,Hard coal,Hard coal,2001,1.0,138800000.0
+145,Afghanistan,Hard coal,Hard coal,1991,1.0,222080000.0
+146,Afghanistan,Hard coal,Hard coal,1990,1.0,222080000.0
+147,Afghanistan,Hard coal,final energy consumption,2019,1.0,8532730000.0
+148,Afghanistan,Hard coal,final energy consumption,2018,1.0,8203080000.0
+149,Afghanistan,Hard coal,final energy consumption,2017,1.0,7170408000.0
+150,Afghanistan,Hard coal,final energy consumption,2016,1.0,5740074000.0
+151,Afghanistan,Hard coal,final energy consumption,2015,1.0,5690800000.0
+152,Afghanistan,Hard coal,final energy consumption,2014,1.0,7888698000.0
+153,Afghanistan,Hard coal,final energy consumption,2013,1.0,6881010000.0
+154,Afghanistan,Hard coal,final energy consumption,2012,1.0,6513884000.0
+155,Afghanistan,Hard coal,final energy consumption,2011,1.0,9163576000.0
+156,Afghanistan,Hard coal,final energy consumption,2010,1.0,4238258000.000001
+157,Afghanistan,Hard coal,final energy consumption,2009,1.0,3022370000.0
+158,Afghanistan,Hard coal,final energy consumption,2008,1.0,1984840000.0
+159,Afghanistan,Hard coal,final energy consumption,2007,1.0,1200620000.0
+160,Afghanistan,Hard coal,final energy consumption,2006,1.0,34700000.0
+161,Afghanistan,Hard coal,final energy consumption,2005,1.0,20820000.0
+162,Afghanistan,Hard coal,final energy consumption,2004,1.0,27760000.0
+163,Afghanistan,Hard coal,final energy consumption,2003,1.0,34700000.0
+164,Afghanistan,Hard coal,final energy consumption,2002,1.0,6940000.0
+165,Afghanistan,Hard coal,final energy consumption,2001,1.0,41640000.0
+166,Afghanistan,Hard coal,final energy consumption,2000,,6940000.0
+167,Afghanistan,Hard coal,final energy consumption,1999,1.0,6940000.0
+168,Afghanistan,Hard coal,final energy consumption,1998,1.0,13880000.0
+169,Afghanistan,Hard coal,final energy consumption,1997,1.0,13880000.0
+170,Afghanistan,Hard coal,final energy consumption,1996,1.0,20820000.0
+171,Afghanistan,Hard coal,final energy consumption,1995,1.0,34700000.0
+172,Afghanistan,Hard coal,final energy consumption,1994,1.0,41640000.0
+173,Afghanistan,Hard coal,final energy consumption,1993,1.0,48580000.0
+174,Afghanistan,Hard coal,final energy consumption,1992,1.0,55520000.0
+175,Afghanistan,Hard coal,final energy consumption,1991,1.0,374760000.0
+176,Afghanistan,Hard coal,final energy consumption,1990,1.0,451100000.0
+177,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2019,1.0,8532730000.0
+178,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2018,1.0,8203080000.0
+179,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2017,1.0,7170408000.0
+180,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2016,1.0,5740074000.0
+181,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2015,1.0,5690800000.0
+182,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2014,1.0,7888698000.0
+183,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2013,1.0,6881010000.0
+184,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2012,1.0,6513884000.0
+185,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2011,1.0,9163576000.0
+186,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2010,1.0,4238258000.000001
+187,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2009,1.0,3022370000.0
+188,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2008,1.0,1984840000.0
+189,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2007,1.0,1200620000.0
+190,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2006,1.0,34700000.0
+191,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2005,1.0,20820000.0
+192,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2004,1.0,27760000.0
+193,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2003,1.0,34700000.0
+194,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2002,1.0,6940000.0
+195,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2001,1.0,41640000.0
+196,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",2000,,6940000.0
+197,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1999,1.0,6940000.0
+198,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1998,1.0,13880000.0
+199,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1997,1.0,13880000.0
+200,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1996,1.0,20820000.0
+201,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1995,1.0,34700000.0
+202,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1994,1.0,41640000.0
+203,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1993,1.0,48580000.0
+204,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1992,1.0,55520000.0
+205,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1991,1.0,374760000.0
+206,Afghanistan,Hard coal,"consumption by manufacturing, construction and non-fuel mining industry",1990,1.0,451100000.0
+207,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2019,1.0,8532730000.0
+208,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2018,1.0,8203080000.0
+209,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2017,1.0,7170408000.0
+210,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2016,1.0,5740074000.0
+211,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2015,1.0,5690800000.0
+212,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2014,1.0,7888698000.0
+213,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2013,1.0,6881010000.0
+214,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2012,1.0,6513884000.0
+215,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2011,1.0,9163576000.0
+216,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2010,1.0,4238258000.000001
+217,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2009,1.0,3022370000.0
+218,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2008,1.0,1984840000.0
+219,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2007,1.0,1200620000.0
+220,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2006,1.0,34700000.0
+221,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2005,1.0,20820000.0
+222,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2004,1.0,27760000.0
+223,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2003,1.0,34700000.0
+224,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2002,1.0,6940000.0
+225,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2001,1.0,41640000.0
+226,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",2000,,6940000.0
+227,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1999,1.0,6940000.0
+228,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1998,1.0,13880000.0
+229,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1997,1.0,13880000.0
+230,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1996,1.0,20820000.0
+231,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1995,1.0,34700000.0
+232,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1994,1.0,41640000.0
+233,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1993,1.0,48580000.0
+234,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1992,1.0,55520000.0
+235,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1991,1.0,374760000.0
+236,Afghanistan,Hard coal,"consumption by other manuf., const. and non-fuel ind.",1990,1.0,451100000.0
+237,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2019,1.0,8532730000.0
+238,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2018,1.0,8203080000.0
+239,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2017,1.0,7170408000.0
+240,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2016,1.0,5740074000.0
+241,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2015,1.0,5690800000.0
+242,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2014,1.0,7888698000.0
+243,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2013,1.0,6881010000.0
+244,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2012,1.0,6513884000.0
+245,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2011,1.0,9163576000.0
+246,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2010,1.0,4238258000.000001
+247,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2009,1.0,3022370000.0
+248,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2008,1.0,1984840000.0
+249,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2007,1.0,1200620000.0
+250,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2006,1.0,34700000.0
+251,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2005,1.0,20820000.0
+252,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2004,1.0,27760000.0
+253,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2003,1.0,34700000.0
+254,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2002,1.0,6940000.0
+255,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2001,1.0,41640000.0
+256,Afghanistan,Hard coal,consumption not elsewhere specified (industry),2000,,6940000.0
+257,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1999,1.0,6940000.0
+258,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1998,1.0,13880000.0
+259,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1997,1.0,13880000.0
+260,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1996,1.0,20820000.0
+261,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1995,1.0,34700000.0
+262,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1994,1.0,41640000.0
+263,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1993,1.0,48580000.0
+264,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1992,1.0,55520000.0
+265,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1991,1.0,374760000.0
+266,Afghanistan,Hard coal,consumption not elsewhere specified (industry),1990,1.0,451100000.0
+267,Afghanistan,Coal,total resources in place,2014,,458040000000.0
+268,Afghanistan,Coal,total resources in place,1994,,2776000000000.0
+269,Afghanistan,Coal,total resources in place,1993,,3553280000000.0
+270,Afghanistan,Coal,total resources in place,1992,,2776000000000.0
+271,Afghanistan,Coal,total resources in place,1991,,2776000000000.0
+272,Afghanistan,Coal,total resources in place,1990,,3553280000000.0
+273,Afghanistan,Coal,total known reserves,2014,,458040000000.0
+274,Afghanistan,Coal,total known reserves,1993,,777280000000.0
+275,Afghanistan,Coal,total known reserves,1990,,777280000000.0
+276,Afghanistan,Coal,recoverable reserves,2014,,458040000000.0
+277,Afghanistan,Coal,recoverable reserves,2008,,458040000000.0
+278,Afghanistan,Coal,recoverable reserves,2007,,458040000000.0
+279,Afghanistan,Coal,recoverable reserves,2006,,458040000000.0
+280,Afghanistan,Coal,recoverable reserves,2005,,458040000000.0
+281,Afghanistan,Coal,recoverable reserves,1997,,458040000000.0
+282,Afghanistan,Coal,recoverable reserves,1993,,458040000000.0
+283,Afghanistan,Coal,recoverable reserves,1990,,458040000000.0
+284,Afghanistan,Coal,additional resources,1994,,2776000000000.0
+285,Afghanistan,Coal,additional resources,1993,,2776000000000.0
+286,Afghanistan,Coal,additional resources,1992,,2776000000000.0
+287,Afghanistan,Coal,additional resources,1991,,2776000000000.0
+288,Afghanistan,Coal,additional resources,1990,,2776000000000.0
+289,Afghanistan,Hard coal,total energy supply,2020,1.0,-1592036000.0
+290,Afghanistan,Hard coal,total energy supply,2019,,9490450000.0
+291,Afghanistan,Hard coal,total energy supply,2018,,9216320000.0
+292,Afghanistan,Hard coal,total energy supply,2017,,8171156000.000001
+293,Afghanistan,Hard coal,total energy supply,2016,,6698488000.0
+294,Afghanistan,Hard coal,total energy supply,2015,,6522212000.0
+295,Afghanistan,Hard coal,total energy supply,2014,,8781876000.0
+296,Afghanistan,Hard coal,total energy supply,2013,,7745040000.0
+297,Afghanistan,Hard coal,total energy supply,2012,,7196780000.0
+298,Afghanistan,Hard coal,total energy supply,2011,,9951960000.0
+299,Afghanistan,Hard coal,total energy supply,2010,,4892700000.0
+300,Afghanistan,Hard coal,total energy supply,2009,,3414480000.0
+301,Afghanistan,Hard coal,total energy supply,2008,,2408180000.0
+302,Afghanistan,Hard coal,total energy supply,2007,,1686420000.0
+303,Afghanistan,Hard coal,total energy supply,2006,,242900000.0
+304,Afghanistan,Hard coal,total energy supply,2005,1.0,229020000.0
+305,Afghanistan,Hard coal,total energy supply,2004,,235960000.0
+306,Afghanistan,Hard coal,total energy supply,2003,,242900000.0
+307,Afghanistan,Hard coal,total energy supply,2002,,145740000.0
+308,Afghanistan,Hard coal,total energy supply,2001,,180440000.0
+309,Afghanistan,Hard coal,total energy supply,2000,,6940000.0
+310,Afghanistan,Hard coal,total energy supply,1999,,6940000.0
+311,Afghanistan,Hard coal,total energy supply,1998,,13880000.0
+312,Afghanistan,Hard coal,total energy supply,1997,1.0,13880000.0
+313,Afghanistan,Hard coal,total energy supply,1996,,20820000.0
+314,Afghanistan,Hard coal,total energy supply,1995,1.0,34700000.0
+315,Afghanistan,Hard coal,total energy supply,1994,1.0,41640000.0
+316,Afghanistan,Hard coal,total energy supply,1993,1.0,48580000.0
+317,Afghanistan,Hard coal,total energy supply,1992,,55520000.0
+318,Afghanistan,Hard coal,total energy supply,1991,,652360000.0
+319,Afghanistan,Hard coal,total energy supply,1990,,728700000.0
+320,Afghanistan,Hard coal,final consumption,2019,1.0,8532730000.0
+321,Afghanistan,Hard coal,final consumption,2018,1.0,8203080000.0
+322,Afghanistan,Hard coal,final consumption,2017,1.0,7170408000.0
+323,Afghanistan,Hard coal,final consumption,2016,1.0,5740074000.0
+324,Afghanistan,Hard coal,final consumption,2015,1.0,5690800000.0
+325,Afghanistan,Hard coal,final consumption,2014,1.0,7888698000.0
+326,Afghanistan,Hard coal,final consumption,2013,1.0,6881010000.0
+327,Afghanistan,Hard coal,final consumption,2012,1.0,6513884000.0
+328,Afghanistan,Hard coal,final consumption,2011,1.0,9163576000.0
+329,Afghanistan,Hard coal,final consumption,2010,1.0,4238258000.000001
+330,Afghanistan,Hard coal,final consumption,2009,1.0,3022370000.0
+331,Afghanistan,Hard coal,final consumption,2008,1.0,1984840000.0
+332,Afghanistan,Hard coal,final consumption,2007,1.0,1200620000.0
+333,Afghanistan,Hard coal,final consumption,2006,1.0,34700000.0
+334,Afghanistan,Hard coal,final consumption,2005,1.0,20820000.0
+335,Afghanistan,Hard coal,final consumption,2004,1.0,27760000.0
+336,Afghanistan,Hard coal,final consumption,2003,1.0,34700000.0
+337,Afghanistan,Hard coal,final consumption,2002,1.0,6940000.0
+338,Afghanistan,Hard coal,final consumption,2001,1.0,41640000.0
+339,Afghanistan,Hard coal,final consumption,2000,,6940000.0
+340,Afghanistan,Hard coal,final consumption,1999,1.0,6940000.0
+341,Afghanistan,Hard coal,final consumption,1998,1.0,13880000.0
+342,Afghanistan,Hard coal,final consumption,1997,1.0,13880000.0
+343,Afghanistan,Hard coal,final consumption,1996,1.0,20820000.0
+344,Afghanistan,Hard coal,final consumption,1995,1.0,34700000.0
+345,Afghanistan,Hard coal,final consumption,1994,1.0,41640000.0
+346,Afghanistan,Hard coal,final consumption,1993,1.0,48580000.0
+347,Afghanistan,Hard coal,final consumption,1992,1.0,55520000.0
+348,Afghanistan,Hard coal,final consumption,1991,1.0,374760000.0
+349,Afghanistan,Hard coal,final consumption,1990,1.0,451100000.0
+0,Afghanistan,Natural gas (including LNG),production,2020,,869301862.1076
+1,Afghanistan,Natural gas (including LNG),production,2019,,1395001866.0006
+2,Afghanistan,Natural gas (including LNG),production,2018,,1660561661.7816
+3,Afghanistan,Natural gas (including LNG),production,2017,,1691995270.2618
+4,Afghanistan,Natural gas (including LNG),production,2016,,1791715683.3714
+5,Afghanistan,Natural gas (including LNG),production,2015,,1584687434.4156
+6,Afghanistan,Natural gas (including LNG),production,2014,,1538078980.4622
+7,Afghanistan,Natural gas (including LNG),production,2013,,1674652589.721
+8,Afghanistan,Natural gas (including LNG),production,2012,,1734168054.0
+9,Afghanistan,Natural gas (including LNG),production,2011,,1745001396.0
+10,Afghanistan,Natural gas (including LNG),production,2010,,1539167898.0
+11,Afghanistan,Natural gas (including LNG),production,2009,,1539167898.0
+12,Afghanistan,Natural gas (including LNG),production,2008,,1680001344.0
+13,Afghanistan,Natural gas (including LNG),production,2007,,1745001396.0
+14,Afghanistan,Natural gas (including LNG),production,2006,,1853334816.0
+15,Afghanistan,Natural gas (including LNG),production,2005,,1864168158.0
+16,Afghanistan,Natural gas (including LNG),production,2004,,1289723254.0
+17,Afghanistan,Natural gas (including LNG),production,2003,,2623057654.0
+18,Afghanistan,Natural gas (including LNG),production,2002,,3089169138.0
+19,Afghanistan,Natural gas (including LNG),production,2001,,1180556500.0
+20,Afghanistan,Natural gas (including LNG),production,2000,,1263889900.0
+21,Afghanistan,Natural gas (including LNG),production,1999,,1375001100.0
+22,Afghanistan,Natural gas (including LNG),production,1998,,1486112300.0
+23,Afghanistan,Natural gas (including LNG),production,1997,,1597223500.0
+24,Afghanistan,Natural gas (including LNG),production,1996,,1736112500.0
+25,Afghanistan,Natural gas (including LNG),production,1995,,1819445900.0
+26,Afghanistan,Natural gas (including LNG),production,1994,,1897223740.0
+27,Afghanistan,Natural gas (including LNG),production,1993,,1980557140.0
+28,Afghanistan,Natural gas (including LNG),production,1992,,2048057194.0
+29,Afghanistan,Natural gas (including LNG),production,1991,,2200001760.0
+30,Afghanistan,Natural gas (including LNG),production,1990,,2268612926.0
+31,Afghanistan,Natural gas,Gross production,2020,,869301862.1076
+32,Afghanistan,Natural gas,Gross production,2019,,1395001866.0006
+33,Afghanistan,Natural gas,Gross production,2018,,1660561661.7816
+34,Afghanistan,Natural gas,Gross production,2017,,1691995270.2618
+35,Afghanistan,Natural gas,Gross production,2016,,1791715683.3714
+36,Afghanistan,Natural gas,Gross production,2015,,1584687434.4156
+37,Afghanistan,Natural gas,Gross production,2014,,1538078980.4622
+38,Afghanistan,Natural gas,Gross production,2013,,1674652589.721
+39,Afghanistan,Natural gas,Gross production,2012,,1734168054.0
+40,Afghanistan,Natural gas,Gross production,2011,,1745001396.0
+41,Afghanistan,Natural gas,Gross production,2010,,1539167898.0
+42,Afghanistan,Natural gas,Gross production,2009,,1539167898.0
+43,Afghanistan,Natural gas,Gross production,2008,,1680001344.0
+44,Afghanistan,Natural gas,Gross production,2007,,1745001396.0
+45,Afghanistan,Natural gas,Gross production,2006,,1853334816.0
+46,Afghanistan,Natural gas,Gross production,2005,,1864168158.0
+47,Afghanistan,Natural gas,Gross production,2004,,1289723254.0
+48,Afghanistan,Natural gas,Gross production,2003,,2623057654.0
+49,Afghanistan,Natural gas,Gross production,2002,,3089169138.0
+50,Afghanistan,Natural gas,Gross production,2001,,1305556600.0
+51,Afghanistan,Natural gas,Gross production,2000,,1388890000.0
+52,Afghanistan,Natural gas,Gross production,1999,,1500001200.0
+53,Afghanistan,Natural gas,Gross production,1998,,1611112400.0
+54,Afghanistan,Natural gas,Gross production,1997,,1722223600.0
+55,Afghanistan,Natural gas,Gross production,1996,,1861112600.0
+56,Afghanistan,Natural gas,Gross production,1995,,1944446000.0
+57,Afghanistan,Natural gas,Gross production,1994,,2027779400.0
+58,Afghanistan,Natural gas,Gross production,1993,,2111112800.0
+59,Afghanistan,Natural gas,Gross production,1992,,2178612854.0
+60,Afghanistan,Natural gas,Gross production,1991,,2384724130.0
+61,Afghanistan,Natural gas,Gross production,1990,,2471390866.0
+62,Afghanistan,Natural gas (including LNG),flared and vented,2001,1.0,125000100.0
+63,Afghanistan,Natural gas (including LNG),flared and vented,2000,1.0,125000100.0
+64,Afghanistan,Natural gas (including LNG),flared and vented,1999,1.0,125000100.0
+65,Afghanistan,Natural gas (including LNG),flared and vented,1998,1.0,125000100.0
+66,Afghanistan,Natural gas (including LNG),flared and vented,1997,1.0,125000100.0
+67,Afghanistan,Natural gas (including LNG),flared and vented,1996,1.0,125000100.0
+68,Afghanistan,Natural gas (including LNG),flared and vented,1995,1.0,125000100.0
+69,Afghanistan,Natural gas (including LNG),flared and vented,1994,1.0,130555660.0
+70,Afghanistan,Natural gas (including LNG),flared and vented,1993,1.0,130555660.0
+71,Afghanistan,Natural gas (including LNG),flared and vented,1992,1.0,130555660.0
+72,Afghanistan,Natural gas (including LNG),flared and vented,1991,1.0,143055670.0
+73,Afghanistan,Natural gas (including LNG),flared and vented,1990,1.0,148611230.0
+74,Afghanistan,Natural gas (including LNG),extraction loss shrinkage,1992,,0.0
+75,Afghanistan,Natural gas (including LNG),extraction loss shrinkage,1991,1.0,41666700.0
+76,Afghanistan,Natural gas (including LNG),extraction loss shrinkage,1990,1.0,54166710.0
+77,Afghanistan,Natural Gas (including LNG),final energy consumption,2020,1.0,869301862.1076
+78,Afghanistan,Natural Gas (including LNG),final energy consumption,2019,1.0,1395001866.0006
+79,Afghanistan,Natural Gas (including LNG),final energy consumption,2018,1.0,1660561661.7816
+80,Afghanistan,Natural Gas (including LNG),final energy consumption,2017,1.0,1691995270.2618
+81,Afghanistan,Natural Gas (including LNG),final energy consumption,2016,1.0,1791715683.3714
+82,Afghanistan,Natural Gas (including LNG),final energy consumption,2015,1.0,1584687434.4156
+83,Afghanistan,Natural Gas (including LNG),final energy consumption,2014,1.0,1538078980.4622
+84,Afghanistan,Natural Gas (including LNG),final energy consumption,2013,1.0,1674652589.721
+85,Afghanistan,Natural Gas (including LNG),final energy consumption,2012,1.0,1734168054.0
+86,Afghanistan,Natural Gas (including LNG),final energy consumption,2011,1.0,1745001396.0
+87,Afghanistan,Natural Gas (including LNG),final energy consumption,2010,1.0,1539167898.0
+88,Afghanistan,Natural Gas (including LNG),final energy consumption,2009,1.0,1539167898.0
+89,Afghanistan,Natural Gas (including LNG),final energy consumption,2008,1.0,1680001344.0
+90,Afghanistan,Natural Gas (including LNG),final energy consumption,2007,1.0,1745001396.0
+91,Afghanistan,Natural Gas (including LNG),final energy consumption,2006,1.0,1853334816.0
+92,Afghanistan,Natural Gas (including LNG),final energy consumption,2005,1.0,1864168158.0
+93,Afghanistan,Natural Gas (including LNG),final energy consumption,2004,1.0,1289723254.0
+94,Afghanistan,Natural Gas (including LNG),final energy consumption,2003,1.0,2623057654.0
+95,Afghanistan,Natural Gas (including LNG),final energy consumption,2002,1.0,3089169138.0
+96,Afghanistan,Natural Gas (including LNG),final energy consumption,2001,1.0,1180556500.0
+97,Afghanistan,Natural Gas (including LNG),final energy consumption,2000,1.0,1263889900.0
+98,Afghanistan,Natural Gas (including LNG),final energy consumption,1999,1.0,1375001100.0
+99,Afghanistan,Natural Gas (including LNG),final energy consumption,1998,1.0,1486112300.0
+100,Afghanistan,Natural Gas (including LNG),final energy consumption,1997,1.0,1597223500.0
+101,Afghanistan,Natural Gas (including LNG),final energy consumption,1996,1.0,1736112500.0
+102,Afghanistan,Natural Gas (including LNG),final energy consumption,1995,1.0,1819445900.0
+103,Afghanistan,Natural Gas (including LNG),final energy consumption,1994,1.0,1897223740.0
+104,Afghanistan,Natural Gas (including LNG),final energy consumption,1993,1.0,1980557140.0
+105,Afghanistan,Natural Gas (including LNG),final energy consumption,1992,1.0,2048057194.0
+106,Afghanistan,Natural Gas (including LNG),final energy consumption,1991,1.0,2200001760.0
+107,Afghanistan,Natural Gas (including LNG),final energy consumption,1990,1.0,2268612926.0
+108,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2020,1.0,869301862.1076
+109,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2019,1.0,1395001866.0006
+110,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2018,1.0,1660561661.7816
+111,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2017,1.0,1691995270.2618
+112,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2016,1.0,1791715683.3714
+113,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2015,1.0,1584687434.4156
+114,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2014,1.0,1538078980.4622
+115,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2013,1.0,1674652589.721
+116,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2012,1.0,1734168054.0
+117,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2011,1.0,1745001396.0
+118,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2010,1.0,1539167898.0
+119,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2009,1.0,1539167898.0
+120,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2008,1.0,1680001344.0
+121,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2007,1.0,1745001396.0
+122,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2006,1.0,1853334816.0
+123,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2005,1.0,1864168158.0
+124,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2004,1.0,1289723254.0
+125,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2003,1.0,2623057654.0
+126,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2002,1.0,3089169138.0
+127,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2001,1.0,1180556500.0
+128,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",2000,1.0,1263889900.0
+129,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1999,1.0,1375001100.0
+130,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1998,1.0,1486112300.0
+131,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1997,1.0,1597223500.0
+132,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1996,1.0,1736112500.0
+133,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1995,1.0,1819445900.0
+134,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1994,1.0,1897223740.0
+135,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1993,1.0,1980557140.0
+136,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1992,1.0,2048057194.0
+137,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1991,1.0,2200001760.0
+138,Afghanistan,Natural gas (including LNG),"consumption by manufacturing, construction and non-fuel industry",1990,1.0,2268612926.0
+139,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2020,1.0,869301862.1076
+140,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2019,1.0,1395001866.0006
+141,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2018,1.0,1660561661.7816
+142,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2017,1.0,1691995270.2618
+143,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2016,1.0,1791715683.3714
+144,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2015,1.0,1584687434.4156
+145,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2014,1.0,1538078980.4622
+146,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2013,1.0,1674652589.721
+147,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2012,1.0,1734168054.0
+148,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2011,1.0,1745001396.0
+149,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2010,1.0,1539167898.0
+150,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2009,1.0,1539167898.0
+151,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2008,1.0,1680001344.0
+152,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2007,1.0,1745001396.0
+153,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2006,1.0,1853334816.0
+154,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2005,1.0,1864168158.0
+155,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2004,1.0,1289723254.0
+156,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2003,1.0,2623057654.0
+157,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2002,1.0,3089169138.0
+158,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2001,1.0,1180556500.0
+159,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",2000,1.0,1263889900.0
+160,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1999,1.0,1375001100.0
+161,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1998,1.0,1486112300.0
+162,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1997,1.0,1597223500.0
+163,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1996,1.0,1736112500.0
+164,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1995,1.0,1819445900.0
+165,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1994,1.0,1897223740.0
+166,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1993,1.0,1980557140.0
+167,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1992,1.0,2048057194.0
+168,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1991,1.0,2200001760.0
+169,Afghanistan,Natural gas (including LNG),"consumption by other manuf., const. and non-fuel ind.",1990,1.0,2268612926.0
+170,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2020,1.0,869301862.1076
+171,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2019,1.0,1395001866.0006
+172,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2018,1.0,1660561661.7816
+173,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2017,1.0,1691995270.2618
+174,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2016,1.0,1791715683.3714
+175,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2015,1.0,1584687434.4156
+176,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2014,1.0,1538078980.4622
+177,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2013,1.0,1674652589.721
+178,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2012,1.0,1734168054.0
+179,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2011,1.0,1745001396.0
+180,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2010,1.0,1539167898.0
+181,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2009,1.0,1539167898.0
+182,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2008,1.0,1680001344.0
+183,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2007,1.0,1745001396.0
+184,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2006,1.0,1853334816.0
+185,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2005,1.0,1864168158.0
+186,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2004,1.0,1289723254.0
+187,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2003,1.0,2623057654.0
+188,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2002,1.0,3089169138.0
+189,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2001,1.0,1180556500.0
+190,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,2000,1.0,1263889900.0
+191,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1999,1.0,1375001100.0
+192,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1998,1.0,1486112300.0
+193,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1997,1.0,1597223500.0
+194,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1996,1.0,1736112500.0
+195,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1995,1.0,1819445900.0
+196,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1994,1.0,1897223740.0
+197,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1993,1.0,1980557140.0
+198,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1992,1.0,2048057194.0
+199,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1991,1.0,2200001760.0
+200,Afghanistan,Natural Gas (including LNG),consumption by industries not elsewhere specified,1990,1.0,2268612926.0
+201,Afghanistan,Natural gas (including LNG),total resources,2014,1.0,537623096764.8001
+202,Afghanistan,Natural gas (including LNG),total resources,2008,,541958766900.0
+203,Afghanistan,Natural gas (including LNG),total resources,2007,,541958766900.0
+204,Afghanistan,Natural gas (including LNG),total resources,2006,,541958766900.0
+205,Afghanistan,Natural gas (including LNG),total resources,2005,,541958766900.0
+206,Afghanistan,Natural gas (including LNG),total resources,2000,,1083917533800.0
+207,Afghanistan,Natural gas (including LNG),total resources,1999,,1083917533800.0
+208,Afghanistan,Natural gas (including LNG),total resources,1998,,1083917533800.0
+209,Afghanistan,Natural gas (including LNG),total resources,1997,,1073078358462.0
+210,Afghanistan,Natural gas (including LNG),total resources,1993,,1073078358462.0
+211,Afghanistan,Natural gas (including LNG),total resources,1990,,1083917533800.0
+212,Afghanistan,Natural gas (including LNG),total energy supply,2020,,869301862.1076
+213,Afghanistan,Natural gas (including LNG),total energy supply,2019,,1395001866.0006
+214,Afghanistan,Natural gas (including LNG),total energy supply,2018,,1660561661.7816
+215,Afghanistan,Natural gas (including LNG),total energy supply,2017,,1691995270.2618
+216,Afghanistan,Natural gas (including LNG),total energy supply,2016,,1791715683.3714
+217,Afghanistan,Natural gas (including LNG),total energy supply,2015,,1584687434.4156
+218,Afghanistan,Natural gas (including LNG),total energy supply,2014,,1538078980.4622
+219,Afghanistan,Natural gas (including LNG),total energy supply,2013,,1674652589.721
+220,Afghanistan,Natural gas (including LNG),total energy supply,2012,,1734168054.0
+221,Afghanistan,Natural gas (including LNG),total energy supply,2011,,1745001396.0
+222,Afghanistan,Natural gas (including LNG),total energy supply,2010,,1539167898.0
+223,Afghanistan,Natural gas (including LNG),total energy supply,2009,,1539167898.0
+224,Afghanistan,Natural gas (including LNG),total energy supply,2008,,1680001344.0
+225,Afghanistan,Natural gas (including LNG),total energy supply,2007,,1745001396.0
+226,Afghanistan,Natural gas (including LNG),total energy supply,2006,,1853334816.0
+227,Afghanistan,Natural gas (including LNG),total energy supply,2005,,1864168158.0
+228,Afghanistan,Natural gas (including LNG),total energy supply,2004,,1289723254.0
+229,Afghanistan,Natural gas (including LNG),total energy supply,2003,,2623057654.0
+230,Afghanistan,Natural gas (including LNG),total energy supply,2002,,3089169138.0
+231,Afghanistan,Natural gas (including LNG),total energy supply,2001,,1180556500.0
+232,Afghanistan,Natural gas (including LNG),total energy supply,2000,,1263889900.0
+233,Afghanistan,Natural gas (including LNG),total energy supply,1999,,1375001100.0
+234,Afghanistan,Natural gas (including LNG),total energy supply,1998,,1486112300.0
+235,Afghanistan,Natural gas (including LNG),total energy supply,1997,,1597223500.0
+236,Afghanistan,Natural gas (including LNG),total energy supply,1996,,1736112500.0
+237,Afghanistan,Natural gas (including LNG),total energy supply,1995,,1819445900.0
+238,Afghanistan,Natural gas (including LNG),total energy supply,1994,,1897223740.0
+239,Afghanistan,Natural gas (including LNG),total energy supply,1993,,1980557140.0
+240,Afghanistan,Natural gas (including LNG),total energy supply,1992,,2048057194.0
+241,Afghanistan,Natural gas (including LNG),total energy supply,1991,,2200001760.0
+242,Afghanistan,Natural gas (including LNG),total energy supply,1990,,2268612926.0
+243,Afghanistan,Natural gas (including LNG),final consumption,2020,1.0,869301862.1076
+244,Afghanistan,Natural gas (including LNG),final consumption,2019,1.0,1395001866.0006
+245,Afghanistan,Natural gas (including LNG),final consumption,2018,1.0,1660561661.7816
+246,Afghanistan,Natural gas (including LNG),final consumption,2017,1.0,1691995270.2618
+247,Afghanistan,Natural gas (including LNG),final consumption,2016,1.0,1791715683.3714
+248,Afghanistan,Natural gas (including LNG),final consumption,2015,1.0,1584687434.4156
+249,Afghanistan,Natural gas (including LNG),final consumption,2014,1.0,1538078980.4622
+250,Afghanistan,Natural gas (including LNG),final consumption,2013,1.0,1674652589.721
+251,Afghanistan,Natural gas (including LNG),final consumption,2012,1.0,1734168054.0
+252,Afghanistan,Natural gas (including LNG),final consumption,2011,1.0,1745001396.0
+253,Afghanistan,Natural gas (including LNG),final consumption,2010,1.0,1539167898.0
+254,Afghanistan,Natural gas (including LNG),final consumption,2009,1.0,1539167898.0
+255,Afghanistan,Natural gas (including LNG),final consumption,2008,1.0,1680001344.0
+256,Afghanistan,Natural gas (including LNG),final consumption,2007,1.0,1745001396.0
+257,Afghanistan,Natural gas (including LNG),final consumption,2006,1.0,1853334816.0
+258,Afghanistan,Natural gas (including LNG),final consumption,2005,1.0,1864168158.0
+259,Afghanistan,Natural gas (including LNG),final consumption,2004,1.0,1289723254.0
+260,Afghanistan,Natural gas (including LNG),final consumption,2003,1.0,2623057654.0
+261,Afghanistan,Natural gas (including LNG),final consumption,2002,1.0,3089169138.0
+262,Afghanistan,Natural gas (including LNG),final consumption,2001,1.0,1180556500.0
+263,Afghanistan,Natural gas (including LNG),final consumption,2000,1.0,1263889900.0
+264,Afghanistan,Natural gas (including LNG),final consumption,1999,1.0,1375001100.0
+265,Afghanistan,Natural gas (including LNG),final consumption,1998,1.0,1486112300.0
+266,Afghanistan,Natural gas (including LNG),final consumption,1997,1.0,1597223500.0
+267,Afghanistan,Natural gas (including LNG),final consumption,1996,1.0,1736112500.0
+268,Afghanistan,Natural gas (including LNG),final consumption,1995,1.0,1819445900.0
+269,Afghanistan,Natural gas (including LNG),final consumption,1994,1.0,1897223740.0
+270,Afghanistan,Natural gas (including LNG),final consumption,1993,1.0,1980557140.0
+271,Afghanistan,Natural gas (including LNG),final consumption,1992,1.0,2048057194.0
+272,Afghanistan,Natural gas (including LNG),final consumption,1991,1.0,2200001760.0
+273,Afghanistan,Natural gas (including LNG),final consumption,1990,1.0,2268612926.0
+0,Afghanistan,Natural gas liquids,Production,1992,,0.0
+1,Afghanistan,Natural gas liquids,Production,1991,,36600000.0
+2,Afghanistan,Natural gas liquids,Production,1990,,48800000.0
+3,Afghanistan,Natural gas liquids,Transformation,1992,,0.0
+4,Afghanistan,Natural gas liquids,Transformation,1991,,0.0
+5,Afghanistan,Natural gas liquids,Transformation,1990,,0.0
+6,Afghanistan,Natural gas liquids,Other transformation,1992,,0.0
+7,Afghanistan,Natural gas liquids,Other transformation,1991,1.0,0.0
+8,Afghanistan,Natural gas liquids,Other transformation,1990,1.0,0.0
+9,Afghanistan,Natural gas liquids,Total energy supply,1992,,0.0
+10,Afghanistan,Natural gas liquids,Total energy supply,1991,,36600000.0
+11,Afghanistan,Natural gas liquids,Total energy supply,1990,,48800000.0
+0,Afghanistan,Coal products,Total energy supply,1990,1.0,205350000.0
+1,Afghanistan,Coal products,production,1990,1.0,205350000.0
+2,Afghanistan,Coal products,Total energy supply,1991,1.0,194250000.0
+3,Afghanistan,Coal products,production,1991,1.0,194250000.0
+4,Afghanistan,Coal products,Total energy supply,1992,0.0,0.0
+5,Afghanistan,Coal products,production,1992,0.0,0.0
+6,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2004,0.0,0.0
+7,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2004,1.0,0.0
+8,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2004,1.0,0.0
+9,Afghanistan,Coal products,Final energy consumption,2004,0.0,0.0
+10,Afghanistan,Coal products,Total energy supply,2004,0.0,0.0
+11,Afghanistan,Coal products,final consumption,2004,0.0,0.0
+12,Afghanistan,Coal products,imports,2004,1.0,0.0
+13,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2005,1.0,40000000.0
+14,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2005,1.0,40000000.0
+15,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2005,1.0,40000000.0
+16,Afghanistan,Coal products,Final energy consumption,2005,1.0,40000000.0
+17,Afghanistan,Coal products,Total energy supply,2005,0.0,40000000.0
+18,Afghanistan,Coal products,final consumption,2005,1.0,40000000.0
+19,Afghanistan,Coal products,imports,2005,0.0,40000000.0
+20,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2006,1.0,140000000.0
+21,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2006,1.0,140000000.0
+22,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2006,1.0,140000000.0
+23,Afghanistan,Coal products,Final energy consumption,2006,1.0,140000000.0
+24,Afghanistan,Coal products,Total energy supply,2006,0.0,140000000.0
+25,Afghanistan,Coal products,final consumption,2006,1.0,140000000.0
+26,Afghanistan,Coal products,imports,2006,0.0,140000000.0
+27,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2007,1.0,215000000.0
+28,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2007,1.0,215000000.0
+29,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2007,1.0,215000000.0
+30,Afghanistan,Coal products,Final energy consumption,2007,1.0,215000000.0
+31,Afghanistan,Coal products,Total energy supply,2007,0.0,215000000.0
+32,Afghanistan,Coal products,final consumption,2007,1.0,215000000.0
+33,Afghanistan,Coal products,imports,2007,0.0,215000000.0
+34,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2008,1.0,335000000.0
+35,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2008,1.0,335000000.0
+36,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2008,1.0,335000000.0
+37,Afghanistan,Coal products,Final energy consumption,2008,1.0,335000000.0
+38,Afghanistan,Coal products,Total energy supply,2008,0.0,335000000.0
+39,Afghanistan,Coal products,exports,2008,0.0,7770000.0
+40,Afghanistan,Coal products,final consumption,2008,1.0,335000000.0
+41,Afghanistan,Coal products,imports,2008,0.0,335000000.0
+42,Afghanistan,Coal products,production,2008,1.0,7770000.0
+43,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2009,1.0,535000000.0
+44,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2009,1.0,535000000.0
+45,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2009,1.0,535000000.0
+46,Afghanistan,Coal products,Final energy consumption,2009,1.0,535000000.0
+47,Afghanistan,Coal products,Total energy supply,2009,0.0,535000000.0
+48,Afghanistan,Coal products,exports,2009,0.0,155400000.0
+49,Afghanistan,Coal products,final consumption,2009,1.0,535000000.0
+50,Afghanistan,Coal products,imports,2009,0.0,535000000.0
+51,Afghanistan,Coal products,production,2009,1.0,155400000.0
+52,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2010,1.0,1025000000.0
+53,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2010,1.0,1025000000.0
+54,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2010,1.0,1025000000.0
+55,Afghanistan,Coal products,Final energy consumption,2010,1.0,1025000000.0
+56,Afghanistan,Coal products,Total energy supply,2010,0.0,1025000000.0
+57,Afghanistan,Coal products,exports,2010,0.0,372960000.0
+58,Afghanistan,Coal products,final consumption,2010,1.0,1025000000.0
+59,Afghanistan,Coal products,imports,2010,0.0,1025000000.0
+60,Afghanistan,Coal products,production,2010,1.0,372960000.0
+61,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2011,1.0,1025000000.0
+62,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2011,1.0,1025000000.0
+63,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2011,1.0,1025000000.0
+64,Afghanistan,Coal products,Final energy consumption,2011,1.0,1025000000.0
+65,Afghanistan,Coal products,Total energy supply,2011,0.0,1025000000.0
+66,Afghanistan,Coal products,exports,2011,0.0,372960000.0
+67,Afghanistan,Coal products,final consumption,2011,1.0,1025000000.0
+68,Afghanistan,Coal products,imports,2011,0.0,1025000000.0
+69,Afghanistan,Coal products,production,2011,0.0,372960000.0
+70,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2012,1.0,1025000000.0
+71,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2012,1.0,1025000000.0
+72,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2012,1.0,1025000000.0
+73,Afghanistan,Coal products,Final energy consumption,2012,1.0,1025000000.0
+74,Afghanistan,Coal products,Total energy supply,2012,0.0,1025000000.0
+75,Afghanistan,Coal products,exports,2012,0.0,372960000.0
+76,Afghanistan,Coal products,final consumption,2012,1.0,1025000000.0
+77,Afghanistan,Coal products,imports,2012,0.0,1025000000.0
+78,Afghanistan,Coal products,production,2012,0.0,372960000.0
+79,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2013,1.0,1025000000.0
+80,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2013,1.0,1025000000.0
+81,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2013,1.0,1025000000.0
+82,Afghanistan,Coal products,Final energy consumption,2013,1.0,1025000000.0
+83,Afghanistan,Coal products,Total energy supply,2013,2.0,1025000000.0
+84,Afghanistan,Coal products,exports,2013,1.0,406371000.0
+85,Afghanistan,Coal products,final consumption,2013,1.0,1025000000.0
+86,Afghanistan,Coal products,imports,2013,1.0,1025000000.0
+87,Afghanistan,Coal products,production,2013,1.0,406371000.0
+88,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2014,1.0,1025000000.0
+89,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2014,1.0,1025000000.0
+90,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2014,1.0,1025000000.0
+91,Afghanistan,Coal products,Final energy consumption,2014,1.0,1025000000.0
+92,Afghanistan,Coal products,Total energy supply,2014,2.0,1025000000.0
+93,Afghanistan,Coal products,exports,2014,1.0,459984000.0
+94,Afghanistan,Coal products,final consumption,2014,1.0,1025000000.0
+95,Afghanistan,Coal products,imports,2014,1.0,1025000000.0
+96,Afghanistan,Coal products,production,2014,1.0,459984000.0
+97,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2015,1.0,1000500000.0
+98,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2015,1.0,1000500000.0
+99,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2015,1.0,1000500000.0
+100,Afghanistan,Coal products,Final energy consumption,2015,1.0,1000500000.0
+101,Afghanistan,Coal products,Total energy supply,2015,2.0,1000500000.0
+102,Afghanistan,Coal products,exports,2015,1.0,413364000.0
+103,Afghanistan,Coal products,final consumption,2015,1.0,1000500000.0
+104,Afghanistan,Coal products,imports,2015,1.0,1000500000.0
+105,Afghanistan,Coal products,production,2015,1.0,413364000.0
+106,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2016,1.0,1000500000.0
+107,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2016,1.0,1000500000.0
+108,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2016,1.0,1000500000.0
+109,Afghanistan,Coal products,Final energy consumption,2016,1.0,1000500000.0
+110,Afghanistan,Coal products,Total energy supply,2016,2.0,1000500000.0
+111,Afghanistan,Coal products,exports,2016,1.0,514374000.0
+112,Afghanistan,Coal products,final consumption,2016,1.0,1000500000.0
+113,Afghanistan,Coal products,imports,2016,1.0,1000500000.0
+114,Afghanistan,Coal products,production,2016,1.0,514374000.0
+115,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2017,1.0,1013000000.0
+116,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2017,1.0,1013000000.0
+117,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2017,1.0,1013000000.0
+118,Afghanistan,Coal products,Final energy consumption,2017,1.0,1013000000.0
+119,Afghanistan,Coal products,Total energy supply,2017,2.0,1013000000.0
+120,Afghanistan,Coal products,exports,2017,1.0,520590000.0
+121,Afghanistan,Coal products,final consumption,2017,1.0,1013000000.0
+122,Afghanistan,Coal products,imports,2017,1.0,1013000000.0
+123,Afghanistan,Coal products,production,2017,1.0,520590000.0
+124,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2018,1.0,1013000000.0
+125,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2018,1.0,1013000000.0
+126,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2018,1.0,1013000000.0
+127,Afghanistan,Coal products,Final energy consumption,2018,1.0,1013000000.0
+128,Afghanistan,Coal products,Total energy supply,2018,2.0,1013000000.0
+129,Afghanistan,Coal products,exports,2018,1.0,520590000.0
+130,Afghanistan,Coal products,final consumption,2018,1.0,1013000000.0
+131,Afghanistan,Coal products,imports,2018,1.0,1013000000.0
+132,Afghanistan,Coal products,production,2018,1.0,520590000.0
+133,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2019,1.0,1013000000.0
+134,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2019,1.0,1013000000.0
+135,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2019,1.0,1013000000.0
+136,Afghanistan,Coal products,Final energy consumption,2019,1.0,1013000000.0
+137,Afghanistan,Coal products,Total energy supply,2019,2.0,1013000000.0
+138,Afghanistan,Coal products,exports,2019,1.0,520590000.0
+139,Afghanistan,Coal products,final consumption,2019,1.0,1013000000.0
+140,Afghanistan,Coal products,imports,2019,1.0,1013000000.0
+141,Afghanistan,Coal products,production,2019,1.0,520590000.0
+142,Afghanistan,Coal products,"Consumption by manufacturing, construction and non-fuel industry",2020,1.0,1033500000.0
+143,Afghanistan,Coal products,"Consumption by other manuf., const. and non-fuel ind.",2020,1.0,1033500000.0
+144,Afghanistan,Coal products,Consumption not elsewhere specified (industry),2020,1.0,1033500000.0
+145,Afghanistan,Coal products,Final energy consumption,2020,1.0,1033500000.0
+146,Afghanistan,Coal products,Total energy supply,2020,2.0,1033500000.0
+147,Afghanistan,Coal products,exports,2020,1.0,541569000.0
+148,Afghanistan,Coal products,final consumption,2020,1.0,1033500000.0
+149,Afghanistan,Coal products,imports,2020,1.0,1044378000.0
+150,Afghanistan,Coal products,production,2020,1.0,530691000.0
+0,Afghanistan,Oil products,Consumption by domestic aviation,1990,1.0,1537200000.0
+1,Afghanistan,Oil products,Consumption by households,1990,2.0,497400000.0
+2,Afghanistan,Oil products,Consumption by other,1990,2.0,497400000.0
+3,Afghanistan,Oil products,Consumption by transport,1990,4.0,3667300000.0
+4,Afghanistan,Oil products,Consumption in domestic aviation,1990,1.0,37500000.0
+5,Afghanistan,Oil products,Consumption in road,1990,2.0,2092600000.0
+6,Afghanistan,Oil products,Final consumption,1990,8.0,4397800000.0
+7,Afghanistan,Oil products,Final energy consumption,1990,6.0,4164700000.0
+8,Afghanistan,Oil products,Fuel oil,1990,1.0,44400000.0
+9,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1990,2.0,797300000.0
+10,Afghanistan,Oil products,Imports,1990,9.0,5509300000.0
+11,Afghanistan,Oil products,International aviation bunkers,1990,2.0,73200000.0
+12,Afghanistan,Oil products,Non-energy uses,1990,3.0,333000000.0
+13,Afghanistan,Oil products,Stock changes,1990,2.0,121700000.0
+14,Afghanistan,Oil products,Total energy supply,1990,10.0,5314400000.0
+15,Afghanistan,Oil products,Transformation,1990,2.0,841700000.0
+16,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1990,2.0,841700000.0
+17,Afghanistan,Oil products,final consumption,1990,1.0,99900000.0
+18,Afghanistan,Oil products,Consumption by domestic aviation,1991,1.0,1415200000.0
+19,Afghanistan,Oil products,Consumption by households,1991,2.0,523400000.0
+20,Afghanistan,Oil products,Consumption by other,1991,2.0,523400000.0
+21,Afghanistan,Oil products,Consumption by transport,1991,4.0,3483400000.0
+22,Afghanistan,Oil products,Consumption in domestic aviation,1991,1.0,37500000.0
+23,Afghanistan,Oil products,Consumption in road,1991,2.0,2030700000.0
+24,Afghanistan,Oil products,Final consumption,1991,8.0,4284300000.0
+25,Afghanistan,Oil products,Final energy consumption,1991,6.0,4006800000.0
+26,Afghanistan,Oil products,Fuel oil,1991,1.0,33300000.0
+27,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1991,2.0,714000000.0
+28,Afghanistan,Oil products,Imports,1991,9.0,5336900000.0
+29,Afghanistan,Oil products,International aviation bunkers,1991,2.0,73200000.0
+30,Afghanistan,Oil products,Non-energy uses,1991,3.0,388500000.0
+31,Afghanistan,Oil products,Stock changes,1991,2.0,146100000.0
+32,Afghanistan,Oil products,Total energy supply,1991,10.0,5117600000.0
+33,Afghanistan,Oil products,Transformation,1991,2.0,747300000.0
+34,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1991,2.0,747300000.0
+35,Afghanistan,Oil products,final consumption,1991,1.0,111000000.0
+36,Afghanistan,Oil products,Consumption by domestic aviation,1992,1.0,1012600000.0
+37,Afghanistan,Oil products,Consumption by households,1992,2.0,560000000.0
+38,Afghanistan,Oil products,Consumption by other,1992,2.0,560000000.0
+39,Afghanistan,Oil products,Consumption by transport,1992,2.0,2786500000.0
+40,Afghanistan,Oil products,Consumption in domestic aviation,1992,0.0,0.0
+41,Afghanistan,Oil products,Consumption in road,1992,1.0,1773900000.0
+42,Afghanistan,Oil products,Final consumption,1992,5.0,3646200000.0
+43,Afghanistan,Oil products,Final energy consumption,1992,4.0,3346500000.0
+44,Afghanistan,Oil products,Fuel oil,1992,1.0,22200000.0
+45,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1992,2.0,714000000.0
+46,Afghanistan,Oil products,Imports,1992,2.0,4736300000.0
+47,Afghanistan,Oil products,International aviation bunkers,1992,1.0,73200000.0
+48,Afghanistan,Oil products,Non-energy uses,1992,2.0,421800000.0
+49,Afghanistan,Oil products,Stock changes,1992,1.0,158600000.0
+50,Afghanistan,Oil products,Total energy supply,1992,2.0,4504500000.0
+51,Afghanistan,Oil products,Transformation,1992,2.0,736200000.0
+52,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1992,2.0,736200000.0
+53,Afghanistan,Oil products,final consumption,1992,1.0,122100000.0
+54,Afghanistan,Oil products,Consumption by domestic aviation,1993,1.0,988200000.0
+55,Afghanistan,Oil products,Consumption by households,1993,2.0,609600000.0
+56,Afghanistan,Oil products,Consumption by other,1993,2.0,609600000.0
+57,Afghanistan,Oil products,Consumption by transport,1993,3.0,2797200000.0
+58,Afghanistan,Oil products,Consumption in road,1993,2.0,1809000000.0
+59,Afghanistan,Oil products,Final consumption,1993,7.0,3750900000.0
+60,Afghanistan,Oil products,Final energy consumption,1993,5.0,3406800000.0
+61,Afghanistan,Oil products,Fuel oil,1993,1.0,22200000.0
+62,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1993,2.0,714000000.0
+63,Afghanistan,Oil products,Imports,1993,9.0,4829900000.0
+64,Afghanistan,Oil products,International aviation bunkers,1993,1.0,73200000.0
+65,Afghanistan,Oil products,Non-energy uses,1993,3.0,455100000.0
+66,Afghanistan,Oil products,Stock changes,1993,1.0,158600000.0
+67,Afghanistan,Oil products,Total energy supply,1993,9.0,4598100000.0
+68,Afghanistan,Oil products,Transformation,1993,2.0,736200000.0
+69,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1993,2.0,736200000.0
+70,Afghanistan,Oil products,final consumption,1993,1.0,111000000.0
+71,Afghanistan,Oil products,Consumption by domestic aviation,1994,1.0,963800000.0
+72,Afghanistan,Oil products,Consumption by households,1994,2.0,612000000.0
+73,Afghanistan,Oil products,Consumption by other,1994,2.0,612000000.0
+74,Afghanistan,Oil products,Consumption by transport,1994,3.0,2760000000.0
+75,Afghanistan,Oil products,Consumption in road,1994,2.0,1796200000.0
+76,Afghanistan,Oil products,Final consumption,1994,7.0,3738300000.0
+77,Afghanistan,Oil products,Final energy consumption,1994,5.0,3372000000.0
+78,Afghanistan,Oil products,Fuel oil,1994,1.0,22200000.0
+79,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1994,2.0,690200000.0
+80,Afghanistan,Oil products,Imports,1994,9.0,4758000000.0
+81,Afghanistan,Oil products,International aviation bunkers,1994,1.0,61000000.0
+82,Afghanistan,Oil products,Non-energy uses,1994,3.0,466200000.0
+83,Afghanistan,Oil products,Stock changes,1994,1.0,146400000.0
+84,Afghanistan,Oil products,Total energy supply,1994,9.0,4550600000.0
+85,Afghanistan,Oil products,Transformation,1994,2.0,712400000.0
+86,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1994,2.0,712400000.0
+87,Afghanistan,Oil products,final consumption,1994,1.0,99900000.0
+88,Afghanistan,Oil products,Consumption by domestic aviation,1995,1.0,915000000.0
+89,Afghanistan,Oil products,Consumption by households,1995,2.0,601400000.0
+90,Afghanistan,Oil products,Consumption by other,1995,2.0,601400000.0
+91,Afghanistan,Oil products,Consumption by transport,1995,3.0,2734400000.0
+92,Afghanistan,Oil products,Consumption in road,1995,2.0,1819400000.0
+93,Afghanistan,Oil products,Final consumption,1995,7.0,3713200000.0
+94,Afghanistan,Oil products,Final energy consumption,1995,5.0,3335800000.0
+95,Afghanistan,Oil products,Fuel oil,1995,1.0,22200000.0
+96,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1995,2.0,654500000.0
+97,Afghanistan,Oil products,Imports,1995,9.0,4661700000.0
+98,Afghanistan,Oil products,International aviation bunkers,1995,1.0,61000000.0
+99,Afghanistan,Oil products,Non-energy uses,1995,3.0,466200000.0
+100,Afghanistan,Oil products,Stock changes,1995,1.0,122000000.0
+101,Afghanistan,Oil products,Total energy supply,1995,9.0,4478700000.0
+102,Afghanistan,Oil products,Transformation,1995,2.0,676700000.0
+103,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1995,2.0,676700000.0
+104,Afghanistan,Oil products,final consumption,1995,1.0,88800000.0
+105,Afghanistan,Oil products,Consumption by domestic aviation,1996,1.0,854000000.0
+106,Afghanistan,Oil products,Consumption by households,1996,2.0,627400000.0
+107,Afghanistan,Oil products,Consumption by other,1996,2.0,627400000.0
+108,Afghanistan,Oil products,Consumption by transport,1996,3.0,2624300000.0
+109,Afghanistan,Oil products,Consumption in road,1996,2.0,1770300000.0
+110,Afghanistan,Oil products,Final consumption,1996,6.0,3640200000.0
+111,Afghanistan,Oil products,Final energy consumption,1996,5.0,3251700000.0
+112,Afghanistan,Oil products,Fuel oil,1996,1.0,22200000.0
+113,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1996,2.0,630700000.0
+114,Afghanistan,Oil products,Imports,1996,9.0,4564900000.0
+115,Afghanistan,Oil products,International aviation bunkers,1996,1.0,61000000.0
+116,Afghanistan,Oil products,Non-energy uses,1996,2.0,477300000.0
+117,Afghanistan,Oil products,Stock changes,1996,1.0,122000000.0
+118,Afghanistan,Oil products,Total energy supply,1996,9.0,4381900000.0
+119,Afghanistan,Oil products,Transformation,1996,2.0,652900000.0
+120,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1996,2.0,652900000.0
+121,Afghanistan,Oil products,final consumption,1996,1.0,88800000.0
+122,Afghanistan,Oil products,Consumption by domestic aviation,1997,1.0,793000000.0
+123,Afghanistan,Oil products,Consumption by households,1997,2.0,616800000.0
+124,Afghanistan,Oil products,Consumption by other,1997,2.0,616800000.0
+125,Afghanistan,Oil products,Consumption by transport,1997,3.0,2526100000.0
+126,Afghanistan,Oil products,Consumption in road,1997,2.0,1733100000.0
+127,Afghanistan,Oil products,Final consumption,1997,6.0,3553600000.0
+128,Afghanistan,Oil products,Final energy consumption,1997,5.0,3142900000.0
+129,Afghanistan,Oil products,Fuel oil,1997,1.0,22200000.0
+130,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1997,2.0,595000000.0
+131,Afghanistan,Oil products,Imports,1997,9.0,4442600000.0
+132,Afghanistan,Oil products,International aviation bunkers,1997,1.0,61000000.0
+133,Afghanistan,Oil products,Non-energy uses,1997,2.0,499500000.0
+134,Afghanistan,Oil products,Stock changes,1997,1.0,122000000.0
+135,Afghanistan,Oil products,Total energy supply,1997,9.0,4259600000.0
+136,Afghanistan,Oil products,Transformation,1997,2.0,617200000.0
+137,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1997,2.0,617200000.0
+138,Afghanistan,Oil products,final consumption,1997,1.0,88800000.0
+139,Afghanistan,Oil products,Consumption by domestic aviation,1998,1.0,744200000.0
+140,Afghanistan,Oil products,Consumption by households,1998,2.0,618000000.0
+141,Afghanistan,Oil products,Consumption by other,1998,2.0,618000000.0
+142,Afghanistan,Oil products,Consumption by transport,1998,3.0,2499900000.0
+143,Afghanistan,Oil products,Consumption in road,1998,2.0,1755700000.0
+144,Afghanistan,Oil products,Final consumption,1998,6.0,3539700000.0
+145,Afghanistan,Oil products,Final energy consumption,1998,5.0,3117900000.0
+146,Afghanistan,Oil products,Fuel oil,1998,1.0,22200000.0
+147,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1998,2.0,595000000.0
+148,Afghanistan,Oil products,Imports,1998,9.0,4417600000.0
+149,Afghanistan,Oil products,International aviation bunkers,1998,1.0,61000000.0
+150,Afghanistan,Oil products,Non-energy uses,1998,2.0,499500000.0
+151,Afghanistan,Oil products,Stock changes,1998,1.0,122000000.0
+152,Afghanistan,Oil products,Total energy supply,1998,9.0,4234600000.0
+153,Afghanistan,Oil products,Transformation,1998,2.0,617200000.0
+154,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1998,2.0,617200000.0
+155,Afghanistan,Oil products,final consumption,1998,1.0,77700000.0
+156,Afghanistan,Oil products,Consumption by domestic aviation,1999,1.0,671000000.0
+157,Afghanistan,Oil products,Consumption by households,1999,2.0,632200000.0
+158,Afghanistan,Oil products,Consumption by other,1999,2.0,632200000.0
+159,Afghanistan,Oil products,Consumption by transport,1999,2.0,1839600000.0
+160,Afghanistan,Oil products,Consumption in road,1999,1.0,1168600000.0
+161,Afghanistan,Oil products,Final consumption,1999,5.0,2971300000.0
+162,Afghanistan,Oil products,Final energy consumption,1999,4.0,2471800000.0
+163,Afghanistan,Oil products,Fuel oil,1999,1.0,11100000.0
+164,Afghanistan,Oil products,Gas Oil/ Diesel Oil,1999,2.0,595000000.0
+165,Afghanistan,Oil products,Imports,1999,7.0,3838100000.0
+166,Afghanistan,Oil products,International aviation bunkers,1999,1.0,61000000.0
+167,Afghanistan,Oil products,Non-energy uses,1999,2.0,577200000.0
+168,Afghanistan,Oil products,Stock changes,1999,1.0,122000000.0
+169,Afghanistan,Oil products,Total energy supply,1999,7.0,3655100000.0
+170,Afghanistan,Oil products,Transformation,1999,2.0,606100000.0
+171,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",1999,2.0,606100000.0
+172,Afghanistan,Oil products,final consumption,1999,1.0,77700000.0
+173,Afghanistan,Oil products,Consumption by domestic aviation,2000,1.0,646600000.0
+174,Afghanistan,Oil products,Consumption by households,2000,1.0,613360000.0
+175,Afghanistan,Oil products,Consumption by other,2000,1.0,613360000.0
+176,Afghanistan,Oil products,Consumption by transport,2000,2.0,1911900000.0
+177,Afghanistan,Oil products,Consumption in road,2000,1.0,1265300000.0
+178,Afghanistan,Oil products,Final consumption,2000,5.0,3013660000.0
+179,Afghanistan,Oil products,Final energy consumption,2000,3.0,2525260000.0
+180,Afghanistan,Oil products,Fuel oil,2000,1.0,11100000.0
+181,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2000,2.0,595000000.0
+182,Afghanistan,Oil products,Imports,2000,7.0,3880460000.0
+183,Afghanistan,Oil products,International aviation bunkers,2000,1.0,61000000.0
+184,Afghanistan,Oil products,Non-energy uses,2000,3.0,566100000.0
+185,Afghanistan,Oil products,Stock changes,2000,1.0,122000000.0
+186,Afghanistan,Oil products,Total energy supply,2000,7.0,3697460000.0
+187,Afghanistan,Oil products,Transformation,2000,2.0,606100000.0
+188,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2000,2.0,606100000.0
+189,Afghanistan,Oil products,final consumption,2000,1.0,77700000.0
+190,Afghanistan,Oil products,Consumption by domestic aviation,2001,1.0,610000000.0
+191,Afghanistan,Oil products,Consumption by households,2001,1.0,624000000.0
+192,Afghanistan,Oil products,Consumption by other,2001,1.0,624000000.0
+193,Afghanistan,Oil products,Consumption by transport,2001,2.0,1900900000.0
+194,Afghanistan,Oil products,Consumption in road,2001,1.0,1290900000.0
+195,Afghanistan,Oil products,Final consumption,2001,5.0,2980000000.0
+196,Afghanistan,Oil products,Final energy consumption,2001,3.0,2524900000.0
+197,Afghanistan,Oil products,Fuel oil,2001,1.0,11100000.0
+198,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2001,2.0,476000000.0
+199,Afghanistan,Oil products,Imports,2001,7.0,4085600000.0
+200,Afghanistan,Oil products,International aviation bunkers,2001,1.0,61000000.0
+201,Afghanistan,Oil products,Non-energy uses,2001,3.0,521700000.0
+202,Afghanistan,Oil products,Stock changes,2001,2.0,479000000.0
+203,Afghanistan,Oil products,Total energy supply,2001,7.0,3545600000.0
+204,Afghanistan,Oil products,Transformation,2001,2.0,487100000.0
+205,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2001,2.0,487100000.0
+206,Afghanistan,Oil products,final consumption,2001,1.0,66600000.0
+207,Afghanistan,Oil products,Consumption by domestic aviation,2002,1.0,671000000.0
+208,Afghanistan,Oil products,Consumption by households,2002,1.0,638180000.0
+209,Afghanistan,Oil products,Consumption by other,2002,1.0,638180000.0
+210,Afghanistan,Oil products,Consumption by transport,2002,2.0,1900300000.0
+211,Afghanistan,Oil products,Consumption in road,2002,1.0,1229300000.0
+212,Afghanistan,Oil products,Final consumption,2002,5.0,3004680000.0
+213,Afghanistan,Oil products,Final energy consumption,2002,3.0,2538480000.0
+214,Afghanistan,Oil products,Fuel oil,2002,1.0,11100000.0
+215,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2002,1.0,357000000.0
+216,Afghanistan,Oil products,Imports,2002,7.0,4072380000.0
+217,Afghanistan,Oil products,International aviation bunkers,2002,1.0,61000000.0
+218,Afghanistan,Oil products,Non-energy uses,2002,3.0,521700000.0
+219,Afghanistan,Oil products,Stock changes,2002,1.0,595000000.0
+220,Afghanistan,Oil products,Total energy supply,2002,7.0,3416380000.0
+221,Afghanistan,Oil products,Transformation,2002,2.0,368100000.0
+222,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2002,2.0,368100000.0
+223,Afghanistan,Oil products,final consumption,2002,1.0,55500000.0
+224,Afghanistan,Oil products,Consumption by domestic aviation,2003,1.0,646600000.0
+225,Afghanistan,Oil products,Consumption by households,2003,1.0,653540000.0
+226,Afghanistan,Oil products,Consumption by other,2003,1.0,653540000.0
+227,Afghanistan,Oil products,Consumption by transport,2003,2.0,2680200000.0
+228,Afghanistan,Oil products,Consumption in road,2003,1.0,2033600000.0
+229,Afghanistan,Oil products,Final consumption,2003,5.0,3777740000.0
+230,Afghanistan,Oil products,Final energy consumption,2003,3.0,3333740000.0
+231,Afghanistan,Oil products,Fuel oil,2003,1.0,11100000.0
+232,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2003,1.0,595000000.0
+233,Afghanistan,Oil products,Imports,2003,7.0,5322340000.0
+234,Afghanistan,Oil products,International aviation bunkers,2003,1.0,97600000.0
+235,Afghanistan,Oil products,Non-energy uses,2003,3.0,499500000.0
+236,Afghanistan,Oil products,Stock changes,2003,1.0,785400000.0
+237,Afghanistan,Oil products,Total energy supply,2003,7.0,4439340000.0
+238,Afghanistan,Oil products,Transformation,2003,2.0,606100000.0
+239,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2003,2.0,606100000.0
+240,Afghanistan,Oil products,final consumption,2003,1.0,55500000.0
+241,Afghanistan,Oil products,Consumption by domestic aviation,2004,1.0,634400000.0
+242,Afghanistan,Oil products,Consumption by households,2004,1.0,752600000.0
+243,Afghanistan,Oil products,Consumption by other,2004,1.0,752600000.0
+244,Afghanistan,Oil products,Consumption by transport,2004,2.0,2251700000.0
+245,Afghanistan,Oil products,Consumption in road,2004,1.0,1617300000.0
+246,Afghanistan,Oil products,Final consumption,2004,4.0,3437200000.0
+247,Afghanistan,Oil products,Final energy consumption,2004,3.0,3004300000.0
+248,Afghanistan,Oil products,Fuel oil,2004,1.0,0.0
+249,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2004,1.0,595000000.0
+250,Afghanistan,Oil products,Imports,2004,3.0,3424300000.0
+251,Afghanistan,Oil products,International aviation bunkers,2004,1.0,122000000.0
+252,Afghanistan,Oil products,Non-energy uses,2004,2.0,488400000.0
+253,Afghanistan,Oil products,Stock changes,2004,1.0,-785400000.0
+254,Afghanistan,Oil products,Total energy supply,2004,3.0,4087700000.0
+255,Afghanistan,Oil products,Transformation,2004,1.0,595000000.0
+256,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2004,2.0,595000000.0
+257,Afghanistan,Oil products,final consumption,2004,1.0,55500000.0
+258,Afghanistan,Oil products,Consumption by domestic aviation,2005,1.0,1830000000.0
+259,Afghanistan,Oil products,Consumption by households,2005,1.0,899000000.0
+260,Afghanistan,Oil products,Consumption by other,2005,1.0,899000000.0
+261,Afghanistan,Oil products,Consumption by transport,2005,1.0,4238800000.0
+262,Afghanistan,Oil products,Consumption in road,2005,0.0,2408800000.0
+263,Afghanistan,Oil products,Final consumption,2005,4.0,5692800000.0
+264,Afghanistan,Oil products,Final energy consumption,2005,2.0,5137800000.0
+265,Afghanistan,Oil products,Fuel oil,2005,1.0,11100000.0
+266,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2005,1.0,595000000.0
+267,Afghanistan,Oil products,Imports,2005,6.0,6051800000.0
+268,Afghanistan,Oil products,International aviation bunkers,2005,1.0,244000000.0
+269,Afghanistan,Oil products,Non-energy uses,2005,3.0,599400000.0
+270,Afghanistan,Oil products,Stock changes,2005,1.0,-535500000.0
+271,Afghanistan,Oil products,Total energy supply,2005,6.0,6343300000.0
+272,Afghanistan,Oil products,Transformation,2005,2.0,606100000.0
+273,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2005,2.0,606100000.0
+274,Afghanistan,Oil products,final consumption,2005,1.0,44400000.0
+275,Afghanistan,Oil products,Consumption by domestic aviation,2006,1.0,1952000000.0
+276,Afghanistan,Oil products,Consumption by households,2006,2.0,834000000.0
+277,Afghanistan,Oil products,Consumption by other,2006,2.0,834000000.0
+278,Afghanistan,Oil products,Consumption by transport,2006,1.0,5357100000.0
+279,Afghanistan,Oil products,Consumption in road,2006,0.0,3405100000.0
+280,Afghanistan,Oil products,Final consumption,2006,5.0,6890400000.0
+281,Afghanistan,Oil products,Final energy consumption,2006,3.0,6191100000.0
+282,Afghanistan,Oil products,Fuel oil,2006,1.0,11100000.0
+283,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2006,1.0,357000000.0
+284,Afghanistan,Oil products,Imports,2006,6.0,7369000000.0
+285,Afghanistan,Oil products,International aviation bunkers,2006,1.0,305000000.0
+286,Afghanistan,Oil products,Non-energy uses,2006,3.0,743700000.0
+287,Afghanistan,Oil products,Stock changes,2006,2.0,-238900000.0
+288,Afghanistan,Oil products,Total energy supply,2006,6.0,7302900000.0
+289,Afghanistan,Oil products,Transformation,2006,2.0,368100000.0
+290,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2006,2.0,368100000.0
+291,Afghanistan,Oil products,final consumption,2006,1.0,44400000.0
+292,Afghanistan,Oil products,Consumption by domestic aviation,2007,1.0,2159400000.0
+293,Afghanistan,Oil products,Consumption by households,2007,2.0,847000000.0
+294,Afghanistan,Oil products,Consumption by other,2007,2.0,847000000.0
+295,Afghanistan,Oil products,Consumption by transport,2007,1.0,5993800000.0
+296,Afghanistan,Oil products,Consumption in road,2007,0.0,3834400000.0
+297,Afghanistan,Oil products,Final consumption,2007,5.0,7673300000.0
+298,Afghanistan,Oil products,Final energy consumption,2007,3.0,6840800000.0
+299,Afghanistan,Oil products,Fuel oil,2007,1.0,11100000.0
+300,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2007,2.0,357000000.0
+301,Afghanistan,Oil products,Imports,2007,6.0,8108900000.0
+302,Afghanistan,Oil products,International aviation bunkers,2007,1.0,427000000.0
+303,Afghanistan,Oil products,Non-energy uses,2007,3.0,876900000.0
+304,Afghanistan,Oil products,Stock changes,2007,1.0,-82600000.0
+305,Afghanistan,Oil products,Total energy supply,2007,6.0,7764500000.0
+306,Afghanistan,Oil products,Transformation,2007,2.0,368100000.0
+307,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2007,2.0,368100000.0
+308,Afghanistan,Oil products,final consumption,2007,1.0,44400000.0
+309,Afghanistan,Oil products,Consumption by commerce and public services,2008,1.0,18200000.0
+310,Afghanistan,Oil products,Consumption by domestic aviation,2008,1.0,2336300000.0
+311,Afghanistan,Oil products,Consumption by households,2008,2.0,845360000.0
+312,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2008,1.0,1300000.0
+313,Afghanistan,Oil products,Consumption by other,2008,2.0,863560000.0
+314,Afghanistan,Oil products,Consumption by transport,2008,3.0,10056460000.0
+315,Afghanistan,Oil products,Consumption in road,2008,2.0,7720160000.0
+316,Afghanistan,Oil products,Final consumption,2008,7.0,11882580000.0
+317,Afghanistan,Oil products,Final energy consumption,2008,5.0,10921320000.0
+318,Afghanistan,Oil products,Fuel oil,2008,1.0,11100000.0
+319,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2008,2.0,357000000.0
+320,Afghanistan,Oil products,Imports,2008,4.0,12821160000.0
+321,Afghanistan,Oil products,International aviation bunkers,2008,1.0,584380000.0
+322,Afghanistan,Oil products,Non-energy uses,2008,3.0,994560000.0
+323,Afghanistan,Oil products,Stock changes,2008,1.0,-47200000.0
+324,Afghanistan,Oil products,Total energy supply,2008,4.0,12283980000.0
+325,Afghanistan,Oil products,Transformation,2008,2.0,368100000.0
+326,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2008,2.0,368100000.0
+327,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2008,1.0,1300000.0
+328,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2008,1.0,1300000.0
+329,Afghanistan,Oil products,final consumption,2008,1.0,33300000.0
+330,Afghanistan,Oil products,Consumption by commerce and public services,2009,1.0,27300000.0
+331,Afghanistan,Oil products,Consumption by domestic aviation,2009,1.0,3558740000.0
+332,Afghanistan,Oil products,Consumption by households,2009,2.0,1400180000.0
+333,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2009,1.0,1300000.0
+334,Afghanistan,Oil products,Consumption by other,2009,2.0,1427480000.0
+335,Afghanistan,Oil products,Consumption by transport,2009,3.0,16432570000.0
+336,Afghanistan,Oil products,Consumption in road,2009,2.0,12873830000.0
+337,Afghanistan,Oil products,Final consumption,2009,7.0,19439770000.0
+338,Afghanistan,Oil products,Final energy consumption,2009,5.0,17861350000.0
+339,Afghanistan,Oil products,Fuel oil,2009,1.0,11100000.0
+340,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2009,2.0,178500000.0
+341,Afghanistan,Oil products,Imports,2009,4.0,21083050000.0
+342,Afghanistan,Oil products,International aviation bunkers,2009,1.0,889380000.0000001
+343,Afghanistan,Oil products,Non-energy uses,2009,3.0,1611720000.0
+344,Afghanistan,Oil products,Stock changes,2009,1.0,531000000.0
+345,Afghanistan,Oil products,Total energy supply,2009,4.0,19662670000.0
+346,Afghanistan,Oil products,Transformation,2009,2.0,189600000.0
+347,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2009,2.0,189600000.0
+348,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2009,1.0,1300000.0
+349,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2009,1.0,1300000.0
+350,Afghanistan,Oil products,final consumption,2009,1.0,33300000.0
+351,Afghanistan,Oil products,Consumption by commerce and public services,2010,1.0,44200000.0
+352,Afghanistan,Oil products,Consumption by domestic aviation,2010,1.0,5263080000.0
+353,Afghanistan,Oil products,Consumption by households,2010,2.0,1812300000.0
+354,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2010,1.0,2600000.0
+355,Afghanistan,Oil products,Consumption by other,2010,2.0,1856500000.0
+356,Afghanistan,Oil products,Consumption by transport,2010,3.0,20893260000.0
+357,Afghanistan,Oil products,Consumption in road,2010,2.0,15630180000.0
+358,Afghanistan,Oil products,Final consumption,2010,7.0,24164280000.0
+359,Afghanistan,Oil products,Final energy consumption,2010,5.0,22752360000.0
+360,Afghanistan,Oil products,Fuel oil,2010,1.0,11100000.0
+361,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2010,2.0,238000000.0
+362,Afghanistan,Oil products,Imports,2010,4.0,25882360000.0
+363,Afghanistan,Oil products,International aviation bunkers,2010,1.0,1316380000.0
+364,Afghanistan,Oil products,Non-energy uses,2010,3.0,1445220000.0
+365,Afghanistan,Oil products,Stock changes,2010,1.0,118000000.0
+366,Afghanistan,Oil products,Total energy supply,2010,4.0,24447980000.0
+367,Afghanistan,Oil products,Transformation,2010,1.0,249100000.0
+368,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2010,1.0,249100000.0
+369,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2010,1.0,2600000.0
+370,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2010,1.0,2600000.0
+371,Afghanistan,Oil products,final consumption,2010,1.0,33300000.0
+372,Afghanistan,Oil products,Consumption by commerce and public services,2011,1.0,85800000.0
+373,Afghanistan,Oil products,Consumption by domestic aviation,2011,1.0,9584320000.0
+374,Afghanistan,Oil products,Consumption by households,2011,1.0,3002700000.0
+375,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2011,1.0,5200000.0
+376,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2011,1.0,55500000.0
+377,Afghanistan,Oil products,Consumption by other,2011,2.0,3308100000.0
+378,Afghanistan,Oil products,Consumption by other consumers,2011,1.0,219600000.0
+379,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2011,1.0,55500000.0
+380,Afghanistan,Oil products,Consumption by transport,2011,2.0,25430980000.0
+381,Afghanistan,Oil products,Consumption in road,2011,1.0,15846660000.0
+382,Afghanistan,Oil products,Final consumption,2011,6.0,30183950000.0
+383,Afghanistan,Oil products,Final energy consumption,2011,4.0,28799780000.0
+384,Afghanistan,Oil products,Fuel oil,2011,1.0,11100000.0
+385,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2011,2.0,238000000.0
+386,Afghanistan,Oil products,Imports,2011,0.0,33640900000.0
+387,Afghanistan,Oil products,International aviation bunkers,2011,1.0,3727100000.0
+388,Afghanistan,Oil products,Non-energy uses,2011,3.0,1417470000.0
+389,Afghanistan,Oil products,Production,2011,4.0,556700000.0
+390,Afghanistan,Oil products,Stock changes,2011,1.0,0.0
+391,Afghanistan,Oil products,Total energy supply,2011,1.0,30470500000.0
+392,Afghanistan,Oil products,Transformation,2011,1.0,249100000.0
+393,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2011,1.0,249100000.0
+394,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2011,1.0,5200000.0
+395,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2011,1.0,5200000.0
+396,Afghanistan,Oil products,final consumption,2011,1.0,33300000.0
+397,Afghanistan,Oil products,production from refineries,2011,4.0,556700000.0
+398,Afghanistan,Oil products,Consumption by commerce and public services,2012,1.0,88400000.0
+399,Afghanistan,Oil products,Consumption by domestic aviation,2012,1.0,4312700000.0
+400,Afghanistan,Oil products,Consumption by households,2012,2.0,3047700000.0
+401,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2012,1.0,5200000.0
+402,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2012,1.0,88800000.0
+403,Afghanistan,Oil products,Consumption by other,2012,3.0,3502100000.0
+404,Afghanistan,Oil products,Consumption by other consumers,2012,1.0,366000000.0
+405,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2012,1.0,88800000.0
+406,Afghanistan,Oil products,Consumption by transport,2012,2.0,22102100000.0
+407,Afghanistan,Oil products,Consumption in road,2012,1.0,17789400000.0
+408,Afghanistan,Oil products,Final consumption,2012,7.0,27945950000.0
+409,Afghanistan,Oil products,Final energy consumption,2012,5.0,25698200000.0
+410,Afghanistan,Oil products,Fuel oil,2012,1.0,11100000.0
+411,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2012,2.0,238000000.0
+412,Afghanistan,Oil products,Imports,2012,0.0,28341840000.0
+413,Afghanistan,Oil products,International aviation bunkers,2012,1.0,1078480000.0
+414,Afghanistan,Oil products,Non-energy uses,2012,3.0,2281050000.0
+415,Afghanistan,Oil products,Production,2012,4.0,900600000.0
+416,Afghanistan,Oil products,Stock changes,2012,1.0,-59000000.0
+417,Afghanistan,Oil products,Total energy supply,2012,1.0,28222960000.0
+418,Afghanistan,Oil products,Transformation,2012,1.0,249100000.0
+419,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2012,1.0,249100000.0
+420,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2012,1.0,5200000.0
+421,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2012,1.0,5200000.0
+422,Afghanistan,Oil products,final consumption,2012,1.0,33300000.0
+423,Afghanistan,Oil products,production from refineries,2012,4.0,900600000.0
+424,Afghanistan,Oil products,Consumption by commerce and public services,2013,1.0,149500000.0
+425,Afghanistan,Oil products,Consumption by domestic aviation,2013,1.0,3224460000.0
+426,Afghanistan,Oil products,Consumption by households,2013,2.0,4895000000.0
+427,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2013,1.0,9100000.0
+428,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2013,1.0,99900000.0
+429,Afghanistan,Oil products,Consumption by other,2013,3.0,5459300000.0
+430,Afghanistan,Oil products,Consumption by other consumers,2013,1.0,414800000.0
+431,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2013,1.0,99900000.0
+432,Afghanistan,Oil products,Consumption by transport,2013,2.0,16394760000.0
+433,Afghanistan,Oil products,Consumption in road,2013,1.0,13170300000.0
+434,Afghanistan,Oil products,Final consumption,2013,7.0,26603970000.0
+435,Afghanistan,Oil products,Final energy consumption,2013,5.0,21963060000.0
+436,Afghanistan,Oil products,Fuel oil,2013,1.0,11100000.0
+437,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2013,2.0,297500000.0
+438,Afghanistan,Oil products,Imports,2013,3.0,26644990000.0
+439,Afghanistan,Oil products,International aviation bunkers,2013,1.0,707600000.0
+440,Afghanistan,Oil products,Non-energy uses,2013,3.0,4674210000.0
+441,Afghanistan,Oil products,Production,2013,4.0,1019200000.0
+442,Afghanistan,Oil products,Stock changes,2013,1.0,11800000.0
+443,Afghanistan,Oil products,Total energy supply,2013,3.0,26944790000.0
+444,Afghanistan,Oil products,Transformation,2013,2.0,308600000.0
+445,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2013,2.0,308600000.0
+446,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2013,1.0,9100000.0
+447,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2013,1.0,9100000.0
+448,Afghanistan,Oil products,final consumption,2013,1.0,33300000.0
+449,Afghanistan,Oil products,production from refineries,2013,4.0,1019200000.0
+450,Afghanistan,Oil products,Consumption by commerce and public services,2014,1.0,197600000.0
+451,Afghanistan,Oil products,Consumption by domestic aviation,2014,1.0,3189079999.9999995
+452,Afghanistan,Oil products,Consumption by households,2014,2.0,6315800000.0
+453,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2014,1.0,11700000.0
+454,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2014,1.0,111000000.0
+455,Afghanistan,Oil products,Consumption by other,2014,3.0,6977000000.0
+456,Afghanistan,Oil products,Consumption by other consumers,2014,1.0,463600000.0
+457,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2014,1.0,111000000.0
+458,Afghanistan,Oil products,Consumption by transport,2014,2.0,13384880000.0
+459,Afghanistan,Oil products,Consumption in road,2014,1.0,10195800000.0
+460,Afghanistan,Oil products,Final consumption,2014,7.0,22442620000.0
+461,Afghanistan,Oil products,Final energy consumption,2014,5.0,20484580000.0
+462,Afghanistan,Oil products,Fuel oil,2014,1.0,11100000.0
+463,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2014,2.0,178500000.0
+464,Afghanistan,Oil products,Imports,2014,3.0,22200830000.0
+465,Afghanistan,Oil products,International aviation bunkers,2014,1.0,700280000.0
+466,Afghanistan,Oil products,Non-energy uses,2014,3.0,1991340000.0
+467,Afghanistan,Oil products,Production,2014,4.0,1137800000.0
+468,Afghanistan,Oil products,Stock changes,2014,1.0,-23600000.0
+469,Afghanistan,Oil products,Total energy supply,2014,3.0,22661950000.0
+470,Afghanistan,Oil products,Transformation,2014,2.0,189600000.0
+471,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2014,2.0,189600000.0
+472,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2014,1.0,11700000.0
+473,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2014,1.0,11700000.0
+474,Afghanistan,Oil products,final consumption,2014,1.0,33300000.0
+475,Afghanistan,Oil products,production from refineries,2014,4.0,1137800000.0
+476,Afghanistan,Oil products,Consumption by commerce and public services,2015,1.0,295100000.0
+477,Afghanistan,Oil products,Consumption by domestic aviation,2015,1.0,1420080000.0
+478,Afghanistan,Oil products,Consumption by households,2015,2.0,9151640000.0
+479,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2015,1.0,18200000.0
+480,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2015,1.0,111000000.0
+481,Afghanistan,Oil products,Consumption by other,2015,3.0,9971340000.0
+482,Afghanistan,Oil products,Consumption by other consumers,2015,1.0,524600000.0
+483,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2015,1.0,111000000.0
+484,Afghanistan,Oil products,Consumption by transport,2015,2.0,16389980000.0
+485,Afghanistan,Oil products,Consumption in road,2015,1.0,14969900000.0
+486,Afghanistan,Oil products,Final consumption,2015,7.0,27628270000.0
+487,Afghanistan,Oil products,Final energy consumption,2015,5.0,26490520000.0
+488,Afghanistan,Oil products,Fuel oil,2015,1.0,11100000.0
+489,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2015,2.0,178500000.0
+490,Afghanistan,Oil products,Imports,2015,2.0,28086930000.0
+491,Afghanistan,Oil products,International aviation bunkers,2015,1.0,355020000.0
+492,Afghanistan,Oil products,Non-energy uses,2015,3.0,1171050000.0
+493,Afghanistan,Oil products,Production,2015,4.0,1258300000.0
+494,Afghanistan,Oil products,Stock changes,2015,2.0,1143800000.0
+495,Afghanistan,Oil products,Total energy supply,2015,3.0,27846410000.0
+496,Afghanistan,Oil products,Transformation,2015,2.0,189600000.0
+497,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2015,2.0,189600000.0
+498,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2015,1.0,18200000.0
+499,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2015,1.0,18200000.0
+500,Afghanistan,Oil products,final consumption,2015,1.0,33300000.0
+501,Afghanistan,Oil products,production from refineries,2015,4.0,1258300000.0
+502,Afghanistan,Oil products,Consumption by commerce and public services,2016,1.0,308100000.0
+503,Afghanistan,Oil products,Consumption by domestic aviation,2016,1.0,1079700000.0
+504,Afghanistan,Oil products,Consumption by households,2016,2.0,9547300000.0
+505,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2016,1.0,19500000.0
+506,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2016,1.0,111000000.0
+507,Afghanistan,Oil products,Consumption by other,2016,3.0,10380000000.0
+508,Afghanistan,Oil products,Consumption by other consumers,2016,1.0,524600000.0
+509,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2016,1.0,111000000.0
+510,Afghanistan,Oil products,Consumption by transport,2016,2.0,12635300000.0
+511,Afghanistan,Oil products,Consumption in road,2016,1.0,11555600000.0
+512,Afghanistan,Oil products,Final consumption,2016,7.0,24944000000.0
+513,Afghanistan,Oil products,Final energy consumption,2016,5.0,23145800000.0
+514,Afghanistan,Oil products,Fuel oil,2016,1.0,11100000.0
+515,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2016,2.0,238000000.0
+516,Afghanistan,Oil products,Imports,2016,2.0,24195980000.0
+517,Afghanistan,Oil products,International aviation bunkers,2016,1.0,269620000.0
+518,Afghanistan,Oil products,Non-energy uses,2016,3.0,1831500000.0
+519,Afghanistan,Oil products,Production,2016,4.0,1258300000.0
+520,Afghanistan,Oil products,Stock changes,2016,2.0,-46500000.0
+521,Afghanistan,Oil products,Total energy supply,2016,3.0,25231160000.0
+522,Afghanistan,Oil products,Transformation,2016,2.0,249100000.0
+523,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2016,2.0,249100000.0
+524,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2016,1.0,19500000.0
+525,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2016,1.0,19500000.0
+526,Afghanistan,Oil products,final consumption,2016,1.0,33300000.0
+527,Afghanistan,Oil products,production from refineries,2016,4.0,1258300000.0
+528,Afghanistan,Oil products,Consumption by commerce and public services,2017,1.0,261300000.00000003
+529,Afghanistan,Oil products,Consumption by domestic aviation,2017,1.0,3384279999.9999995
+530,Afghanistan,Oil products,Consumption by households,2017,2.0,8157540000.0
+531,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2017,1.0,16900000.0
+532,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2017,1.0,133200000.0
+533,Afghanistan,Oil products,Consumption by other,2017,3.0,8955640000.0
+534,Afghanistan,Oil products,Consumption by other consumers,2017,1.0,536800000.0
+535,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2017,1.0,133200000.0
+536,Afghanistan,Oil products,Consumption by transport,2017,2.0,15036520000.0
+537,Afghanistan,Oil products,Consumption in road,2017,1.0,11652240000.0
+538,Afghanistan,Oil products,Final consumption,2017,7.0,25551960000.0
+539,Afghanistan,Oil products,Final energy consumption,2017,5.0,24142260000.0
+540,Afghanistan,Oil products,Fuel oil,2017,1.0,11100000.0
+541,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2017,2.0,238000000.0
+542,Afghanistan,Oil products,Imports,2017,3.0,24164900000.0
+543,Afghanistan,Oil products,International aviation bunkers,2017,1.0,742980000.0
+544,Afghanistan,Oil products,Non-energy uses,2017,3.0,1443000000.0
+545,Afghanistan,Oil products,Production,2017,4.0,1326800000.0
+546,Afghanistan,Oil products,Stock changes,2017,1.0,-1131700000.0
+547,Afghanistan,Oil products,Total energy supply,2017,3.0,25880420000.0
+548,Afghanistan,Oil products,Transformation,2017,1.0,249100000.0
+549,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2017,1.0,249100000.0
+550,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2017,1.0,16900000.0
+551,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2017,1.0,16900000.0
+552,Afghanistan,Oil products,final consumption,2017,1.0,33300000.0
+553,Afghanistan,Oil products,production from refineries,2017,4.0,1326800000.0
+554,Afghanistan,Oil products,Consumption by commerce and public services,2018,1.0,256100000.0
+555,Afghanistan,Oil products,Consumption by domestic aviation,2018,1.0,2995100000.0
+556,Afghanistan,Oil products,Consumption by households,2018,2.0,7983119999.999999
+557,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2018,1.0,15600000.0
+558,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2018,1.0,222000000.0
+559,Afghanistan,Oil products,Consumption by other,2018,4.0,9094350000.0
+560,Afghanistan,Oil products,Consumption by other consumers,2018,2.0,855130000.0
+561,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2018,1.0,222000000.0
+562,Afghanistan,Oil products,Consumption by transport,2018,2.0,16809520000.0
+563,Afghanistan,Oil products,Consumption in road,2018,1.0,13814420000.0
+564,Afghanistan,Oil products,Final consumption,2018,8.0,27503440000.0
+565,Afghanistan,Oil products,Final energy consumption,2018,6.0,26141470000.0
+566,Afghanistan,Oil products,Fuel oil,2018,1.0,11100000.0
+567,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2018,2.0,387940000.0
+568,Afghanistan,Oil products,Imports,2018,2.0,26024870000.0
+569,Afghanistan,Oil products,International aviation bunkers,2018,1.0,657580000.0
+570,Afghanistan,Oil products,Non-energy uses,2018,3.0,1395270000.0
+571,Afghanistan,Oil products,Production,2018,4.0,2082800000.0
+572,Afghanistan,Oil products,Stock changes,2018,2.0,-486800000.0
+573,Afghanistan,Oil products,Total energy supply,2018,2.0,27936890000.0
+574,Afghanistan,Oil products,Transformation,2018,2.0,399040000.0
+575,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2018,2.0,399040000.0
+576,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2018,1.0,15600000.0
+577,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2018,1.0,15600000.0
+578,Afghanistan,Oil products,final consumption,2018,1.0,33300000.0
+579,Afghanistan,Oil products,production from refineries,2018,4.0,2082800000.0
+580,Afghanistan,Oil products,Consumption by commerce and public services,2019,1.0,280800000.0
+581,Afghanistan,Oil products,Consumption by domestic aviation,2019,1.0,533140000.00000006
+582,Afghanistan,Oil products,Consumption by households,2019,2.0,8725100000.0
+583,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2019,1.0,18200000.0
+584,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2019,1.0,133200000.0
+585,Afghanistan,Oil products,Consumption by other,2019,4.0,9594870000.0
+586,Afghanistan,Oil products,Consumption by other consumers,2019,2.0,588970000.0
+587,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2019,1.0,133200000.0
+588,Afghanistan,Oil products,Consumption by transport,2019,2.0,17240020000.0
+589,Afghanistan,Oil products,Consumption in road,2019,1.0,16706880000.0
+590,Afghanistan,Oil products,Final consumption,2019,8.0,28393770000.0
+591,Afghanistan,Oil products,Final energy consumption,2019,6.0,26986290000.0
+592,Afghanistan,Oil products,Fuel oil,2019,1.0,11100000.0
+593,Afghanistan,Oil products,Gas Oil/ Diesel Oil,2019,2.0,452200000.0
+594,Afghanistan,Oil products,Imports,2019,3.0,29763680000.0
+595,Afghanistan,Oil products,International aviation bunkers,2019,1.0,117120000.0
+596,Afghanistan,Oil products,Non-energy uses,2019,3.0,1440780000.0
+597,Afghanistan,Oil products,Production,2019,4.0,1326800000.0
+598,Afghanistan,Oil products,Stock changes,2019,2.0,2082700000.0
+599,Afghanistan,Oil products,Total energy supply,2019,3.0,28890660000.0
+600,Afghanistan,Oil products,Transformation,2019,2.0,463300000.0
+601,Afghanistan,Oil products,"Transformation in electricity, CHP and heat plants",2019,2.0,463300000.0
+602,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2019,1.0,18200000.0
+603,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2019,1.0,18200000.0
+604,Afghanistan,Oil products,final consumption,2019,1.0,33300000.0
+605,Afghanistan,Oil products,production from refineries,2019,4.0,1326800000.0
+606,Afghanistan,Oil products,Consumption by commerce and public services,2020,1.0,282100000.0
+607,Afghanistan,Oil products,Consumption by domestic aviation,2020,1.0,640500000.0
+608,Afghanistan,Oil products,Consumption by households,2020,2.0,8769200000.0
+609,Afghanistan,Oil products,Consumption by industries not elsewhere specified,2020,1.0,18200000.0
+610,Afghanistan,Oil products,"Consumption by manufacturing, construction and non-fuel industry",2020,1.0,55500000.0
+611,Afghanistan,Oil products,Consumption by other,2020,4.0,9309750000.0
+612,Afghanistan,Oil products,Consumption by other consumers,2020,2.0,258450000.0
+613,Afghanistan,Oil products,"Consumption by other manuf., const. and non-fuel ind.",2020,1.0,55500000.0
+614,Afghanistan,Oil products,Consumption by transport,2020,1.0,12940540000.0
+615,Afghanistan,Oil products,Consumption in road,2020,0.0,12300040000.0
+616,Afghanistan,Oil products,Final consumption,2020,7.0,23604930000.0
+617,Afghanistan,Oil products,Final energy consumption,2020,5.0,22323990000.0
+618,Afghanistan,Oil products,Imports,2020,1.0,29743380000.0
+619,Afghanistan,Oil products,International aviation bunkers,2020,1.0,140300000.0
+620,Afghanistan,Oil products,Non-energy uses,2020,2.0,1280940000.0
+621,Afghanistan,Oil products,Production,2020,4.0,544800000.0
+622,Afghanistan,Oil products,Stock changes,2020,1.0,11800000.0
+623,Afghanistan,Oil products,Total energy supply,2020,2.0,30136080000.0
+624,Afghanistan,Oil products,"consumption by manufacturing, construction and non-fuel mining industry",2020,1.0,18200000.0
+625,Afghanistan,Oil products,"consumption by other manuf., const. and non-fuel min. ind.",2020,1.0,18200000.0
+626,Afghanistan,Oil products,production from refineries,2020,4.0,544800000.0
+0,Afghanistan,Solid biofuels,Consumption by households,1990,2.0,1457031700.0
+1,Afghanistan,Solid biofuels,Consumption by other,1990,2.0,1457031700.0
+2,Afghanistan,Solid biofuels,Final consumption,1990,2.0,1457031700.0
+3,Afghanistan,Solid biofuels,Final energy consumption,1990,2.0,1457031700.0
+4,Afghanistan,Solid biofuels,Production,1990,0.0,2041941700.0
+5,Afghanistan,Solid biofuels,Total energy supply,1990,0.0,2041941700.0
+6,Afghanistan,Solid biofuels,Transformation,1990,1.0,584910000.0
+7,Afghanistan,Solid biofuels,Transformation in charcoal plants,1990,1.0,584910000.0
+8,Afghanistan,Solid biofuels,Consumption by households,1991,2.0,1498955850.0
+9,Afghanistan,Solid biofuels,Consumption by other,1991,2.0,1498955850.0
+10,Afghanistan,Solid biofuels,Final consumption,1991,2.0,1498955850.0
+11,Afghanistan,Solid biofuels,Final energy consumption,1991,2.0,1498955850.0
+12,Afghanistan,Solid biofuels,Production,1991,0.0,2104160850.0
+13,Afghanistan,Solid biofuels,Total energy supply,1991,0.0,2104160850.0
+14,Afghanistan,Solid biofuels,Transformation,1991,1.0,605205000.0
+15,Afghanistan,Solid biofuels,Transformation in charcoal plants,1991,1.0,605205000.0
+16,Afghanistan,Solid biofuels,Consumption by households,1992,2.0,1593593550.0
+17,Afghanistan,Solid biofuels,Consumption by other,1992,2.0,1593593550.0
+18,Afghanistan,Solid biofuels,Final consumption,1992,2.0,1593593550.0
+19,Afghanistan,Solid biofuels,Final energy consumption,1992,2.0,1593593550.0
+20,Afghanistan,Solid biofuels,Production,1992,0.0,2247758550.0
+21,Afghanistan,Solid biofuels,Total energy supply,1992,0.0,2247758550.0
+22,Afghanistan,Solid biofuels,Transformation,1992,1.0,654165000.0
+23,Afghanistan,Solid biofuels,Transformation in charcoal plants,1992,1.0,654165000.0
+24,Afghanistan,Solid biofuels,Consumption by households,1993,2.0,1709444200.0
+25,Afghanistan,Solid biofuels,Consumption by other,1993,2.0,1709444200.0
+26,Afghanistan,Solid biofuels,Final consumption,1993,2.0,1709444200.0
+27,Afghanistan,Solid biofuels,Final energy consumption,1993,2.0,1709444200.0
+28,Afghanistan,Solid biofuels,Production,1993,0.0,2423354200.0
+29,Afghanistan,Solid biofuels,Total energy supply,1993,0.0,2423354200.0
+30,Afghanistan,Solid biofuels,Transformation,1993,1.0,713910000.0
+31,Afghanistan,Solid biofuels,Transformation in charcoal plants,1993,1.0,713910000.0
+32,Afghanistan,Solid biofuels,Consumption by households,1994,2.0,1838509600.0
+33,Afghanistan,Solid biofuels,Consumption by other,1994,2.0,1838509600.0
+34,Afghanistan,Solid biofuels,Final consumption,1994,2.0,1838509600.0
+35,Afghanistan,Solid biofuels,Final energy consumption,1994,2.0,1838509600.0
+36,Afghanistan,Solid biofuels,Production,1994,0.0,2619589600.0
+37,Afghanistan,Solid biofuels,Total energy supply,1994,0.0,2619589600.0
+38,Afghanistan,Solid biofuels,Transformation,1994,1.0,781080000.0
+39,Afghanistan,Solid biofuels,Transformation in charcoal plants,1994,1.0,781080000.0
+40,Afghanistan,Solid biofuels,Consumption by households,1995,2.0,1973540550.0
+41,Afghanistan,Solid biofuels,Consumption by other,1995,2.0,1973540550.0
+42,Afghanistan,Solid biofuels,Final consumption,1995,2.0,1973540550.0
+43,Afghanistan,Solid biofuels,Final energy consumption,1995,2.0,1973540550.0
+44,Afghanistan,Solid biofuels,Production,1995,0.0,2826305550.0
+45,Afghanistan,Solid biofuels,Total energy supply,1995,0.0,2826305550.0
+46,Afghanistan,Solid biofuels,Transformation,1995,1.0,852765000.0
+47,Afghanistan,Solid biofuels,Transformation in charcoal plants,1995,1.0,852765000.0
+48,Afghanistan,Solid biofuels,Consumption by households,1996,2.0,2117972650.0
+49,Afghanistan,Solid biofuels,Consumption by other,1996,2.0,2117972650.0
+50,Afghanistan,Solid biofuels,Final consumption,1996,2.0,2117972650.0
+51,Afghanistan,Solid biofuels,Final energy consumption,1996,2.0,2117972650.0
+52,Afghanistan,Solid biofuels,Production,1996,0.0,3046817650.0
+53,Afghanistan,Solid biofuels,Total energy supply,1996,0.0,3046817650.0
+54,Afghanistan,Solid biofuels,Transformation,1996,1.0,928845000.0
+55,Afghanistan,Solid biofuels,Transformation in charcoal plants,1996,1.0,928845000.0
+56,Afghanistan,Solid biofuels,Consumption by households,1997,2.0,2267126300.0
+57,Afghanistan,Solid biofuels,Consumption by other,1997,2.0,2267126300.0
+58,Afghanistan,Solid biofuels,Final consumption,1997,2.0,2267126300.0
+59,Afghanistan,Solid biofuels,Final energy consumption,1997,2.0,2267126300.0
+60,Afghanistan,Solid biofuels,Production,1997,0.0,3275366300.0
+61,Afghanistan,Solid biofuels,Total energy supply,1997,0.0,3275366300.0
+62,Afghanistan,Solid biofuels,Transformation,1997,1.0,1008240000.0
+63,Afghanistan,Solid biofuels,Transformation in charcoal plants,1997,1.0,1008240000.0
+64,Afghanistan,Solid biofuels,Consumption by households,1998,2.0,2369044450.0
+65,Afghanistan,Solid biofuels,Consumption by other,1998,2.0,2369044450.0
+66,Afghanistan,Solid biofuels,Final consumption,1998,2.0,2369044450.0
+67,Afghanistan,Solid biofuels,Final energy consumption,1998,2.0,2369044450.0
+68,Afghanistan,Solid biofuels,Production,1998,0.0,3434029449.9999995
+69,Afghanistan,Solid biofuels,Total energy supply,1998,0.0,3434029449.9999995
+70,Afghanistan,Solid biofuels,Transformation,1998,1.0,1064985000.0
+71,Afghanistan,Solid biofuels,Transformation in charcoal plants,1998,1.0,1064985000.0
+72,Afghanistan,Solid biofuels,Consumption by households,1999,2.0,2498621750.0
+73,Afghanistan,Solid biofuels,Consumption by other,1999,2.0,2498621750.0
+74,Afghanistan,Solid biofuels,Final consumption,1999,2.0,2498621750.0
+75,Afghanistan,Solid biofuels,Final energy consumption,1999,2.0,2498621750.0
+76,Afghanistan,Solid biofuels,Production,1999,0.0,3634646750.0
+77,Afghanistan,Solid biofuels,Total energy supply,1999,0.0,3634646750.0
+78,Afghanistan,Solid biofuels,Transformation,1999,1.0,1136025000.0
+79,Afghanistan,Solid biofuels,Transformation in charcoal plants,1999,1.0,1136025000.0
+80,Afghanistan,Solid biofuels,Consumption by households,2000,2.0,2635151050.0
+81,Afghanistan,Solid biofuels,Consumption by other,2000,2.0,2635151050.0
+82,Afghanistan,Solid biofuels,Final consumption,2000,2.0,2635151050.0
+83,Afghanistan,Solid biofuels,Final energy consumption,2000,2.0,2635151050.0
+84,Afghanistan,Solid biofuels,Production,2000,0.0,3847316050.0
+85,Afghanistan,Solid biofuels,Total energy supply,2000,0.0,3847316050.0
+86,Afghanistan,Solid biofuels,Transformation,2000,1.0,1212165000.0
+87,Afghanistan,Solid biofuels,Transformation in charcoal plants,2000,1.0,1212165000.0
+88,Afghanistan,Solid biofuels,Consumption by households,2001,2.0,2703333350.0
+89,Afghanistan,Solid biofuels,Consumption by other,2001,2.0,2703333350.0
+90,Afghanistan,Solid biofuels,Final consumption,2001,2.0,2703333350.0
+91,Afghanistan,Solid biofuels,Final energy consumption,2001,2.0,2703333350.0
+92,Afghanistan,Solid biofuels,Production,2001,0.0,3959538350.0
+93,Afghanistan,Solid biofuels,Total energy supply,2001,0.0,3959538350.0
+94,Afghanistan,Solid biofuels,Transformation,2001,1.0,1256205000.0
+95,Afghanistan,Solid biofuels,Transformation in charcoal plants,2001,1.0,1256205000.0
+96,Afghanistan,Solid biofuels,Consumption by households,2002,2.0,2773374500.0
+97,Afghanistan,Solid biofuels,Consumption by other,2002,2.0,2773374500.0
+98,Afghanistan,Solid biofuels,Final consumption,2002,2.0,2773374500.0
+99,Afghanistan,Solid biofuels,Final energy consumption,2002,2.0,2773374500.0
+100,Afghanistan,Solid biofuels,Production,2002,0.0,4075224500.0
+101,Afghanistan,Solid biofuels,Total energy supply,2002,0.0,4075224500.0
+102,Afghanistan,Solid biofuels,Transformation,2002,1.0,1301850000.0
+103,Afghanistan,Solid biofuels,Transformation in charcoal plants,2002,1.0,1301850000.0
+104,Afghanistan,Solid biofuels,Consumption by households,2003,2.0,2845336150.0
+105,Afghanistan,Solid biofuels,Consumption by other,2003,2.0,2845336150.0
+106,Afghanistan,Solid biofuels,Final consumption,2003,2.0,2845336150.0
+107,Afghanistan,Solid biofuels,Final energy consumption,2003,2.0,2845336150.0
+108,Afghanistan,Solid biofuels,Production,2003,0.0,4194481150.0
+109,Afghanistan,Solid biofuels,Total energy supply,2003,0.0,4194481150.0
+110,Afghanistan,Solid biofuels,Transformation,2003,1.0,1349145000.0
+111,Afghanistan,Solid biofuels,Transformation in charcoal plants,2003,1.0,1349145000.0
+112,Afghanistan,Solid biofuels,Consumption by households,2004,2.0,2919263550.0
+113,Afghanistan,Solid biofuels,Consumption by other,2004,2.0,2919263550.0
+114,Afghanistan,Solid biofuels,Final consumption,2004,2.0,2919263550.0
+115,Afghanistan,Solid biofuels,Final energy consumption,2004,2.0,2919263550.0
+116,Afghanistan,Solid biofuels,Production,2004,0.0,4317428550.0
+117,Afghanistan,Solid biofuels,Total energy supply,2004,0.0,4317428550.0
+118,Afghanistan,Solid biofuels,Transformation,2004,1.0,1398165000.0
+119,Afghanistan,Solid biofuels,Transformation in charcoal plants,2004,1.0,1398165000.0
+120,Afghanistan,Solid biofuels,Consumption by households,2005,2.0,2995216400.0
+121,Afghanistan,Solid biofuels,Consumption by other,2005,2.0,2995216400.0
+122,Afghanistan,Solid biofuels,Final consumption,2005,2.0,2995216400.0
+123,Afghanistan,Solid biofuels,Final energy consumption,2005,2.0,2995216400.0
+124,Afghanistan,Solid biofuels,Production,2005,0.0,4444186400.0
+125,Afghanistan,Solid biofuels,Total energy supply,2005,0.0,4444186400.0
+126,Afghanistan,Solid biofuels,Transformation,2005,1.0,1448970000.0
+127,Afghanistan,Solid biofuels,Transformation in charcoal plants,2005,1.0,1448970000.0
+128,Afghanistan,Solid biofuels,Consumption by households,2006,2.0,3053459600.0
+129,Afghanistan,Solid biofuels,Consumption by other,2006,2.0,3053459600.0
+130,Afghanistan,Solid biofuels,Final consumption,2006,2.0,3053459600.0
+131,Afghanistan,Solid biofuels,Final energy consumption,2006,2.0,3053459600.0
+132,Afghanistan,Solid biofuels,Production,2006,0.0,4547039600.0
+133,Afghanistan,Solid biofuels,Total energy supply,2006,0.0,4547039600.0
+134,Afghanistan,Solid biofuels,Transformation,2006,1.0,1493580000.0
+135,Afghanistan,Solid biofuels,Transformation in charcoal plants,2006,1.0,1493580000.0
+136,Afghanistan,Solid biofuels,Consumption by households,2007,2.0,3112683950.0
+137,Afghanistan,Solid biofuels,Consumption by other,2007,2.0,3112683950.0
+138,Afghanistan,Solid biofuels,Exports,2007,0.0,317500.0
+139,Afghanistan,Solid biofuels,Final consumption,2007,2.0,3112683950.0
+140,Afghanistan,Solid biofuels,Final energy consumption,2007,2.0,3112683950.0
+141,Afghanistan,Solid biofuels,Imports,2007,0.0,37500.0
+142,Afghanistan,Solid biofuels,Production,2007,0.0,4652548950.0
+143,Afghanistan,Solid biofuels,Total energy supply,2007,0.0,4652268950.0
+144,Afghanistan,Solid biofuels,Transformation,2007,1.0,1539584999.9999998
+145,Afghanistan,Solid biofuels,Transformation in charcoal plants,2007,1.0,1539584999.9999998
+146,Afghanistan,Solid biofuels,Consumption by households,2008,2.0,3173636950.0
+147,Afghanistan,Solid biofuels,Consumption by other,2008,2.0,3173636950.0
+148,Afghanistan,Solid biofuels,Exports,2008,0.0,317500.0
+149,Afghanistan,Solid biofuels,Final consumption,2008,2.0,3173636950.0
+150,Afghanistan,Solid biofuels,Final energy consumption,2008,2.0,3173636950.0
+151,Afghanistan,Solid biofuels,Imports,2008,0.0,172500.0
+152,Afghanistan,Solid biofuels,Production,2008,0.0,4760766950.0
+153,Afghanistan,Solid biofuels,Total energy supply,2008,0.0,4760621950.0
+154,Afghanistan,Solid biofuels,Transformation,2008,1.0,1586985000.0
+155,Afghanistan,Solid biofuels,Transformation in charcoal plants,2008,1.0,1586985000.0
+156,Afghanistan,Solid biofuels,Consumption by households,2009,2.0,3235773300.0
+157,Afghanistan,Solid biofuels,Consumption by other,2009,2.0,3235773300.0
+158,Afghanistan,Solid biofuels,Exports,2009,0.0,325550.0
+159,Afghanistan,Solid biofuels,Final consumption,2009,2.0,3235773300.0
+160,Afghanistan,Solid biofuels,Final energy consumption,2009,2.0,3235773300.0
+161,Afghanistan,Solid biofuels,Imports,2009,0.0,172500.0
+162,Afghanistan,Solid biofuels,Production,2009,0.0,4871781350.0
+163,Afghanistan,Solid biofuels,Total energy supply,2009,0.0,4871628300.0
+164,Afghanistan,Solid biofuels,Transformation,2009,1.0,1635855000.0
+165,Afghanistan,Solid biofuels,Transformation in charcoal plants,2009,1.0,1635855000.0
+166,Afghanistan,Solid biofuels,Consumption by households,2010,2.0,3322351600.0
+167,Afghanistan,Solid biofuels,Consumption by other,2010,2.0,3322351600.0
+168,Afghanistan,Solid biofuels,Exports,2010,0.0,158250.0
+169,Afghanistan,Solid biofuels,Final consumption,2010,2.0,3322351600.0
+170,Afghanistan,Solid biofuels,Final energy consumption,2010,2.0,3322351600.0
+171,Afghanistan,Solid biofuels,Imports,2010,0.0,569100.0
+172,Afghanistan,Solid biofuels,Production,2010,0.0,5008165750.0
+173,Afghanistan,Solid biofuels,Total energy supply,2010,0.0,5008576600.000001
+174,Afghanistan,Solid biofuels,Transformation,2010,1.0,1686225000.0
+175,Afghanistan,Solid biofuels,Transformation in charcoal plants,2010,1.0,1686225000.0
+176,Afghanistan,Solid biofuels,Consumption by households,2011,2.0,3334657150.0
+177,Afghanistan,Solid biofuels,Consumption by other,2011,2.0,3334657150.0
+178,Afghanistan,Solid biofuels,Exports,2011,0.0,158250.0
+179,Afghanistan,Solid biofuels,Final consumption,2011,2.0,3334657150.0
+180,Afghanistan,Solid biofuels,Final energy consumption,2011,2.0,3334657150.0
+181,Afghanistan,Solid biofuels,Imports,2011,0.0,262600.0
+182,Afghanistan,Solid biofuels,Production,2011,0.0,5069242800.0
+183,Afghanistan,Solid biofuels,Total energy supply,2011,0.0,5069347150.0
+184,Afghanistan,Solid biofuels,Transformation,2011,1.0,1734690000.0
+185,Afghanistan,Solid biofuels,Transformation in charcoal plants,2011,1.0,1734690000.0
+186,Afghanistan,Solid biofuels,Consumption by households,2012,2.0,3408141450.0
+187,Afghanistan,Solid biofuels,Consumption by other,2012,2.0,3408141450.0
+188,Afghanistan,Solid biofuels,Exports,2012,0.0,158250.0
+189,Afghanistan,Solid biofuels,Final consumption,2012,2.0,3408141450.0
+190,Afghanistan,Solid biofuels,Final energy consumption,2012,2.0,3408141450.0
+191,Afghanistan,Solid biofuels,Imports,2012,0.0,286750.0
+192,Afghanistan,Solid biofuels,Production,2012,0.0,5192547950.0
+193,Afghanistan,Solid biofuels,Total energy supply,2012,0.0,5192676450.0
+194,Afghanistan,Solid biofuels,Transformation,2012,1.0,1784535000.0
+195,Afghanistan,Solid biofuels,Transformation in charcoal plants,2012,1.0,1784535000.0
+196,Afghanistan,Solid biofuels,Consumption by households,2013,2.0,3464094100.0
+197,Afghanistan,Solid biofuels,Consumption by other,2013,2.0,3464094100.0
+198,Afghanistan,Solid biofuels,Exports,2013,0.0,158250.0
+199,Afghanistan,Solid biofuels,Final consumption,2013,2.0,3464094100.0
+200,Afghanistan,Solid biofuels,Final energy consumption,2013,2.0,3464094100.0
+201,Afghanistan,Solid biofuels,Imports,2013,0.0,318950.0
+202,Afghanistan,Solid biofuels,Production,2013,0.0,5299753400.0
+203,Afghanistan,Solid biofuels,Total energy supply,2013,0.0,5299914100.0
+204,Afghanistan,Solid biofuels,Transformation,2013,1.0,1835820000.0
+205,Afghanistan,Solid biofuels,Transformation in charcoal plants,2013,1.0,1835820000.0
+206,Afghanistan,Solid biofuels,Consumption by households,2014,2.0,3521119300.0
+207,Afghanistan,Solid biofuels,Consumption by other,2014,2.0,3521119300.0
+208,Afghanistan,Solid biofuels,Exports,2014,0.0,158250.0
+209,Afghanistan,Solid biofuels,Final consumption,2014,2.0,3521119300.0
+210,Afghanistan,Solid biofuels,Final energy consumption,2014,2.0,3521119300.0
+211,Afghanistan,Solid biofuels,Imports,2014,0.0,294800.0
+212,Afghanistan,Solid biofuels,Production,2014,0.0,5409557750.0
+213,Afghanistan,Solid biofuels,Total energy supply,2014,0.0,5409694300.0
+214,Afghanistan,Solid biofuels,Transformation,2014,1.0,1888575000.0
+215,Afghanistan,Solid biofuels,Transformation in charcoal plants,2014,1.0,1888575000.0
+216,Afghanistan,Solid biofuels,Consumption by households,2015,2.0,3579510200.0
+217,Afghanistan,Solid biofuels,Consumption by other,2015,2.0,3579510200.0
+218,Afghanistan,Solid biofuels,Exports,2015,0.0,45550.0
+219,Afghanistan,Solid biofuels,Final consumption,2015,2.0,3579510200.0
+220,Afghanistan,Solid biofuels,Final energy consumption,2015,2.0,3579510200.0
+221,Afghanistan,Solid biofuels,Imports,2015,0.0,380050.0
+222,Afghanistan,Solid biofuels,Production,2015,0.0,5522035700.0
+223,Afghanistan,Solid biofuels,Total energy supply,2015,0.0,5522370200.0
+224,Afghanistan,Solid biofuels,Transformation,2015,1.0,1942860000.0
+225,Afghanistan,Solid biofuels,Transformation in charcoal plants,2015,1.0,1942860000.0
+226,Afghanistan,Solid biofuels,Consumption by households,2016,2.0,3637042300.0
+227,Afghanistan,Solid biofuels,Consumption by other,2016,2.0,3637042300.0
+228,Afghanistan,Solid biofuels,Exports,2016,0.0,45550.0
+229,Afghanistan,Solid biofuels,Final consumption,2016,2.0,3637042300.0
+230,Afghanistan,Solid biofuels,Final energy consumption,2016,2.0,3637042300.0
+231,Afghanistan,Solid biofuels,Imports,2016,0.0,2862750.0
+232,Afghanistan,Solid biofuels,Production,2016,0.0,5631205100.0
+233,Afghanistan,Solid biofuels,Total energy supply,2016,0.0,5634022300.0
+234,Afghanistan,Solid biofuels,Transformation,2016,1.0,1996980000.0
+235,Afghanistan,Solid biofuels,Transformation in charcoal plants,2016,1.0,1996980000.0
+236,Afghanistan,Solid biofuels,Consumption by households,2017,2.0,3690813150.0
+237,Afghanistan,Solid biofuels,Consumption by other,2017,2.0,3690813150.0
+238,Afghanistan,Solid biofuels,Exports,2017,0.0,45550.0
+239,Afghanistan,Solid biofuels,Final consumption,2017,2.0,3690813150.0
+240,Afghanistan,Solid biofuels,Final energy consumption,2017,2.0,3690813150.0
+241,Afghanistan,Solid biofuels,Imports,2017,0.0,506150.0
+242,Afghanistan,Solid biofuels,Production,2017,0.0,5742967550.0
+243,Afghanistan,Solid biofuels,Total energy supply,2017,0.0,5743428150.0
+244,Afghanistan,Solid biofuels,Transformation,2017,1.0,2052615000.0
+245,Afghanistan,Solid biofuels,Transformation in charcoal plants,2017,1.0,2052615000.0
+246,Afghanistan,Solid biofuels,Consumption by households,2018,2.0,3753761200.0
+247,Afghanistan,Solid biofuels,Consumption by other,2018,2.0,3753761200.0
+248,Afghanistan,Solid biofuels,Exports,2018,0.0,8050.0
+249,Afghanistan,Solid biofuels,Final consumption,2018,2.0,3753761200.0
+250,Afghanistan,Solid biofuels,Final energy consumption,2018,2.0,3753761200.0
+251,Afghanistan,Solid biofuels,Imports,2018,0.0,6180100.0
+252,Afghanistan,Solid biofuels,Production,2018,0.0,5857384150.0
+253,Afghanistan,Solid biofuels,Total energy supply,2018,0.0,5863556200.0
+254,Afghanistan,Solid biofuels,Transformation,2018,1.0,2109795000.0
+255,Afghanistan,Solid biofuels,Transformation in charcoal plants,2018,1.0,2109795000.0
+256,Afghanistan,Solid biofuels,Consumption by households,2019,2.0,3806074800.0
+257,Afghanistan,Solid biofuels,Consumption by other,2019,2.0,3806074800.0
+258,Afghanistan,Solid biofuels,Exports,2019,0.0,8050.0
+259,Afghanistan,Solid biofuels,Final consumption,2019,2.0,3806074800.0
+260,Afghanistan,Solid biofuels,Final energy consumption,2019,2.0,3806074800.0
+261,Afghanistan,Solid biofuels,Imports,2019,0.0,128250.0
+262,Afghanistan,Solid biofuels,Production,2019,0.0,5974534600.0
+263,Afghanistan,Solid biofuels,Total energy supply,2019,0.0,5974654800.0
+264,Afghanistan,Solid biofuels,Transformation,2019,1.0,2168580000.0
+265,Afghanistan,Solid biofuels,Transformation in charcoal plants,2019,1.0,2168580000.0
