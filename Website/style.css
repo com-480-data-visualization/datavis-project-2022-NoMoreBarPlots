@@ -1,4 +1,3 @@
-
 /*
 This CSS governs the appearance of our site.
 You can find the basic concepts of CSS here: https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works
@@ -56,6 +55,7 @@ body {
 	font-family: 'Poppins', sans-serif;
 	font-size: 1.1em;
 	font-weight: 300;
+	transform: translate(-50%);
 }
 
 /*
@@ -71,6 +71,73 @@ The various units of measurement available in CSS:
 	/* Center horizontally: */
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#intro_text1,
+#intro_text2,
+#intro_text3 {
+	opacity: 0;
+}
+
+#intro_text1.show,
+#intro_text2.show,
+#intro_text3.show {
+	opacity: 1;
+	transition-duration: 10s;
+}
+
+#intro_text1.show {
+	transition-delay: 1s;
+}
+
+#intro_text2.show {
+	transition-delay: 5s;
+}
+
+#intro_text3.show {
+	transition-delay: 9s;
+}
+
+#intro_text1.fast_show,
+#intro_text2.fast_show,
+#intro_text3.fast_show {
+	opacity: 1;
+}
+
+#intro_video{
+	opacity: 0;
+}
+
+#intro_video.show {
+	opacity: 1;
+	transition-delay: 12s;
+	transition-duration: 10s;
+}
+
+#intro_video.fast_show {
+	opacity: 1;
+}
+
+.intro-btn {
+  position: absolute;
+  padding: 10px 10px;
+  z-index: 20;
+  border-radius: 10px;
+}
+
+#skipIntro {
+	margin-left: 90%;
+}
+
+#startIntro {
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#startIntro.hide {
+	height: 0px;
+	opacity: 0;
 }
 
 /* Links: apply our theme color and remove underline */
@@ -193,7 +260,7 @@ footer {
 }
 
 .flex-child {
-	padding-left: 10px;
+	padding-left: 0px;
     flex: 1;
     border: 2px solid red;
 }
