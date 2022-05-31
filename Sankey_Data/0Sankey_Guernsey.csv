@@ -1,0 +1,73 @@
+,source,target,value,year,estimation
+0,Electricity - imports,imports,2040000000.0,2019,0
+1,Electricity - imports,imports,3186000000.0,2018,0
+2,Electricity - imports,imports,2943000000.0,2017,0
+3,Electricity - imports,imports,2849000000.0,2016,0
+4,Electricity - imports,imports,2180020000.0,2015,0
+5,Electricity - imports,imports,1560000000.0,2014,0
+6,Electricity - imports,imports,1112000000.0,2013,0
+7,Electricity - imports,imports,3127000000.0,2012,0
+8,Electricity - imports,imports,3086000000.0,2011,0
+9,Electricity - imports,imports,2393000000.0,2010,0
+10,Electricity - imports,imports,2104000000.0,2009,0
+11,Electricity - imports,imports,2571000000.0,2008,0
+12,Electricity - imports,imports,1970000000.0,2007,0
+13,Electricity - imports,imports,2768000000.0,2006,0
+14,Electricity - imports,imports,2885000000.0,2005,0
+15,Electricity - imports,imports,2662000000.0,2004,0
+16,Electricity - imports,imports,2643000000.0,2003,0
+17,Electricity - imports,imports,2434000000.0,2002,0
+18,losses,Electricity - losses,215000000.0,2019,0
+19,losses,Electricity - losses,248000000.0,2018,0
+20,losses,Electricity - losses,171000000.0,2017,0
+21,losses,Electricity - losses,230000000.0,2016,0
+22,losses,Electricity - losses,282000000.0,2015,0
+23,losses,Electricity - losses,185000000.0,2014,0
+24,losses,Electricity - losses,355000000.0,2013,0
+25,losses,Electricity - losses,224000000.0,2012,0
+26,losses,Electricity - losses,207000000.0,2011,0
+27,losses,Electricity - losses,300000000.0,2010,0
+28,losses,Electricity - losses,295000000.0,2009,0
+29,losses,Electricity - losses,269000000.0,2008,0
+30,losses,Electricity - losses,223000000.0,2007,0
+31,losses,Electricity - losses,244000000.0,2006,0
+32,losses,Electricity - losses,242000000.0,2005,0
+33,losses,Electricity - losses,231000000.0,2004,0
+34,losses,Electricity - losses,227000000.0,2003,0
+35,losses,Electricity - losses,215000000.0,2002,0
+36,imports,Total amount of energy,2040000000.0,2019,0
+37,imports,Total amount of energy,3186000000.0,2018,0
+38,imports,Total amount of energy,2943000000.0,2017,0
+39,imports,Total amount of energy,2849000000.0,2016,0
+40,imports,Total amount of energy,2180020000.0,2015,0
+41,imports,Total amount of energy,1560000000.0,2014,0
+42,imports,Total amount of energy,1112000000.0,2013,0
+43,imports,Total amount of energy,3127000000.0,2012,0
+44,imports,Total amount of energy,3086000000.0,2011,0
+45,imports,Total amount of energy,2393000000.0,2010,0
+46,imports,Total amount of energy,2104000000.0,2009,0
+47,imports,Total amount of energy,2571000000.0,2008,0
+48,imports,Total amount of energy,1970000000.0,2007,0
+49,imports,Total amount of energy,2768000000.0,2006,0
+50,imports,Total amount of energy,2885000000.0,2005,0
+51,imports,Total amount of energy,2662000000.0,2004,0
+52,imports,Total amount of energy,2643000000.0,2003,0
+53,imports,Total amount of energy,2434000000.0,2002,0
+54,Total amount of energy,losses,215000000.0,2019,0
+55,Total amount of energy,losses,248000000.0,2018,0
+56,Total amount of energy,losses,171000000.0,2017,0
+57,Total amount of energy,losses,230000000.0,2016,0
+58,Total amount of energy,losses,282000000.0,2015,0
+59,Total amount of energy,losses,185000000.0,2014,0
+60,Total amount of energy,losses,355000000.0,2013,0
+61,Total amount of energy,losses,224000000.0,2012,0
+62,Total amount of energy,losses,207000000.0,2011,0
+63,Total amount of energy,losses,300000000.0,2010,0
+64,Total amount of energy,losses,295000000.0,2009,0
+65,Total amount of energy,losses,269000000.0,2008,0
+66,Total amount of energy,losses,223000000.0,2007,0
+67,Total amount of energy,losses,244000000.0,2006,0
+68,Total amount of energy,losses,242000000.0,2005,0
+69,Total amount of energy,losses,231000000.0,2004,0
+70,Total amount of energy,losses,227000000.0,2003,0
+71,Total amount of energy,losses,215000000.0,2002,0
