@@ -64,10 +64,11 @@ body {
   left: 50%;
   top: 50%;
   transform: translate(-50%,-50%);
-  background: rgba(255,0,0,0.2); /* Color of the top background */
+  background: #004e9b63; /* Color of the top background */
   opacity: 0;
   transition: 1s;
 }
+
 @media all and (max-width: 800px) {
   #countryInfo { width: 40%; }
 }
@@ -160,7 +161,7 @@ img {
 	left: 50%;
 	top: 50%;
 	transform: translate(-50%,-50%);
-	height: auto;
+	height: 500px;
 }
 
 

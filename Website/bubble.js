@@ -1,4 +1,205 @@
-function bubblesChart(energy1, energy2, operation, selectedContinents, highlight) {
+
+
+
+function PrepareData(energy1, energy2, operation, selectedContinents, highlight, date) {
+
+}
+
+
+function PlotBubbleChart(data) {
+
+  pack = data =>
+    d3
+      .pack()
+      .size([width - 2, height - 2])
+      .padding(2)(d3.hierarchy({ children: data }).sum(d => d.Quantity))
+
+      circleComponent = ({
+          key,
+          r,
+          cx,
+          cy,
+          fill,
+          randomDelay = Math.random() * 300
+        }) => {
+          return {
+            append: 'circle',
+            key,
+            r: { enter: r, exit: 0 },
+            cx,
+            cy,
+            fill,
+            duration: 1000,
+            // Add some randomness movement of circles
+            delay: randomDelay
+          };
+        }
+
+
+        textComponent = ({
+            key,
+            text,
+            x = 0,
+            y = 0,
+            fontWeight = 'bold',
+            fontSize = '12px',
+            textAnchor = 'middle',
+            fillOpacity = 1,
+            colour,
+            r,
+            duration = 1000
+          }) => {
+            return {
+              append: 'text',
+              key,
+              text,
+              x,
+              y,
+              textAnchor,
+              fontFamily: 'sans-serif',
+              fontWeight,
+              fontSize,
+              fillOpacity: { enter: fillOpacity, exit: 0 },
+              fill: colour,
+              duration,
+              style: {
+                pointerEvents: 'none'
+              }
+            };
+          }
+
+          labelComponent = ({ isoCode, countryName, Quantity, r, colour }) => {
+            // Don't show any text for radius under 12px
+            if (r < 12) {
+              return [];
+            }
+
+            const circleWidth = r * 2;
+            const nameWidth = countryName.length * 10;
+            const shouldShowIso = nameWidth > circleWidth;
+            const newCountryName = shouldShowIso ? isoCode : countryName;
+            const shouldShowValue = r > 18;
+
+            let nameFontSize;
+
+            if (shouldShowValue) {
+              nameFontSize = shouldShowIso ? '10px' : '12px';
+            } else {
+              nameFontSize = '8px';
+            }
+
+            return [
+              textComponent({
+                key: isoCode,
+                text: newCountryName,
+                fontSize: nameFontSize,
+                y: shouldShowValue ? '-0.2em' : '0.3em',
+                fillOpacity: 1,
+                colour
+              }),
+              ...(shouldShowValue
+                ? [
+                    textComponent({
+                      key: isoCode,
+                      text: format(Quantity),
+                      fontSize: '10px',
+                      y: shouldShowIso ? '0.9em' : '1.0em',
+                      fillOpacity: 0.7,
+                      colour
+                    })
+                  ]
+                : [])
+            ];
+          }
+
+          bubbleComponent = ({
+              name,
+              id,
+              Quantity,
+              r,
+              x,
+              y,
+              fill,
+              colour,
+              duration = 1000
+            }) => {
+              return {
+                append: 'g',
+                key: id,
+                transform: {
+                  enter: `translate(${x + 1},${y + 1})`,
+                  exit: `translate(${width / 2},${height / 2})`
+                },
+                duration,
+                delay: Math.random() * 300,
+                children: [
+                  circleComponent({ key: id, r, fill, duration }),
+                  ...labelComponent({
+                    key: id,
+                    countryName: name,
+                    isoCode: id,
+                    Quantity,
+                    r,
+                    colour,
+                    duration
+                  })
+                ]
+              };
+            }
+
+            renderBubbleChart = (selection, data) => {
+              const root = pack(data);
+
+              const renderData = root.leaves().map(d => {
+                return bubbleComponent({
+                  id: d.data.id,
+                  name: d.data.name,
+                  value: d.data.value,
+                  r: d.r,
+                  x: d.x,
+                  y: d.y,
+                  fill: d.data.fill,
+                  colour: d.data.colour
+                });
+              });
+
+              return render(selection, renderData);
+            }
+
+            root = pack(data)
+
+
+            renderData = root.leaves().map(d => {
+              return bubbleComponent({
+                id: d.data.id,
+                name: d.data.name,
+                Quantity: d.data.Quantity,
+                r: d.r,
+                x: d.x,
+                y: d.y,
+                fill: d.data.fill,
+                colour: d.data.colour
+              })
+            });
+
+            bubbleChart = {
+              const svg = d3
+                .create("svg")
+                .attr('id', 'bubble-chart')
+                .attr("viewBox", [0, 0, width, height])
+                .attr("font-size", 12)
+                .attr("font-weight", 'bold')
+                .attr("font-family", "sans-serif")
+                .attr("text-anchor", "middle");
+              // .style('background-color', '#333');
+
+              return svg.node();
+            }
+
+            render('#bubbleChart', renderData);
+}
+
+function bubblesChart(energy1, energy2, operation, selectedContinents, highlight, date, data) {
 
   data_path1 = "data/" + energy1 + ".csv"
 
@@ -6,7 +207,12 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
 
   let height = $(window).height();
 
-  let k = 11;
+  let max_rank = 31 // Nombre de pays affichés
+
+  dataKey = "Quantity"
+
+  dates = keyframes.map(([Year, data]) => Year)
+
 
   colours = ({ // FAUSSES VALEURS DES COULEURS #
     pink: '#D8352A',
@@ -151,6 +357,7 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
   }
 
     dates = data_.map(d => d.Year).filter((v, i, a) => a.indexOf(v) === i).sort().map(d => getIsoDate(new Date(d,0,1,1)));
+
 
     data_state = function(name){
       const grp = [];

@@ -42,7 +42,12 @@
     <script rel="stylesheet" href="Scrub.min.css"></script>
     <script rel="stylesheet" href="scrub.scss"></script>
     <script src="Scrub.min.js"></script>
-    <script src="scrub.js"></script> -->
+    <script src="scrub.js"></script>
+    <link href="slider/dist/Scrub.min.css" rel="stylesheet">
+    <link href="slider/dist/ScrubDev.min.css" rel="stylesheet">
+    <script src="slider/dist/Scrub.min.js"></script>
+    <script src="slider/dist/ScrubDev.min.js"></script>-->
+
 
 </head>
 
@@ -154,12 +159,14 @@
               <option value="Switzerland">Switzerland</option>
             </select><br><br>
 
-          <!--  <div class="slidecontainer" id="slider1">
-              <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
-            </div> -->
+            <div class="slidecontainer" id="slider1">
+              <input type="range" value="2021" min="1980" max="2021" oninput="this.nextElementSibling.value = this.value" class="slider" id="myRange">
+              <output name="DateValue" id="myRange">2021</output>
+            </div>
 
 
             <button type="button" id="StartViz2" class="intro-btn"><span>Start vizualisation</button>
+            <script src="viz2.js"></script>
 
             <div id="bubbleChart"></div>
 

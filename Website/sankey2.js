@@ -4,23 +4,25 @@ function SankeyChart__(countryName) {
 
   d3.csv(data_path1).then(function(data) {
 
-    chart = SankeyChart_({
+    year = "2010";
+    chart = SankeyChart({
     links: data.filter(d => d.year === year)
   }, {
     nodeGroup: d => d.id.split(/\W/)[0], // take first word for color
     format: (f => d => `${f(d)} kWh`)(d3.format(",~f")),
-    width,
+    width: 900,
     //height: 500,
     //margin: [50, 50, 50, 50]
     height: 850, //650
     margin: [120, 30, 0, 40]
   })
-  }
+})
+};
 
-  // Copyright 2021 Observable, Inc.
+// Copyright 2021 Observable, Inc.
 // Released under the ISC license.
 // https://observablehq.com/@d3/sankey-diagram
-function SankeyChart_({
+function SankeyChart({
   nodes, // an iterable of node objects (typically [{id}, …]); implied by links if missing
   links // an iterable of link objects (typically [{source, target}, …])
 }, {
@@ -40,7 +42,7 @@ function SankeyChart_({
   linkSource = ({source}) => source, // given d in links, returns a node identifier string
   linkTarget = ({target}) => target, // given d in links, returns a node identifier string
   linkValue = ({value}) => value, // given d in links, returns the quantitative value
-  linkPath = d3Sankey.sankeyLinkHorizontal(), // given d in (computed) links, returns the SVG path
+  linkPath = d3.sankeyLinkHorizontal(), // given d in (computed) links, returns the SVG path
   linkTitle = d => `${d.source.id} → ${d.target.id}\n${format(d.value)}`, // given d in (computed) links
   linkColor = "source-target", // source, target, source-target, or static color
   linkStrokeOpacity = 0.5, // link opacity
@@ -55,6 +57,9 @@ function SankeyChart_({
   marginLeft = margin[3], // left margin, in pixels
 } = {}) {
   // Compute values.
+
+  d3.csv(data_path1).then(function(data) {
+
   const LS = d3.map(links, linkSource).map(intern);
   const LT = d3.map(links, linkTarget).map(intern);
   const LV = d3.map(links, linkValue);
@@ -72,9 +77,9 @@ function SankeyChart_({
   Object.assign(links[i], {estimation: data.filter(d => d.year === year)[i].estimation}); }
 
   // Compute the Sankey layout.
-  d3Sankey.sankey()
+  d3.sankey()
       .nodeId(({index: i}) => N[i])
-      .nodeAlign(d3Sankey.sankeyCenter)
+      .nodeAlign(d3.sankeyCenter)
       .nodeWidth(nodeWidth)
       .nodePadding(nodePadding)
       .linkSort(linkSorter)
@@ -368,7 +373,8 @@ function SankeyChart_({
     return value !== null && typeof value === "object" ? value.valueOf() : value;
   }
   return Object.assign(svg.node(), {scales: {color}});
-}
+});
+};
 
 function linkSorter(a, b) { // returns -1 if a before b and 1 if b before a.
   if (a.source.targetLinks.length == 0 && b.source.targetLinks.length > 0) { return 1 }
@@ -435,5 +441,3 @@ function wrap(d) {
     }
   };
 }
-
-};

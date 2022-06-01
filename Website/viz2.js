@@ -21,7 +21,6 @@ function filterFunction() {
 }
 */
 
-
 // Start Viz button
 $(document).ready(function () {
     $('#StartViz2').on('click', function () {
@@ -29,9 +28,11 @@ $(document).ready(function () {
 			if (Energy1 == 'None') {alert("Select energy")}
 			let Energy2 = document.getElementById("EnergySelect2").value;
 			let Operation = document.getElementById("OperationSelect").value;
-			let ContinentsSelected = $.map($('input:checkbox:checked'), function(e, i) {
-    		return e.value;});
+			let ContinentsSelected = $.map($('input:checkbox:checked'), function(e, i) {return e.value;});
 			let highlight = document.getElementById("HighlightSelect").value;
-			bubblesChart(Energy1, Energy2, Operation, ContinentsSelected, highlight);
+      let Date = document.getElementById("myRange").value;
+      
+      PlotBubbleChart();
+			bubblesChart(Energy1, Energy2, Operation, ContinentsSelected, highlight, Date);
   });
 });

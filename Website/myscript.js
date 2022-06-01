@@ -65,7 +65,8 @@ function onEachFeature(feature, layer) {
       }
 			countryName = feature.properties.name
 			countryInfo.innerHTML = "";
-			SankeyChart(countryName);
+			//let Date = document.getElementById("myRange2").value;
+			SankeyChart__(countryName, Date);
 			countryInfo.classList.remove("hide");
 			countryInfo.classList.add("show");
 			mapholder.classList.remove("show");
