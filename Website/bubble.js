@@ -1,7 +1,7 @@
 
 function bubblesChart(energy, transaction, selectedContinents) {
 
-  data_path1 = "data/" + energy + ".csv"
+  data_path1 = "Data_clean/" + energy + ".csv"
 
   d3.selectAll("svg").remove();
 
@@ -114,7 +114,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
                         d.id= 'node-'+d.name
                         return d
                      }).map(d => {
-                        d.r =  d.Quantity/normalization_quantity
+                        d.r =  Math.abs(d.Quantity/normalization_quantity)
                         return d
                      }).map(d => {
                         d.date = getIsoDate(new Date(d.Year,0,1,1))
