@@ -64,7 +64,7 @@ body {
   left: 50%;
   top: 50%;
   transform: translate(-50%,-50%);
-  background: #004e9b63; /* Color of the top background */
+  background: #EDF1F5; #004e9b63; /* Color of the top background */
   opacity: 0;
   transition: 1s;
 }
