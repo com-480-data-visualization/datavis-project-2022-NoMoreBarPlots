@@ -13,6 +13,7 @@
     <!-- Our Custom CSS -->
     <link rel="stylesheet" href="sidebar.css">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="viz2.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/fontawesome.min.css" />
 
@@ -24,6 +25,24 @@
     <!-- Bubble chart -->
     <script src="bubble.js"></script>
     <script src="https://d3js.org/d3.v6.js"></script>
+
+    <!-- Other sources -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="sidebar.js"></script>
+    <script src="viz2.js"></script>
+    <!-- jQuery CDN - Slim version (=without AJAX) -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <!-- Popper.JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+
+    <!-- Time slider
+    <script rel="stylesheet" href="Scrub.min.css"></script>
+    <script rel="stylesheet" href="scrub.scss"></script>
+    <script src="Scrub.min.js"></script>
+    <script src="scrub.js"></script> -->
 
 </head>
 
@@ -65,61 +84,89 @@
                 </div>
             </navtop>
 
-            <div class="width-limited">
-              <h4>Viz2</h4>
-              <img src="Visualisation 2.jpg">
-            </div>
-
-
-            <div class="flex-container">
-
-              <div class="flex-child magenta">
-                <div id="bubbleChart"></div>
-                <script>bubblesChart()</script>
+            <!-- Dropdown search select
+            <div class="dropdown">
+              <button onclick="myFunction()" class="dropbtn">First energy</button>
+              <div id="myDropdown" class="dropdown-content">
+                <input type="text" placeholder="Search..." id="myInput" onkeyup="filterFunction()">
+                <a>Hydro-1</a>
+                <a>Peat</a>
               </div>
+            </div> -->
 
-              <div class="flex-child green">
-                <div>
-                  <label for="estimation">Estimation:</label>
-                  <input type="checkbox" id="estimation" name="estimation"><br><br>
-                </div>
-                <select>
-                      <option value="None">First energy</option>
-                      <option value="Nuclear">Nuclear</option>
-                </select><br><br>
-                <select>
-                      <option value="None">Second energy</option>
-                      <option value="Nuclear">Nuclear</option>
-                </select><br>
-                <select>
-                      <option value="None">Operation</option>
-                      <option value="Difference">Difference</option>
-                </select><br><br><br>
-                <select>
-                      <option value="None">Filter country</option>
-                      <option value="Switzerland">Switzerland</option>
-                </select><br><br>
-                <select>
-                      <option value="None">Highlight country</option>
-                      <option value="Switzerland">Switzerland</option>
-                </select><br><br>
-              </div>
-            </div>
+            <select id="EnergySelect1">
+              <option value="None">First energy</option>
+              <option value="Hydro-1">Hydro-1</option>
+            </select><br><br>
+            <select id="EnergySelect2">
+              <option value="None">Second energy</option>
+              <option value="Nuclear">Nuclear</option>
+            </select><br>
+            <select id="OperationSelect">
+              <option value="None">Operation</option>
+              <option value="Difference">Difference</option>
+            </select><br><br><br>
+
+            <label class="checkbox-inline">
+               <input type="checkbox" value="AF" checked>
+                <span class="dot" id="AF"></span>
+                Africa
+              </input>
+
+            </label>
+            <label class="checkbox-inline">
+               <input type="checkbox" value="AS" checked>
+                <span class="dot" id="AS"></span>
+                Asia
+               </input>
+            </label>
+
+            <label class="checkbox-inline">
+              <input type="checkbox" value="EU" checked>
+                <span class="dot" id="EU"></span>
+                Europe
+              </input>
+            </label>
+
+            <label class="checkbox-inline">
+               <input type="checkbox" value="NA" checked>
+                <span class="dot" id="NA"></span>
+                North America
+               </input>
+            </label>
+
+            <label class="checkbox-inline">
+               <input type="checkbox" value="OC" checked>
+                <span class="dot" id="OC"></span>
+                Oceania
+               </input>
+            </label>
+
+            <label class="checkbox-inline">
+               <input type="checkbox" value="SA" checked>
+                <span class="dot" id="SA"></span>
+                South America
+               </input>
+            </label><br><br><br>
+
+            <select id="HighlightSelect">
+              <option value="None">Highlight country</option>
+              <option value="Switzerland">Switzerland</option>
+            </select><br><br>
+
+          <!--  <div class="slidecontainer" id="slider1">
+              <input type="range" min="1" max="100" value="50" class="slider" id="myRange">
+            </div> -->
 
 
+            <button type="button" id="StartViz2" class="intro-btn"><span>Start vizualisation</button>
+            <script src="viz2.js"></script>
+
+            <div id="bubbleChart"></div>
 
           </div>
     </div>
 
 
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="sidebar.js"></script>
-    <!-- jQuery CDN - Slim version (=without AJAX) -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <!-- Popper.JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
-    <!-- Bootstrap JS -->
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
-</body>
+    </body>
 </html>
