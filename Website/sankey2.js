@@ -10,11 +10,11 @@ function SankeyChart__(countryName) {
   }, {
     nodeGroup: d => d.id.split(/\W/)[0], // take first word for color
     format: (f => d => `${f(d)} kWh`)(d3.format(",~f")),
-    width: 900,
+    width: 1000,//900,
     //height: 500,
     //margin: [50, 50, 50, 50]
     height: 850, //650
-    margin: [120, 30, 0, 40]
+    margin: [120, 90, 160, 60] //[120, 30, 0, 40]
   })
 })
 };
@@ -33,7 +33,7 @@ function SankeyChart({
   nodeLabel, // given d in (computed) nodes, text to label the associated rect
   nodeTitle = d => `${d.id}\n${format(d.value)}`, // given d in (computed) nodes, hover text
   nodeWidth = 30, // width of node rects 15
-  nodePadding = 20, // vertical separation between adjacent nodes 40
+  nodePadding = 15, // vertical separation between adjacent nodes 40
   nodeLabelPadding = 6, // horizontal separation between node and label 6
   nodeStroke = "currentColor", // stroke around node rects
   nodeStrokeWidth, // width of stroke around node rects, in pixels
@@ -50,7 +50,7 @@ function SankeyChart({
   colors = d3.scaleOrdinal(), // array of colors
   width = 640, // outer width, in pixels 200
   height = 400, // outer height, in pixels 100
-  margin = [5, 1, 5, 1], // shorthand for margins, in pixels, clockwise from top [10, 1, 10, 1] [10, 100, 10, 100]
+  margin = [10, 5, 30, 50], // shorthand for margins, in pixels, clockwise from top [10, 1, 10, 1] [10, 100, 10, 100][5, 1, 5, 1]
   marginTop = margin[0], // top margin, in pixels
   marginRight = margin[1], // right margin, in pixels
   marginBottom = margin[2], // bottom margin, in pixels
