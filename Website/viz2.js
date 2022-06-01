@@ -21,18 +21,34 @@ function filterFunction() {
 }
 */
 
+
+var energyObject = {
+  "Hydro-1": ["Electricity - total hydro production", "Operators", "Functions", "Conditions"],
+  "Back-end": ["SELECT", "UPDATE", "DELETE"]
+}
+window.onload = function() {
+  var energy = document.getElementById("EnergySelect");
+  var transaction = document.getElementById("TransactionSelect");
+  for (var x in energyObject) {
+    energy.options[energy.options.length] = new Option(x, x);
+  }
+  energy.onchange = function() {
+    transaction.length = 1;
+    var z = energyObject[energy.value];
+    for (var i = 0; i < z.length; i++) {
+      transaction.options[transaction.options.length] = new Option(z[i], z[i]);
+    };
+  };
+};
+
+
 // Start Viz button
 $(document).ready(function () {
     $('#StartViz2').on('click', function () {
-			let Energy1 = document.getElementById("EnergySelect1").value;
-			if (Energy1 == 'None') {alert("Select energy")}
-			let Energy2 = document.getElementById("EnergySelect2").value;
-			let Operation = document.getElementById("OperationSelect").value;
-			let ContinentsSelected = $.map($('input:checkbox:checked'), function(e, i) {return e.value;});
-			let highlight = document.getElementById("HighlightSelect").value;
-      let Date = document.getElementById("myRange").value;
-      
-      PlotBubbleChart();
-			bubblesChart(Energy1, Energy2, Operation, ContinentsSelected, highlight, Date);
+			let energy = document.getElementById("EnergySelect").value;
+			if (energy == 'None') {alert("Select energy")}
+      let transaction = document.getElementById("TransactionSelect").value;
+			let continentsSelected = $.map($('input:checkbox:checked'), function(e, i) {return e.value;});
+			bubblesChart(energy, transaction, continentsSelected);
   });
 });

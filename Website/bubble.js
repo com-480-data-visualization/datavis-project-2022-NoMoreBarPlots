@@ -1,207 +1,9 @@
 
+function bubblesChart(energy, transaction, selectedContinents) {
 
+  data_path1 = "data/" + energy + ".csv"
 
-function PrepareData(energy1, energy2, operation, selectedContinents, highlight, date) {
-
-}
-
-
-function PlotBubbleChart(data) {
-
-  pack = data =>
-    d3
-      .pack()
-      .size([width - 2, height - 2])
-      .padding(2)(d3.hierarchy({ children: data }).sum(d => d.Quantity))
-
-      circleComponent = ({
-          key,
-          r,
-          cx,
-          cy,
-          fill,
-          randomDelay = Math.random() * 300
-        }) => {
-          return {
-            append: 'circle',
-            key,
-            r: { enter: r, exit: 0 },
-            cx,
-            cy,
-            fill,
-            duration: 1000,
-            // Add some randomness movement of circles
-            delay: randomDelay
-          };
-        }
-
-
-        textComponent = ({
-            key,
-            text,
-            x = 0,
-            y = 0,
-            fontWeight = 'bold',
-            fontSize = '12px',
-            textAnchor = 'middle',
-            fillOpacity = 1,
-            colour,
-            r,
-            duration = 1000
-          }) => {
-            return {
-              append: 'text',
-              key,
-              text,
-              x,
-              y,
-              textAnchor,
-              fontFamily: 'sans-serif',
-              fontWeight,
-              fontSize,
-              fillOpacity: { enter: fillOpacity, exit: 0 },
-              fill: colour,
-              duration,
-              style: {
-                pointerEvents: 'none'
-              }
-            };
-          }
-
-          labelComponent = ({ isoCode, countryName, Quantity, r, colour }) => {
-            // Don't show any text for radius under 12px
-            if (r < 12) {
-              return [];
-            }
-
-            const circleWidth = r * 2;
-            const nameWidth = countryName.length * 10;
-            const shouldShowIso = nameWidth > circleWidth;
-            const newCountryName = shouldShowIso ? isoCode : countryName;
-            const shouldShowValue = r > 18;
-
-            let nameFontSize;
-
-            if (shouldShowValue) {
-              nameFontSize = shouldShowIso ? '10px' : '12px';
-            } else {
-              nameFontSize = '8px';
-            }
-
-            return [
-              textComponent({
-                key: isoCode,
-                text: newCountryName,
-                fontSize: nameFontSize,
-                y: shouldShowValue ? '-0.2em' : '0.3em',
-                fillOpacity: 1,
-                colour
-              }),
-              ...(shouldShowValue
-                ? [
-                    textComponent({
-                      key: isoCode,
-                      text: format(Quantity),
-                      fontSize: '10px',
-                      y: shouldShowIso ? '0.9em' : '1.0em',
-                      fillOpacity: 0.7,
-                      colour
-                    })
-                  ]
-                : [])
-            ];
-          }
-
-          bubbleComponent = ({
-              name,
-              id,
-              Quantity,
-              r,
-              x,
-              y,
-              fill,
-              colour,
-              duration = 1000
-            }) => {
-              return {
-                append: 'g',
-                key: id,
-                transform: {
-                  enter: `translate(${x + 1},${y + 1})`,
-                  exit: `translate(${width / 2},${height / 2})`
-                },
-                duration,
-                delay: Math.random() * 300,
-                children: [
-                  circleComponent({ key: id, r, fill, duration }),
-                  ...labelComponent({
-                    key: id,
-                    countryName: name,
-                    isoCode: id,
-                    Quantity,
-                    r,
-                    colour,
-                    duration
-                  })
-                ]
-              };
-            }
-
-            renderBubbleChart = (selection, data) => {
-              const root = pack(data);
-
-              const renderData = root.leaves().map(d => {
-                return bubbleComponent({
-                  id: d.data.id,
-                  name: d.data.name,
-                  value: d.data.value,
-                  r: d.r,
-                  x: d.x,
-                  y: d.y,
-                  fill: d.data.fill,
-                  colour: d.data.colour
-                });
-              });
-
-              return render(selection, renderData);
-            }
-
-            root = pack(data)
-
-
-            renderData = root.leaves().map(d => {
-              return bubbleComponent({
-                id: d.data.id,
-                name: d.data.name,
-                Quantity: d.data.Quantity,
-                r: d.r,
-                x: d.x,
-                y: d.y,
-                fill: d.data.fill,
-                colour: d.data.colour
-              })
-            });
-
-            bubbleChart = {
-              const svg = d3
-                .create("svg")
-                .attr('id', 'bubble-chart')
-                .attr("viewBox", [0, 0, width, height])
-                .attr("font-size", 12)
-                .attr("font-weight", 'bold')
-                .attr("font-family", "sans-serif")
-                .attr("text-anchor", "middle");
-              // .style('background-color', '#333');
-
-              return svg.node();
-            }
-
-            render('#bubbleChart', renderData);
-}
-
-function bubblesChart(energy1, energy2, operation, selectedContinents, highlight, date, data) {
-
-  data_path1 = "data/" + energy1 + ".csv"
+  d3.selectAll("svg").remove();
 
   let width = $(window).width();
 
@@ -211,7 +13,7 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
 
   dataKey = "Quantity"
 
-  dates = keyframes.map(([Year, data]) => Year)
+  k = 11;
 
 
   colours = ({ // FAUSSES VALEURS DES COULEURS #
@@ -276,12 +78,13 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
 
     normalization_quantity = Math.max(...data_.map(d => d.Quantity))/100
 
-    data__ = data_.filter(d => {
-          const country = countries.find(c => c.name === d.Country_or_Area);
-          const continent = continents.find((c, i) => {
-            if (!country) {
-              return false;
-            }
+    data__ = data_.filter(d => d.Transaction === transaction
+                 ).filter(d => {
+                    const country = countries.find(c => c.name === d.Country_or_Area);
+                    const continent = continents.find((c, i) => {
+                      if (!country) {
+                        return false;
+                      }
 
             return c.id === country.continentCode;
           });
@@ -290,31 +93,33 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
             return false;
           }
           return selectedContinents.includes(continent.id);
-        }).map(d => {
-            d.continentCode = countries.find(el => el.name == d.Country_or_Area).continentCode
-            return d
-        }).map(d => {
-            d.iso2 = countries.find(el => el.name == d.Country_or_Area).iso2
-            return d
-        }).map(d => {
-            d.iso3 = countries.find(el => el.name == d.Country_or_Area).iso3
-            return d
-        }).map(d => {
-            d.name = d.Country_or_Area
-            return d
-        }).map(d => {
-            d.color= continents.find(dd => dd.id == d.continentCode).fill
-            return d
-        }).map(d => {
-            d.id= 'node-'+d.name
-            return d
-        }).map(d => {
-            d.r =  d.Quantity/normalization_quantity
-            return d
-        }).map(d => {
-            d.date = getIsoDate(new Date(d.Year,0,1,1))
-            return d
         })
+
+        data__ = data__.map(d => {
+                        d.continentCode = countries.find(el => el.name == d.Country_or_Area).continentCode
+                        return d
+                     }).map(d => {
+                        d.iso2 = countries.find(el => el.name == d.Country_or_Area).iso2
+                        return d
+                     }).map(d => {
+                        d.iso3 = countries.find(el => el.name == d.Country_or_Area).iso3
+                        return d
+                     }).map(d => {
+                        d.name = d.Country_or_Area
+                        return d
+                     }).map(d => {
+                        d.color= continents.find(dd => dd.id == d.continentCode).fill
+                        return d
+                     }).map(d => {
+                        d.id= 'node-'+d.name
+                        return d
+                     }).map(d => {
+                        d.r =  d.Quantity/normalization_quantity
+                        return d
+                     }).map(d => {
+                        d.date = getIsoDate(new Date(d.Year,0,1,1))
+                        return d
+                    })
 
     datevalues = Array.from(d3.rollup(data__, ([d]) => d.Quantity, d => +d.Year, d => d.Country_or_Area))
       .map(([Year, data__]) => [new Date(Year,0,1,1), data__])
@@ -368,6 +173,7 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
         grp.push({
           date:date,
           r: get_rad(sub_data),
+          Quantity: get_rad(sub_data)*normalization_quantity,
           estimation: Boolean(sub_data.Quantity_Footnotes || 0)
         })
       }
@@ -397,7 +203,8 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
 
     chart_ = function () {
       // D3 CIRCLE PACK FORCE COLLIDE
-      var time_transition = 50000;
+      var state = 0;
+      var time_transition = 1000;
       var subscription = null;
       var pack = d3.pack().size([width, height]).padding(0);
 
@@ -405,6 +212,33 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
         .append("svg")
           .attr("width", width)
           .attr("height", height)
+
+
+          tooltip = d3
+            .select("body")
+            .append("div") // the tooltip always "exists" as its own html div, even when not visible
+            .style("position", "absolute") // the absolute position is necessary so that we can manually define its position later
+            .style("opacity", "0") // hide it from default at the start so it only appears on hover
+            .style("background-color", "white")
+            .attr("class", "tooltip")
+
+            //name a tooltip_in function to call when the mouse hovers a node
+            tooltip_in = function(event, d) { // pass event and d to this function so that it can access d for our data
+              return tooltip
+              .html("<h4>" + d.name + d.Quantity + "</h4>") // add an html element with a header tag containing the name of the node.  This line is where you would add additional information like: "<h4>" + d.name + "</h4></br><p>" + d.type + "</p>"  Note the quote marks, pluses and </br>--these are necessary for javascript to put all the data and strings within quotes together properly.  Any text needs to be all one line in .html() here
+              .style("opacity", "1") // make the tooltip visible on hover
+              .style("top", event.pageY + "px") // position the tooltip with its top at the same pixel location as the mouse on the screen
+              .style("left", event.pageX + "px"); // position the tooltip just to the right of the mouse location
+            }
+
+            // name a tooltip_out function to call when the mouse stops hovering
+            tooltip_out = function() {
+              return tooltip
+              .transition()
+              .duration(500) // give the hide behavior a 50 milisecond delay so that it doesn't jump around as the network moves
+              .style("opacity", "0"); // hide the tooltip when the mouse stops hovering
+            }
+
 
       var node = svg.selectAll("g.node");
       var root;
@@ -444,13 +278,14 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
       {
          return Math.random() * (max - min) + min;
       };
-      for (var state = 0; state < dates.length;state++)
+      setInterval(function()
       {
          var hosts = [];
         for (var i = 0; i < keyframes_country.length; i++)
         {
-           hosts.push({index: i,name:keyframes_country[i][1].name, isoCode: keyframes_country[i][1].iso3
-                       , cpu: keyframes_country[i][1].data_state[state].r,color: keyframes_country[i][1].color});
+           hosts.push({index: i,name:keyframes_country[i][1].name, isoCode: keyframes_country[i][1].isoCode,
+             cpu: keyframes_country[i][1].data_state[state].r,color: keyframes_country[i][1].color,
+           Quantity: keyframes_country[i][1].data_state[state].Quantity});
         }
          root = d3.hierarchy({children: hosts})
             .sum(function(d)
@@ -467,7 +302,8 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                y: height/2,
                cpu: item.data.cpu,
                color: item.data.color,
-               isoCode: item.data.isoCode
+               isoCode: item.data.isoCode,
+               Quantity: item.data.Quantity
             };
          });
          for (var i = 0; i < leaves.length; i++)
@@ -478,7 +314,8 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                nodes[i].oldR = oldR;
                nodes[i].newR = leaves[i].r;
                nodes[i].cpu = leaves[i].cpu;
-              nodes[i].color = leaves[i].color;
+               nodes[i].color = leaves[i].color;
+               nodes[i].Quantity = leaves[i].Quantity;
             }
             else
             {
@@ -488,6 +325,7 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                nodes[i].newR = leaves[i].r;
             }
          }
+
          if (first)
          {
 
@@ -498,7 +336,7 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                .attr('class', 'node');
             node.append("circle")
                .style("fill", 'transparent');
-            node.append("text" )
+            node.append("text")
                .attr("dy", d => {
                  //const shouldShowValue = d.r > 18;
                  if (d.r > 18){
@@ -511,9 +349,9 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                .style("fontsize", d => {
                   let nameFontSize;
                   if (d.r > 18) {
-                    nameFontSize = (d.name.length * 10 > d.r * 2) ? '10px' : '12px';
+                    nameFontSize = (d.name.length * 10 > d.newR * 2) ? '8px' : '10px';
                   } else {
-                    nameFontSize = '8px';
+                    nameFontSize = '6px';
                   }
                  return nameFontSize
                })
@@ -523,9 +361,9 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                 if (d.r < 12) {
                     return [];
                   }
-                return (d.name.length> d.r * 2) ? d.isoCode : d.name
+                return d.isoCode
                });
-           node.append("text" )
+           node.append("text").append("tspan")
                .attr("dy", d => {
                  //const shouldShowValue = d.r > 18;
                  if (d.name.length * 10 > d.r * 2){
@@ -541,7 +379,7 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                .text(function(d)
                {
                 if (d.r > 18){
-                   return format(d.r*normalization_quantity)
+                   return format(d.Quantity)
                  }
                 return []
                });
@@ -600,15 +438,15 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
             node.select('circle')
                .transition()
                .ease(d3.easeLinear)
-               .duration(time_transition/2)// divide by 2 ??
+               .duration(time_transition)// divide by 2 ??
                .style('fill', d => d.color);
-           node.append("text" )
+
+           node.select("text")
                .transition()
                .ease(d3.easeLinear)
-               .duration(time_transition)
+               .duration(time_transition/2)
                .attr("dy", d => {
-                 //const shouldShowValue = d.r > 18;
-                 if (d.r > 18){
+                 if (d.r > 25){
                    return '-0.2em'
                  }else{
                    return '0.3em'
@@ -618,24 +456,24 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                .style("fontsize", d => {
                   let nameFontSize;
                   if (d.r > 18) {
-                    nameFontSize = (d.name.length * 10 > d.r * 2) ? '10px' : '12px';
+                    nameFontSize = (d.name.length * 10 > d.r * 2) ? '8px' : '10px';
                   } else {
-                    nameFontSize = '8px';
+                    nameFontSize = '6px';
                   }
                  return nameFontSize
                })
                .style("text-anchor", "middle")
-               .text(function(d)
+               .text(d =>
                {
-                if (d.r < 12) {
+                if (d.newR < 14) {
                     return [];
                   }
-                return (d.name.length> d.r * 2) ? d.isoCode : d.name
+                return d.isoCode
                });
-           node.append("text" )
+           node.select("tspan")
                .transition()
                .ease(d3.easeLinear)
-               .duration(time_transition)
+               .duration(time_transition/2)
                .attr("dy", d => {
                  //const shouldShowValue = d.r > 18;
                  if (d.name.length * 10 > d.r * 2){
@@ -648,22 +486,24 @@ function bubblesChart(energy1, energy2, operation, selectedContinents, highlight
                .style("text-anchor", "middle")
                .style("fillOpacity",0.7)
                .style("fontsize","10px")
-               .text(function(d)
-               {
-                if (d.r > 18){
-                   return format(d.r*normalization_quantity)
+               .text(d => {
+                if (d.newR > 25){
+                   return format(d.Quantity)
                  }
                 return []
-               });
+              });
+              d3.selectAll("svg > *")
+                .on("mouseenter", tooltip_in) // when the mouse hovers a node, call the tooltip_in function to create the tooltip
+                .on("mouseleave", tooltip_out) // when the mouse stops hovering a node, call the tooltip_out function to get rid of the tooltip
          }
-      }
+         state += 1;
+      }, time_transition)
       return svg.node()
     }
     chart = chart_();
 
   }).catch(function(err) {
-    console.log(err)
-      // handle error here
+    throw err;
   })
 
   // The Conversation Colours

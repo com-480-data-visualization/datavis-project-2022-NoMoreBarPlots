@@ -99,18 +99,14 @@
               </div>
             </div> -->
 
-            <select id="EnergySelect1">
-              <option value="None">First energy</option>
-              <option value="Hydro-1">Hydro-1</option>
-            </select><br><br>
-            <select id="EnergySelect2">
-              <option value="None">Second energy</option>
-              <option value="Nuclear">Nuclear</option>
-            </select><br>
-            <select id="OperationSelect">
-              <option value="None">Operation</option>
-              <option value="Difference">Difference</option>
-            </select><br><br><br>
+            Energy: <select name="EnergySelect" id="EnergySelect">
+                <option value="" selected="selected">Choose energy</option>
+              </select>
+              <br><br>
+            Transaction: <select name="TransactionSelect" id="TransactionSelect">
+                <option value="" selected="selected">Please select energy first</option>
+              </select>
+              <br><br>
 
             <label class="checkbox-inline">
                <input type="checkbox" value="AF" checked>
@@ -154,19 +150,7 @@
                </input>
             </label><br><br><br>
 
-            <select id="HighlightSelect">
-              <option value="None">Highlight country</option>
-              <option value="Switzerland">Switzerland</option>
-            </select><br><br>
-
-            <div class="slidecontainer" id="slider1">
-              <input type="range" value="2021" min="1980" max="2021" oninput="this.nextElementSibling.value = this.value" class="slider" id="myRange">
-              <output name="DateValue" id="myRange">2021</output>
-            </div>
-
-
             <button type="button" id="StartViz2" class="intro-btn"><span>Start vizualisation</button>
-            <script src="viz2.js"></script>
 
             <div id="bubbleChart"></div>
 
