@@ -1,0 +1,91 @@
+,source,target,value,year,estimation
+0,Oil products - imports,imports,3890030000.0,2012,6.0
+1,Oil products - imports,imports,3951220000.0,2013,4.0
+2,Oil products - imports,imports,3996320000.0,2014,6.0
+3,Oil products - imports,imports,4105380000.0,2015,6.0
+4,Oil products - imports,imports,4133570000.0,2016,6.0
+5,Oil products - imports,imports,3905520000.0,2017,6.0
+6,Oil products - imports,imports,3775110000.0,2018,6.0
+7,Oil products - imports,imports,3799080000.0,2019,6.0
+8,Oil products - imports,imports,3583920000.0,2020,6.0
+9,Solid biofuels - imports,imports,1055000.0,2012,2.0
+10,Solid biofuels - imports,imports,1055000.0,2013,2.0
+11,Solid biofuels - imports,imports,1055000.0,2014,2.0
+12,Solid biofuels - imports,imports,1055000.0,2015,2.0
+13,Solid biofuels - imports,imports,1055000.0,2016,2.0
+14,Solid biofuels - imports,imports,1055000.0,2017,2.0
+15,Solid biofuels - imports,imports,1055000.0,2018,2.0
+16,Solid biofuels - imports,imports,1055000.0,2019,2.0
+17,Solid biofuels - imports,imports,1055000.0,2020,2.0
+18,final consumption,Oil products - final consumption,1056680000.0,2012,5.0
+19,final consumption,Oil products - final consumption,1078360000.0,2013,5.0
+20,final consumption,Oil products - final consumption,1100820000.0,2014,5.0
+21,final consumption,Oil products - final consumption,1139190000.0,2015,5.0
+22,final consumption,Oil products - final consumption,1144850000.0,2016,5.0
+23,final consumption,Oil products - final consumption,1144330000.0,2017,5.0
+24,final consumption,Oil products - final consumption,1107370000.0,2018,5.0
+25,final consumption,Oil products - final consumption,1100820000.0,2019,5.0
+26,final consumption,Oil products - final consumption,1084620000.0,2020,5.0
+27,final consumption,Solid biofuels - final consumption,1055000.0,2012,2.0
+28,final consumption,Solid biofuels - final consumption,1055000.0,2013,2.0
+29,final consumption,Solid biofuels - final consumption,1055000.0,2014,2.0
+30,final consumption,Solid biofuels - final consumption,1055000.0,2015,2.0
+31,final consumption,Solid biofuels - final consumption,1055000.0,2016,2.0
+32,final consumption,Solid biofuels - final consumption,1055000.0,2017,2.0
+33,final consumption,Solid biofuels - final consumption,1055000.0,2018,2.0
+34,final consumption,Solid biofuels - final consumption,1055000.0,2019,2.0
+35,final consumption,Solid biofuels - final consumption,1055000.0,2020,2.0
+36,losses,Electricity - losses,80000000.0,2020,1.0
+37,losses,Electricity - losses,90000000.0,2019,1.0
+38,losses,Electricity - losses,87000000.0,2018,1.0
+39,losses,Electricity - losses,100000000.0,2017,1.0
+40,losses,Electricity - losses,115000000.0,2016,1.0
+41,losses,Electricity - losses,110000000.0,2015,1.0
+42,losses,Electricity - losses,110000000.0,2014,1.0
+43,losses,Electricity - losses,320000000.0,2013,0.0
+44,losses,Electricity - losses,308000000.0,2012,1.0
+45,imports,Total amount of energy,3890030000.0,2012,6.0
+46,imports,Total amount of energy,3951220000.0,2013,4.0
+47,imports,Total amount of energy,3996320000.0,2014,6.0
+48,imports,Total amount of energy,4105380000.0,2015,6.0
+49,imports,Total amount of energy,4133570000.0,2016,6.0
+50,imports,Total amount of energy,3905520000.0,2017,6.0
+51,imports,Total amount of energy,3775110000.0,2018,6.0
+52,imports,Total amount of energy,3799080000.0,2019,6.0
+53,imports,Total amount of energy,3583920000.0,2020,6.0
+54,imports,Total amount of energy,1055000.0,2012,2.0
+55,imports,Total amount of energy,1055000.0,2013,2.0
+56,imports,Total amount of energy,1055000.0,2014,2.0
+57,imports,Total amount of energy,1055000.0,2015,2.0
+58,imports,Total amount of energy,1055000.0,2016,2.0
+59,imports,Total amount of energy,1055000.0,2017,2.0
+60,imports,Total amount of energy,1055000.0,2018,2.0
+61,imports,Total amount of energy,1055000.0,2019,2.0
+62,imports,Total amount of energy,1055000.0,2020,2.0
+63,Total amount of energy,final consumption,1056680000.0,2012,5.0
+64,Total amount of energy,final consumption,1078360000.0,2013,5.0
+65,Total amount of energy,final consumption,1100820000.0,2014,5.0
+66,Total amount of energy,final consumption,1139190000.0,2015,5.0
+67,Total amount of energy,final consumption,1144850000.0,2016,5.0
+68,Total amount of energy,final consumption,1144330000.0,2017,5.0
+69,Total amount of energy,final consumption,1107370000.0,2018,5.0
+70,Total amount of energy,final consumption,1100820000.0,2019,5.0
+71,Total amount of energy,final consumption,1084620000.0,2020,5.0
+72,Total amount of energy,final consumption,1055000.0,2012,2.0
+73,Total amount of energy,final consumption,1055000.0,2013,2.0
+74,Total amount of energy,final consumption,1055000.0,2014,2.0
+75,Total amount of energy,final consumption,1055000.0,2015,2.0
+76,Total amount of energy,final consumption,1055000.0,2016,2.0
+77,Total amount of energy,final consumption,1055000.0,2017,2.0
+78,Total amount of energy,final consumption,1055000.0,2018,2.0
+79,Total amount of energy,final consumption,1055000.0,2019,2.0
+80,Total amount of energy,final consumption,1055000.0,2020,2.0
+81,Total amount of energy,losses,80000000.0,2020,1.0
+82,Total amount of energy,losses,90000000.0,2019,1.0
+83,Total amount of energy,losses,87000000.0,2018,1.0
+84,Total amount of energy,losses,100000000.0,2017,1.0
+85,Total amount of energy,losses,115000000.0,2016,1.0
+86,Total amount of energy,losses,110000000.0,2015,1.0
+87,Total amount of energy,losses,110000000.0,2014,1.0
+88,Total amount of energy,losses,320000000.0,2013,0.0
+89,Total amount of energy,losses,308000000.0,2012,1.0

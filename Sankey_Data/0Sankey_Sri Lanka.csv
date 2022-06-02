@@ -1,0 +1,841 @@
+,source,target,value,year,estimation
+0,exports,Oil products - exports,1108911128.0,1990,0.0
+1,exports,Oil products - exports,1189944464.0,1991,0.0
+2,exports,Oil products - exports,87988906.0,1992,0.0
+3,exports,Oil products - exports,777033360.0,1993,0.0
+4,exports,Oil products - exports,1041488914.0,1994,0.0
+5,exports,Oil products - exports,1096155580.0,1995,0.0
+6,exports,Oil products - exports,908288914.0,1996,0.0
+7,exports,Oil products - exports,913833354.0,1997,0.0
+8,exports,Oil products - exports,258111140.0,1998,0.0
+9,exports,Oil products - exports,256711130.0,1999,0.0
+10,exports,Oil products - exports,34722250.0,2000,0.0
+11,exports,Oil products - exports,22777796.0,2001,0.0
+12,exports,Oil products - exports,16666680.0,2002,0.0
+13,exports,Oil products - exports,0.0,2003,0.0
+14,exports,Oil products - exports,421800000.0,2004,0.0
+15,exports,Oil products - exports,0.0,2005,0.0
+16,exports,Oil products - exports,11944454.0,2006,0.0
+17,exports,Oil products - exports,0.0,2007,0.0
+18,exports,Oil products - exports,0.0,2008,0.0
+19,exports,Oil products - exports,0.0,2009,0.0
+20,exports,Oil products - exports,7500006.0,2010,0.0
+21,exports,Oil products - exports,293327786.0,2011,0.0
+22,exports,Oil products - exports,0.0,2012,0.0
+23,exports,Oil products - exports,1172645474.2656,2013,0.0
+24,exports,Oil products - exports,5753199.047,2014,0.0
+25,exports,Oil products - exports,2055282227.2,2015,0.0
+26,exports,Oil products - exports,627575563.0,2016,0.0
+27,exports,Oil products - exports,0.0,2017,0.0
+28,exports,Oil products - exports,306655570.0,2018,0.0
+29,exports,Oil products - exports,10383341.64,2019,0.0
+30,exports,Solid biofuels - exports,176295000.0,1990,0.0
+31,exports,Solid biofuels - exports,67620000.0,1991,0.0
+32,exports,Solid biofuels - exports,99820000.0,1992,0.0
+33,exports,Solid biofuels - exports,85705000.0,1993,0.0
+34,exports,Solid biofuels - exports,55437000.0,1994,0.0
+35,exports,Solid biofuels - exports,161250000.0,1995,0.0
+36,exports,Solid biofuels - exports,0.0,1996,0.0
+37,exports,Solid biofuels - exports,0.0,1997,0.0
+38,exports,Solid biofuels - exports,0.0,1998,0.0
+39,exports,Solid biofuels - exports,0.0,1999,0.0
+40,exports,Solid biofuels - exports,0.0,2000,0.0
+41,exports,Solid biofuels - exports,0.0,2001,0.0
+42,exports,Solid biofuels - exports,0.0,2002,0.0
+43,exports,Solid biofuels - exports,0.0,2003,0.0
+44,exports,Solid biofuels - exports,0.0,2004,0.0
+45,exports,Solid biofuels - exports,0.0,2005,0.0
+46,exports,Solid biofuels - exports,0.0,2006,0.0
+47,exports,Solid biofuels - exports,10465000.0,2007,0.0
+48,Conventional crude oil - imports,imports,19492200000.0,2020,0.0
+49,Conventional crude oil - imports,imports,21560022900.0,2019,0.0
+50,Conventional crude oil - imports,imports,20627100000.0,2018,0.0
+51,Conventional crude oil - imports,imports,17542980000.0,2017,0.0
+52,Conventional crude oil - imports,imports,19714500000.0,2016,0.0
+53,Conventional crude oil - imports,imports,19618560000.0,2015,0.0
+54,Conventional crude oil - imports,imports,21340683000.0,2014,0.0
+55,Conventional crude oil - imports,imports,20398833000.0,2013,0.0
+56,Conventional crude oil - imports,imports,19024200000.0,2012,0.0
+57,Conventional crude oil - imports,imports,22604400000.0,2011,0.0
+58,Conventional crude oil - imports,imports,21282300000.0,2010,0.0
+59,Conventional crude oil - imports,imports,22604400000.0,2009,0.0
+60,Conventional crude oil - imports,imports,21691800000.0,2008,0.0
+61,Conventional crude oil - imports,imports,22686300000.0,2007,0.0
+62,Conventional crude oil - imports,imports,25236900000.0,2006,0.0
+63,Conventional crude oil - imports,imports,23493600000.0,2005,0.0
+64,Conventional crude oil - imports,imports,25810200000.0,2004,0.0
+65,Conventional crude oil - imports,imports,23353200000.0,2003,0.0
+66,Conventional crude oil - imports,imports,26687700000.0,2002,0.0
+67,Conventional crude oil - imports,imports,22873500000.0,2001,0.0
+68,Conventional crude oil - imports,imports,27483300000.0,2000,0.0
+69,Conventional crude oil - imports,imports,21469500000.0,1999,0.0
+70,Conventional crude oil - imports,imports,24885900000.0,1998,0.0
+71,Conventional crude oil - imports,imports,21095100000.0,1997,0.0
+72,Conventional crude oil - imports,imports,23914800000.0,1996,0.0
+73,Conventional crude oil - imports,imports,21446100000.0,1995,0.0
+74,Conventional crude oil - imports,imports,22756500000.0,1994,0.0
+75,Conventional crude oil - imports,imports,21422700000.0,1993,0.0
+76,Conventional crude oil - imports,imports,15362100000.0,1992,0.0
+77,Conventional crude oil - imports,imports,19024200000.0,1991,0.0
+78,Conventional crude oil - imports,imports,20568600000.0,1990,0.0
+79,Hard coal - imports,imports,16577001980.000002,2019,0.0
+80,Hard coal - imports,imports,15032040000.0,2018,0.0
+81,Hard coal - imports,imports,17537380000.0,2017,0.0
+82,Hard coal - imports,imports,16687924000.0,2016,0.0
+83,Hard coal - imports,imports,13057610000.0,2015,0.0
+84,Hard coal - imports,imports,11149804000.0,2014,0.0
+85,Hard coal - imports,imports,7850423900.0,2013,0.0
+86,Hard coal - imports,imports,6679056000.0,2012,0.0
+87,Hard coal - imports,imports,5275788000.0,2011,0.0
+88,Hard coal - imports,imports,750214000.0,2010,0.0
+89,Hard coal - imports,imports,696776000.0,2009,0.0
+90,Hard coal - imports,imports,541320000.0,2008,0.0
+91,Hard coal - imports,imports,471920000.0,2007,0.0
+92,Hard coal - imports,imports,659300000.0,2006,0.0
+93,Hard coal - imports,imports,659300000.0,2005,0.0
+94,Hard coal - imports,imports,659300000.0,2004,0.0
+95,Hard coal - imports,imports,666240000.0,2003,0.0
+96,Hard coal - imports,imports,6940000.0,2002,0.0
+97,Hard coal - imports,imports,0.0,2001,0.0
+98,Hard coal - imports,imports,6940000.0,2000,0.0
+99,Hard coal - imports,imports,6940000.0,1999,0.0
+100,Hard coal - imports,imports,0.0,1998,0.0
+101,Hard coal - imports,imports,6940000.0,1997,0.0
+102,Hard coal - imports,imports,0.0,1996,0.0
+103,Hard coal - imports,imports,6940000.0,1995,0.0
+104,Hard coal - imports,imports,6940000.0,1994,0.0
+105,Hard coal - imports,imports,0.0,1993,0.0
+106,Hard coal - imports,imports,6940000.0,1992,0.0
+107,Hard coal - imports,imports,6940000.0,1991,0.0
+108,Hard coal - imports,imports,0.0,1990,0.0
+109,Coal products - imports,imports,7770000.0,1990,0.0
+110,Coal products - imports,imports,15540000.0,1991,0.0
+111,Coal products - imports,imports,7770000.0,1992,0.0
+112,Coal products - imports,imports,15540000.0,1993,0.0
+113,Coal products - imports,imports,15540000.0,1994,0.0
+114,Coal products - imports,imports,7770000.0,1995,0.0
+115,Coal products - imports,imports,15540000.0,1996,0.0
+116,Coal products - imports,imports,15540000.0,1997,0.0
+117,Coal products - imports,imports,15540000.0,1998,0.0
+118,Coal products - imports,imports,7770000.0,1999,0.0
+119,Coal products - imports,imports,7770000.0,2000,0.0
+120,Coal products - imports,imports,7770000.0,2001,1.0
+121,Coal products - imports,imports,7770000.0,2002,0.0
+122,Coal products - imports,imports,7770000.0,2003,0.0
+123,Coal products - imports,imports,7770000.0,2004,0.0
+124,Coal products - imports,imports,7770000.0,2005,0.0
+125,Coal products - imports,imports,0.0,2006,0.0
+126,Oil products - imports,imports,620100000.0,1990,0.0
+127,Oil products - imports,imports,796000000.0,1991,0.0
+128,Oil products - imports,imports,3334000000.0,1992,0.0
+129,Oil products - imports,imports,1352100000.0,1993,0.0
+130,Oil products - imports,imports,1942200000.0,1994,0.0
+131,Oil products - imports,imports,3200725000.0,1995,0.0
+132,Oil products - imports,imports,3036775000.0,1996,0.0
+133,Oil products - imports,imports,4075375000.0,1997,0.0
+134,Oil products - imports,imports,3601725000.0,1998,0.0
+135,Oil products - imports,imports,6158750000.0,1999,0.0
+136,Oil products - imports,imports,5173750000.0,2000,0.0
+137,Oil products - imports,imports,5364275000.0,2001,1.0
+138,Oil products - imports,imports,5846675000.0,2002,0.0
+139,Oil products - imports,imports,5493950000.0,2003,0.0
+140,Oil products - imports,imports,6476750000.0,2004,0.0
+141,Oil products - imports,imports,11405850000.0,2005,0.0
+142,Oil products - imports,imports,10095600000.0,2006,0.0
+143,Oil products - imports,imports,10710500000.0,2007,0.0
+144,Oil products - imports,imports,11584808340.0,2008,0.0
+145,Oil products - imports,imports,12744550000.0,2009,0.0
+146,Oil products - imports,imports,15235903000.0,2010,1.0
+147,Oil products - imports,imports,16977350000.0,2011,1.0
+148,Oil products - imports,imports,21118580000.0,2012,1.0
+149,Oil products - imports,imports,16955860610.0,2013,1.0
+150,Oil products - imports,imports,17070866100.0,2014,1.0
+151,Oil products - imports,imports,20498960000.0,2015,1.0
+152,Oil products - imports,imports,24938397000.0,2016,1.0
+153,Oil products - imports,imports,26172510000.000004,2017,0.0
+154,Oil products - imports,imports,31737475000.0,2018,1.0
+155,Oil products - imports,imports,30990712100.0,2019,0.0
+156,Oil products - imports,imports,1750000.0000000002,2020,0.0
+157,Solid biofuels - imports,imports,0.0,1990,0.0
+158,Solid biofuels - imports,imports,0.0,1991,0.0
+159,Solid biofuels - imports,imports,9332500.0,1992,0.0
+160,Solid biofuels - imports,imports,241500.0,1993,0.0
+161,Solid biofuels - imports,imports,46959500.0,1994,0.0
+162,Solid biofuels - imports,imports,5180000.0,1995,0.0
+163,Solid biofuels - imports,imports,0.0,1996,0.0
+164,Solid biofuels - imports,imports,0.0,1997,0.0
+165,Solid biofuels - imports,imports,0.0,1998,0.0
+166,Solid biofuels - imports,imports,0.0,1999,0.0
+167,Solid biofuels - imports,imports,0.0,2000,0.0
+168,Solid biofuels - imports,imports,0.0,2001,0.0
+169,Solid biofuels - imports,imports,0.0,2002,0.0
+170,Oil products - production,production,13113655572.0,1990,0.0
+171,Oil products - production,production,12444466686.0,1991,0.0
+172,Oil products - production,production,10229900016.0,1992,0.0
+173,Oil products - production,production,13028733360.0,1993,0.0
+174,Oil products - production,production,13718644470.0,1994,0.0
+175,Oil products - production,production,12768433360.0,1995,0.0
+176,Oil products - production,production,15397522246.0,1996,0.0
+177,Oil products - production,production,13479000022.0,1997,0.0
+178,Oil products - production,production,15189211138.0,1998,0.0
+179,Oil products - production,production,13170544466.0,1999,0.0
+180,Oil products - production,production,15800417802.8,2000,0.0
+181,Oil products - production,production,14101603356.6,2001,0.0
+182,Oil products - production,production,15450162246.6,2002,0.0
+183,Oil products - production,production,14212274465.4,2003,0.0
+184,Oil products - production,production,15511437799.4,2004,0.0
+185,Oil products - production,production,13830472247.4,2005,0.0
+186,Oil products - production,production,15295423357.6,2006,0.0
+187,Oil products - production,production,14667150020.4,2007,0.0
+188,Oil products - production,production,14284311133.4,2008,0.0
+189,Oil products - production,production,15249130023.4,2009,0.0
+190,Oil products - production,production,13106786685.4,2010,0.0
+191,Oil products - production,production,13434002240.0,2011,0.0
+192,Oil products - production,production,11830264460.2,2012,0.0
+193,Oil products - production,production,12563467797.0,2013,0.0
+194,Oil products - production,production,12429751137.12,2014,0.0
+195,Oil products - production,production,11158745363.68,2015,0.0
+196,Oil products - production,production,10716905587.6,2016,0.0
+197,Oil products - production,production,11560237142.6,2017,0.0
+198,Oil products - production,production,10547966698.0,2018,0.0
+199,Oil products - production,production,11861412013.782,2019,0.0
+200,Oil products - production,production,10763041257.1,2020,0.0
+201,Solid biofuels - production,production,33944462242.5,1990,0.0
+202,Solid biofuels - production,production,34149326897.5,1991,0.0
+203,Solid biofuels - production,production,34285437242.5,1992,0.0
+204,Solid biofuels - production,production,34997693275.0,1993,0.0
+205,Solid biofuels - production,production,35004901552.5,1994,0.0
+206,Solid biofuels - production,production,35434482415.0,1995,0.0
+207,Solid biofuels - production,production,35560680172.5,1996,0.0
+208,Solid biofuels - production,production,35620157585.0,1997,0.0
+209,Solid biofuels - production,production,35609043792.5,1998,0.0
+210,Solid biofuels - production,production,35453513275.0,1999,0.0
+211,Solid biofuels - production,production,39638568792.5,2000,0.0
+212,Solid biofuels - production,production,38208456035.0,2001,0.0
+213,Solid biofuels - production,production,38623051035.0,2002,0.0
+214,Solid biofuels - production,production,39368758965.0,2003,0.0
+215,Solid biofuels - production,production,40147255000.0,2004,0.0
+216,Solid biofuels - production,production,41318645000.0,2005,0.0
+217,Solid biofuels - production,production,42483080000.0,2006,0.0
+218,Solid biofuels - production,production,42347615000.0,2007,0.0
+219,Solid biofuels - production,production,42043550000.0,2008,0.0
+220,Solid biofuels - production,production,43291790000.0,2009,0.0
+221,Solid biofuels - production,production,44816970000.0,2010,0.0
+222,Solid biofuels - production,production,44789210000.0,2011,0.0
+223,Solid biofuels - production,production,43973200000.0,2012,0.0
+224,Solid biofuels - production,production,43255155334.48275,2013,0.0
+225,Solid biofuels - production,production,44106365034.48275,2014,0.0
+226,Solid biofuels - production,production,43209771172.41375,2015,0.0
+227,Solid biofuels - production,production,41756974517.2415,2016,0.0
+228,Solid biofuels - production,production,41141239758.62075,2017,0.0
+229,Solid biofuels - production,production,41189684000.0,2018,0.0
+230,Solid biofuels - production,production,43259222000.0,2019,1.0
+231,final consumption,Hard coal - final consumption,520500000.0,2019,0.0
+232,final consumption,Hard coal - final consumption,520500000.0,2018,0.0
+233,final consumption,Hard coal - final consumption,486494000.0,2017,0.0
+234,final consumption,Hard coal - final consumption,540626000.0,2016,0.0
+235,final consumption,Hard coal - final consumption,600865200.0,2015,0.0
+236,final consumption,Hard coal - final consumption,678523800.0,2014,0.0
+237,final consumption,Hard coal - final consumption,581502600.0,2013,0.0
+238,final consumption,Hard coal - final consumption,685672000.0,2012,0.0
+239,final consumption,Hard coal - final consumption,553395600.0,2011,0.0
+240,final consumption,Hard coal - final consumption,659994000.0,2010,0.0
+241,final consumption,Hard coal - final consumption,646114000.0,2009,0.0
+242,final consumption,Hard coal - final consumption,635010000.0,2008,0.0
+243,final consumption,Hard coal - final consumption,471989400.00000006,2007,0.0
+244,final consumption,Hard coal - final consumption,659994000.0,2006,0.0
+245,final consumption,Hard coal - final consumption,660271600.0,2005,0.0
+246,final consumption,Hard coal - final consumption,659300000.0,2004,0.0
+247,final consumption,Hard coal - final consumption,666240000.0,2003,0.0
+248,final consumption,Hard coal - final consumption,6940000.0,2002,0.0
+249,final consumption,Hard coal - final consumption,0.0,2001,0.0
+250,final consumption,Hard coal - final consumption,6940000.0,2000,0.0
+251,final consumption,Hard coal - final consumption,6940000.0,1999,0.0
+252,final consumption,Hard coal - final consumption,0.0,1998,0.0
+253,final consumption,Hard coal - final consumption,6940000.0,1997,1.0
+254,final consumption,Hard coal - final consumption,0.0,1996,0.0
+255,final consumption,Hard coal - final consumption,6940000.0,1995,1.0
+256,final consumption,Hard coal - final consumption,6940000.0,1994,1.0
+257,final consumption,Hard coal - final consumption,0.0,1993,0.0
+258,final consumption,Hard coal - final consumption,6940000.0,1992,1.0
+259,final consumption,Coal products - final consumption,7770000.0,1990,1.0
+260,final consumption,Coal products - final consumption,15540000.0,1991,1.0
+261,final consumption,Coal products - final consumption,7770000.0,1992,1.0
+262,final consumption,Coal products - final consumption,15540000.0,1993,1.0
+263,final consumption,Coal products - final consumption,15540000.0,1994,1.0
+264,final consumption,Coal products - final consumption,7770000.0,1995,1.0
+265,final consumption,Coal products - final consumption,15540000.0,1996,1.0
+266,final consumption,Coal products - final consumption,15540000.0,1997,1.0
+267,final consumption,Coal products - final consumption,15540000.0,1998,1.0
+268,final consumption,Coal products - final consumption,7770000.0,1999,0.0
+269,final consumption,Coal products - final consumption,7770000.0,2000,0.0
+270,final consumption,Coal products - final consumption,7770000.0,2001,0.0
+271,final consumption,Coal products - final consumption,7770000.0,2002,0.0
+272,final consumption,Coal products - final consumption,7770000.0,2003,0.0
+273,final consumption,Coal products - final consumption,7770000.0,2004,0.0
+274,final consumption,Coal products - final consumption,7770000.0,2005,0.0
+275,final consumption,Coal products - final consumption,0.0,2006,0.0
+276,final consumption,Oil products - final consumption,7586100000.0,1990,0.0
+277,final consumption,Oil products - final consumption,44400000.0,1990,0.0
+278,final consumption,Oil products - final consumption,8230300000.0,1991,0.0
+279,final consumption,Oil products - final consumption,44400000.0,1991,0.0
+280,final consumption,Oil products - final consumption,9268500000.0,1992,0.0
+281,final consumption,Oil products - final consumption,44400000.0,1992,0.0
+282,final consumption,Oil products - final consumption,9118200000.0,1993,0.0
+283,final consumption,Oil products - final consumption,44400000.0,1993,0.0
+284,final consumption,Oil products - final consumption,9913800000.0,1994,0.0
+285,final consumption,Oil products - final consumption,22200000.0,1994,0.0
+286,final consumption,Oil products - final consumption,10668700000.0,1995,0.0
+287,final consumption,Oil products - final consumption,11100000.0,1995,0.0
+288,final consumption,Oil products - final consumption,12162000000.0,1996,0.0
+289,final consumption,Oil products - final consumption,11100000.0,1996,0.0
+290,final consumption,Oil products - final consumption,11186200000.0,1997,0.0
+291,final consumption,Oil products - final consumption,0.0,1997,0.0
+292,final consumption,Oil products - final consumption,12484500000.0,1998,0.0
+293,final consumption,Oil products - final consumption,0.0,1998,0.0
+294,final consumption,Oil products - final consumption,13323500000.0,1999,0.0
+295,final consumption,Oil products - final consumption,0.0,1999,0.0
+296,final consumption,Oil products - final consumption,13406925000.0,2000,0.0
+297,final consumption,Oil products - final consumption,37740000.0,2000,1.0
+298,final consumption,Oil products - final consumption,12884950000.0,2001,1.0
+299,final consumption,Oil products - final consumption,24420000.000000004,2001,1.0
+300,final consumption,Oil products - final consumption,12620658000.0,2002,0.0
+301,final consumption,Oil products - final consumption,21090000.0,2002,1.0
+302,final consumption,Oil products - final consumption,13024775000.0,2003,0.0
+303,final consumption,Oil products - final consumption,33300000.0,2003,0.0
+304,final consumption,Oil products - final consumption,14830250000.0,2004,0.0
+305,final consumption,Oil products - final consumption,44400000.0,2004,0.0
+306,final consumption,Oil products - final consumption,15467825000.0,2005,0.0
+307,final consumption,Oil products - final consumption,55500000.0,2005,0.0
+308,final consumption,Oil products - final consumption,15641975000.0,2006,0.0
+309,final consumption,Oil products - final consumption,55500000.0,2006,0.0
+310,final consumption,Oil products - final consumption,15761400000.0,2007,0.0
+311,final consumption,Oil products - final consumption,49950000.0,2007,0.0
+312,final consumption,Oil products - final consumption,15547275000.0,2008,0.0
+313,final consumption,Oil products - final consumption,27750000.0,2008,0.0
+314,final consumption,Oil products - final consumption,15254425000.0,2009,0.0
+315,final consumption,Oil products - final consumption,9990000.0,2009,0.0
+316,final consumption,Oil products - final consumption,16956815000.0,2010,0.0
+317,final consumption,Oil products - final consumption,29970000.000000004,2010,0.0
+318,final consumption,Oil products - final consumption,16735513000.0,2011,0.0
+319,final consumption,Oil products - final consumption,42180000.0,2011,0.0
+320,final consumption,Oil products - final consumption,16919583000.0,2012,0.0
+321,final consumption,Oil products - final consumption,36630000.0,2012,0.0
+322,final consumption,Oil products - final consumption,17403186000.0,2013,2.0
+323,final consumption,Oil products - final consumption,41292000.0,2013,0.0
+324,final consumption,Oil products - final consumption,17086520000.0,2014,2.0
+325,final consumption,Oil products - final consumption,27705600.0,2014,0.0
+326,final consumption,Oil products - final consumption,23534690000.0,2015,1.0
+327,final consumption,Oil products - final consumption,14430000.0,2015,0.0
+328,final consumption,Oil products - final consumption,29737602000.0,2016,2.0
+329,final consumption,Oil products - final consumption,19980000.0,2016,0.0
+330,final consumption,Oil products - final consumption,26567790000.0,2017,1.0
+331,final consumption,Oil products - final consumption,19980000.0,2017,0.0
+332,final consumption,Oil products - final consumption,27626996800.0,2018,3.0
+333,final consumption,Oil products - final consumption,22200000.0,2018,0.0
+334,final consumption,Oil products - final consumption,28528527200.0,2019,0.0
+335,final consumption,Oil products - final consumption,18426000.0,2019,0.0
+336,final consumption,Oil products - final consumption,2000000.0,2020,0.0
+337,final consumption,Solid biofuels - final consumption,33547098275.0,1990,0.0
+338,final consumption,Solid biofuels - final consumption,33815706897.5,1991,0.0
+339,final consumption,Solid biofuels - final consumption,33910529915.0,1992,0.0
+340,final consumption,Solid biofuels - final consumption,34583087412.5,1993,1.0
+341,final consumption,Solid biofuels - final consumption,34872218965.0,1994,1.0
+342,final consumption,Solid biofuels - final consumption,35432654827.5,1995,0.0
+343,final consumption,Solid biofuels - final consumption,35559749140.0,1996,0.0
+344,final consumption,Solid biofuels - final consumption,35620962587.5,1997,0.0
+345,final consumption,Solid biofuels - final consumption,35602973620.0,1998,0.0
+346,final consumption,Solid biofuels - final consumption,35452582240.0,1999,0.0
+347,final consumption,Solid biofuels - final consumption,39637637757.5,2000,0.0
+348,final consumption,Solid biofuels - final consumption,38207525000.0,2001,0.0
+349,final consumption,Solid biofuels - final consumption,38621223447.5,2002,0.0
+350,final consumption,Solid biofuels - final consumption,39363727245.0,2003,0.0
+351,final consumption,Solid biofuels - final consumption,40142621212.5,2004,0.0
+352,final consumption,Solid biofuels - final consumption,41298510162.5,2005,0.0
+353,final consumption,Solid biofuels - final consumption,42466252292.49999,2006,0.0
+354,final consumption,Solid biofuels - final consumption,42337477250.0,2007,0.0
+355,final consumption,Solid biofuels - final consumption,41994300000.0,2008,0.0
+356,final consumption,Solid biofuels - final consumption,43093479655.0,2009,0.0
+357,final consumption,Solid biofuels - final consumption,44536840690.0,2010,0.0
+358,final consumption,Solid biofuels - final consumption,44516365172.41375,2011,0.0
+359,final consumption,Solid biofuels - final consumption,43771163793.1035,2012,0.0
+360,final consumption,Solid biofuels - final consumption,43255150162.069,2013,0.0
+361,final consumption,Solid biofuels - final consumption,44106365034.48275,2014,0.0
+362,final consumption,Solid biofuels - final consumption,43209426344.7415,2015,0.0
+363,final consumption,Solid biofuels - final consumption,41756974517.2415,2016,0.0
+364,final consumption,Solid biofuels - final consumption,41141584586.207,2017,0.0
+365,final consumption,Solid biofuels - final consumption,41189684000.0,2018,1.0
+366,final consumption,Solid biofuels - final consumption,43250243000.0,2019,2.0
+367,losses,Electricity - losses,13373170000.0,2019,0.0
+368,losses,Electricity - losses,14070000000.0,2018,0.0
+369,losses,Electricity - losses,11792000000.0,2017,0.0
+370,losses,Electricity - losses,9974000000.0,2016,0.0
+371,losses,Electricity - losses,9250000000.0,2015,0.0
+372,losses,Electricity - losses,14256000000.0,2014,0.0
+373,losses,Electricity - losses,12010400000.0,2013,0.0
+374,losses,Electricity - losses,11921000000.0,2012,0.0
+375,losses,Electricity - losses,13374000000.0,2011,0.0
+376,losses,Electricity - losses,14583000000.0,2010,0.0
+377,losses,Electricity - losses,14314000000.0,2009,0.0
+378,losses,Electricity - losses,14694000000.0,2008,0.0
+379,losses,Electricity - losses,15306000000.0,2007,0.0
+380,losses,Electricity - losses,15607000000.0,2006,0.0
+381,losses,Electricity - losses,15532000000.0,2005,0.0
+382,losses,Electricity - losses,13634000000.0,2004,0.0
+383,losses,Electricity - losses,14567000000.0,2003,0.0
+384,losses,Electricity - losses,13021000000.0,2002,0.0
+385,losses,Electricity - losses,12812000000.0,2001,0.0
+386,losses,Electricity - losses,14339000000.0,2000,0.0
+387,losses,Electricity - losses,12190000000.0,1999,0.0
+388,losses,Electricity - losses,9970000000.0,1998,0.0
+389,losses,Electricity - losses,8330000000.0,1997,0.0
+390,losses,Electricity - losses,7500000000.0,1996,0.0
+391,losses,Electricity - losses,8420000000.0,1995,0.0
+392,losses,Electricity - losses,7730000000.0,1994,0.0
+393,losses,Electricity - losses,6830000000.0,1993,0.0
+394,losses,Electricity - losses,5930000000.0,1992,0.0
+395,losses,Electricity - losses,6120000000.0,1991,0.0
+396,losses,Electricity - losses,5260000000.0,1990,0.0
+397,losses,Oil products - losses,35100000.0,1990,0.0
+398,losses,Oil products - losses,35100000.0,1991,0.0
+399,losses,Oil products - losses,34400000.0,1992,0.0
+400,losses,Oil products - losses,34400000.0,1993,0.0
+401,losses,Oil products - losses,56600000.0,1994,0.0
+402,losses,Oil products - losses,34400000.0,1995,0.0
+403,losses,Oil products - losses,46600000.0,1996,0.0
+404,losses,Oil products - losses,35500000.0,1997,0.0
+405,losses,Oil products - losses,23300000.0,1998,0.0
+406,losses,Oil products - losses,23300000.0,1999,0.0
+407,losses,Oil products - losses,47300000.0,2000,0.0
+408,losses,Oil products - losses,0.0,2001,0.0
+409,losses,Oil products - losses,0.0,2002,0.0
+410,losses,Oil products - losses,34400000.0,2003,0.0
+411,losses,Oil products - losses,0.0,2004,0.0
+412,losses,Oil products - losses,11100000.0,2005,0.0
+413,losses,Oil products - losses,0.0,2006,0.0
+414,losses,Oil products - losses,11100000.0,2007,0.0
+415,losses,Oil products - losses,11100000.0,2008,0.0
+416,losses,Oil products - losses,24000000.0,2009,0.0
+417,losses,Oil products - losses,24000000.0,2010,0.0
+418,losses,Oil products - losses,0.0,2011,0.0
+419,losses,Oil products - losses,0.0,2012,0.0
+420,imports,Total amount of energy,19492200000.0,2020,0.0
+421,imports,Total amount of energy,21560022900.0,2019,0.0
+422,imports,Total amount of energy,20627100000.0,2018,0.0
+423,imports,Total amount of energy,17542980000.0,2017,0.0
+424,imports,Total amount of energy,19714500000.0,2016,0.0
+425,imports,Total amount of energy,19618560000.0,2015,0.0
+426,imports,Total amount of energy,21340683000.0,2014,0.0
+427,imports,Total amount of energy,20398833000.0,2013,0.0
+428,imports,Total amount of energy,19024200000.0,2012,0.0
+429,imports,Total amount of energy,22604400000.0,2011,0.0
+430,imports,Total amount of energy,21282300000.0,2010,0.0
+431,imports,Total amount of energy,22604400000.0,2009,0.0
+432,imports,Total amount of energy,21691800000.0,2008,0.0
+433,imports,Total amount of energy,22686300000.0,2007,0.0
+434,imports,Total amount of energy,25236900000.0,2006,0.0
+435,imports,Total amount of energy,23493600000.0,2005,0.0
+436,imports,Total amount of energy,25810200000.0,2004,0.0
+437,imports,Total amount of energy,23353200000.0,2003,0.0
+438,imports,Total amount of energy,26687700000.0,2002,0.0
+439,imports,Total amount of energy,22873500000.0,2001,0.0
+440,imports,Total amount of energy,27483300000.0,2000,0.0
+441,imports,Total amount of energy,21469500000.0,1999,0.0
+442,imports,Total amount of energy,24885900000.0,1998,0.0
+443,imports,Total amount of energy,21095100000.0,1997,0.0
+444,imports,Total amount of energy,23914800000.0,1996,0.0
+445,imports,Total amount of energy,21446100000.0,1995,0.0
+446,imports,Total amount of energy,22756500000.0,1994,0.0
+447,imports,Total amount of energy,21422700000.0,1993,0.0
+448,imports,Total amount of energy,15362100000.0,1992,0.0
+449,imports,Total amount of energy,19024200000.0,1991,0.0
+450,imports,Total amount of energy,20568600000.0,1990,0.0
+451,imports,Total amount of energy,16577001980.000002,2019,0.0
+452,imports,Total amount of energy,15032040000.0,2018,0.0
+453,imports,Total amount of energy,17537380000.0,2017,0.0
+454,imports,Total amount of energy,16687924000.0,2016,0.0
+455,imports,Total amount of energy,13057610000.0,2015,0.0
+456,imports,Total amount of energy,11149804000.0,2014,0.0
+457,imports,Total amount of energy,7850423900.0,2013,0.0
+458,imports,Total amount of energy,6679056000.0,2012,0.0
+459,imports,Total amount of energy,5275788000.0,2011,0.0
+460,imports,Total amount of energy,750214000.0,2010,0.0
+461,imports,Total amount of energy,696776000.0,2009,0.0
+462,imports,Total amount of energy,541320000.0,2008,0.0
+463,imports,Total amount of energy,471920000.0,2007,0.0
+464,imports,Total amount of energy,659300000.0,2006,0.0
+465,imports,Total amount of energy,659300000.0,2005,0.0
+466,imports,Total amount of energy,659300000.0,2004,0.0
+467,imports,Total amount of energy,666240000.0,2003,0.0
+468,imports,Total amount of energy,6940000.0,2002,0.0
+469,imports,Total amount of energy,0.0,2001,0.0
+470,imports,Total amount of energy,6940000.0,2000,0.0
+471,imports,Total amount of energy,6940000.0,1999,0.0
+472,imports,Total amount of energy,0.0,1998,0.0
+473,imports,Total amount of energy,6940000.0,1997,0.0
+474,imports,Total amount of energy,0.0,1996,0.0
+475,imports,Total amount of energy,6940000.0,1995,0.0
+476,imports,Total amount of energy,6940000.0,1994,0.0
+477,imports,Total amount of energy,0.0,1993,0.0
+478,imports,Total amount of energy,6940000.0,1992,0.0
+479,imports,Total amount of energy,6940000.0,1991,0.0
+480,imports,Total amount of energy,0.0,1990,0.0
+481,imports,Total amount of energy,7770000.0,1990,0.0
+482,imports,Total amount of energy,15540000.0,1991,0.0
+483,imports,Total amount of energy,7770000.0,1992,0.0
+484,imports,Total amount of energy,15540000.0,1993,0.0
+485,imports,Total amount of energy,15540000.0,1994,0.0
+486,imports,Total amount of energy,7770000.0,1995,0.0
+487,imports,Total amount of energy,15540000.0,1996,0.0
+488,imports,Total amount of energy,15540000.0,1997,0.0
+489,imports,Total amount of energy,15540000.0,1998,0.0
+490,imports,Total amount of energy,7770000.0,1999,0.0
+491,imports,Total amount of energy,7770000.0,2000,0.0
+492,imports,Total amount of energy,7770000.0,2001,1.0
+493,imports,Total amount of energy,7770000.0,2002,0.0
+494,imports,Total amount of energy,7770000.0,2003,0.0
+495,imports,Total amount of energy,7770000.0,2004,0.0
+496,imports,Total amount of energy,7770000.0,2005,0.0
+497,imports,Total amount of energy,0.0,2006,0.0
+498,imports,Total amount of energy,620100000.0,1990,0.0
+499,imports,Total amount of energy,796000000.0,1991,0.0
+500,imports,Total amount of energy,3334000000.0,1992,0.0
+501,imports,Total amount of energy,1352100000.0,1993,0.0
+502,imports,Total amount of energy,1942200000.0,1994,0.0
+503,imports,Total amount of energy,3200725000.0,1995,0.0
+504,imports,Total amount of energy,3036775000.0,1996,0.0
+505,imports,Total amount of energy,4075375000.0,1997,0.0
+506,imports,Total amount of energy,3601725000.0,1998,0.0
+507,imports,Total amount of energy,6158750000.0,1999,0.0
+508,imports,Total amount of energy,5173750000.0,2000,0.0
+509,imports,Total amount of energy,5364275000.0,2001,1.0
+510,imports,Total amount of energy,5846675000.0,2002,0.0
+511,imports,Total amount of energy,5493950000.0,2003,0.0
+512,imports,Total amount of energy,6476750000.0,2004,0.0
+513,imports,Total amount of energy,11405850000.0,2005,0.0
+514,imports,Total amount of energy,10095600000.0,2006,0.0
+515,imports,Total amount of energy,10710500000.0,2007,0.0
+516,imports,Total amount of energy,11584808340.0,2008,0.0
+517,imports,Total amount of energy,12744550000.0,2009,0.0
+518,imports,Total amount of energy,15235903000.0,2010,1.0
+519,imports,Total amount of energy,16977350000.0,2011,1.0
+520,imports,Total amount of energy,21118580000.0,2012,1.0
+521,imports,Total amount of energy,16955860610.0,2013,1.0
+522,imports,Total amount of energy,17070866100.0,2014,1.0
+523,imports,Total amount of energy,20498960000.0,2015,1.0
+524,imports,Total amount of energy,24938397000.0,2016,1.0
+525,imports,Total amount of energy,26172510000.000004,2017,0.0
+526,imports,Total amount of energy,31737475000.0,2018,1.0
+527,imports,Total amount of energy,30990712100.0,2019,0.0
+528,imports,Total amount of energy,1750000.0000000002,2020,0.0
+529,imports,Total amount of energy,0.0,1990,0.0
+530,imports,Total amount of energy,0.0,1991,0.0
+531,imports,Total amount of energy,9332500.0,1992,0.0
+532,imports,Total amount of energy,241500.0,1993,0.0
+533,imports,Total amount of energy,46959500.0,1994,0.0
+534,imports,Total amount of energy,5180000.0,1995,0.0
+535,imports,Total amount of energy,0.0,1996,0.0
+536,imports,Total amount of energy,0.0,1997,0.0
+537,imports,Total amount of energy,0.0,1998,0.0
+538,imports,Total amount of energy,0.0,1999,0.0
+539,imports,Total amount of energy,0.0,2000,0.0
+540,imports,Total amount of energy,0.0,2001,0.0
+541,imports,Total amount of energy,0.0,2002,0.0
+542,production,Total amount of energy,13113655572.0,1990,0.0
+543,production,Total amount of energy,12444466686.0,1991,0.0
+544,production,Total amount of energy,10229900016.0,1992,0.0
+545,production,Total amount of energy,13028733360.0,1993,0.0
+546,production,Total amount of energy,13718644470.0,1994,0.0
+547,production,Total amount of energy,12768433360.0,1995,0.0
+548,production,Total amount of energy,15397522246.0,1996,0.0
+549,production,Total amount of energy,13479000022.0,1997,0.0
+550,production,Total amount of energy,15189211138.0,1998,0.0
+551,production,Total amount of energy,13170544466.0,1999,0.0
+552,production,Total amount of energy,15800417802.8,2000,0.0
+553,production,Total amount of energy,14101603356.6,2001,0.0
+554,production,Total amount of energy,15450162246.6,2002,0.0
+555,production,Total amount of energy,14212274465.4,2003,0.0
+556,production,Total amount of energy,15511437799.4,2004,0.0
+557,production,Total amount of energy,13830472247.4,2005,0.0
+558,production,Total amount of energy,15295423357.6,2006,0.0
+559,production,Total amount of energy,14667150020.4,2007,0.0
+560,production,Total amount of energy,14284311133.4,2008,0.0
+561,production,Total amount of energy,15249130023.4,2009,0.0
+562,production,Total amount of energy,13106786685.4,2010,0.0
+563,production,Total amount of energy,13434002240.0,2011,0.0
+564,production,Total amount of energy,11830264460.2,2012,0.0
+565,production,Total amount of energy,12563467797.0,2013,0.0
+566,production,Total amount of energy,12429751137.12,2014,0.0
+567,production,Total amount of energy,11158745363.68,2015,0.0
+568,production,Total amount of energy,10716905587.6,2016,0.0
+569,production,Total amount of energy,11560237142.6,2017,0.0
+570,production,Total amount of energy,10547966698.0,2018,0.0
+571,production,Total amount of energy,11861412013.782,2019,0.0
+572,production,Total amount of energy,10763041257.1,2020,0.0
+573,production,Total amount of energy,33944462242.5,1990,0.0
+574,production,Total amount of energy,34149326897.5,1991,0.0
+575,production,Total amount of energy,34285437242.5,1992,0.0
+576,production,Total amount of energy,34997693275.0,1993,0.0
+577,production,Total amount of energy,35004901552.5,1994,0.0
+578,production,Total amount of energy,35434482415.0,1995,0.0
+579,production,Total amount of energy,35560680172.5,1996,0.0
+580,production,Total amount of energy,35620157585.0,1997,0.0
+581,production,Total amount of energy,35609043792.5,1998,0.0
+582,production,Total amount of energy,35453513275.0,1999,0.0
+583,production,Total amount of energy,39638568792.5,2000,0.0
+584,production,Total amount of energy,38208456035.0,2001,0.0
+585,production,Total amount of energy,38623051035.0,2002,0.0
+586,production,Total amount of energy,39368758965.0,2003,0.0
+587,production,Total amount of energy,40147255000.0,2004,0.0
+588,production,Total amount of energy,41318645000.0,2005,0.0
+589,production,Total amount of energy,42483080000.0,2006,0.0
+590,production,Total amount of energy,42347615000.0,2007,0.0
+591,production,Total amount of energy,42043550000.0,2008,0.0
+592,production,Total amount of energy,43291790000.0,2009,0.0
+593,production,Total amount of energy,44816970000.0,2010,0.0
+594,production,Total amount of energy,44789210000.0,2011,0.0
+595,production,Total amount of energy,43973200000.0,2012,0.0
+596,production,Total amount of energy,43255155334.48275,2013,0.0
+597,production,Total amount of energy,44106365034.48275,2014,0.0
+598,production,Total amount of energy,43209771172.41375,2015,0.0
+599,production,Total amount of energy,41756974517.2415,2016,0.0
+600,production,Total amount of energy,41141239758.62075,2017,0.0
+601,production,Total amount of energy,41189684000.0,2018,0.0
+602,production,Total amount of energy,43259222000.0,2019,1.0
+603,Total amount of energy,exports,1108911128.0,1990,0.0
+604,Total amount of energy,exports,1189944464.0,1991,0.0
+605,Total amount of energy,exports,87988906.0,1992,0.0
+606,Total amount of energy,exports,777033360.0,1993,0.0
+607,Total amount of energy,exports,1041488914.0,1994,0.0
+608,Total amount of energy,exports,1096155580.0,1995,0.0
+609,Total amount of energy,exports,908288914.0,1996,0.0
+610,Total amount of energy,exports,913833354.0,1997,0.0
+611,Total amount of energy,exports,258111140.0,1998,0.0
+612,Total amount of energy,exports,256711130.0,1999,0.0
+613,Total amount of energy,exports,34722250.0,2000,0.0
+614,Total amount of energy,exports,22777796.0,2001,0.0
+615,Total amount of energy,exports,16666680.0,2002,0.0
+616,Total amount of energy,exports,0.0,2003,0.0
+617,Total amount of energy,exports,421800000.0,2004,0.0
+618,Total amount of energy,exports,0.0,2005,0.0
+619,Total amount of energy,exports,11944454.0,2006,0.0
+620,Total amount of energy,exports,0.0,2007,0.0
+621,Total amount of energy,exports,0.0,2008,0.0
+622,Total amount of energy,exports,0.0,2009,0.0
+623,Total amount of energy,exports,7500006.0,2010,0.0
+624,Total amount of energy,exports,293327786.0,2011,0.0
+625,Total amount of energy,exports,0.0,2012,0.0
+626,Total amount of energy,exports,1172645474.2656,2013,0.0
+627,Total amount of energy,exports,5753199.047,2014,0.0
+628,Total amount of energy,exports,2055282227.2,2015,0.0
+629,Total amount of energy,exports,627575563.0,2016,0.0
+630,Total amount of energy,exports,0.0,2017,0.0
+631,Total amount of energy,exports,306655570.0,2018,0.0
+632,Total amount of energy,exports,10383341.64,2019,0.0
+633,Total amount of energy,exports,176295000.0,1990,0.0
+634,Total amount of energy,exports,67620000.0,1991,0.0
+635,Total amount of energy,exports,99820000.0,1992,0.0
+636,Total amount of energy,exports,85705000.0,1993,0.0
+637,Total amount of energy,exports,55437000.0,1994,0.0
+638,Total amount of energy,exports,161250000.0,1995,0.0
+639,Total amount of energy,exports,0.0,1996,0.0
+640,Total amount of energy,exports,0.0,1997,0.0
+641,Total amount of energy,exports,0.0,1998,0.0
+642,Total amount of energy,exports,0.0,1999,0.0
+643,Total amount of energy,exports,0.0,2000,0.0
+644,Total amount of energy,exports,0.0,2001,0.0
+645,Total amount of energy,exports,0.0,2002,0.0
+646,Total amount of energy,exports,0.0,2003,0.0
+647,Total amount of energy,exports,0.0,2004,0.0
+648,Total amount of energy,exports,0.0,2005,0.0
+649,Total amount of energy,exports,0.0,2006,0.0
+650,Total amount of energy,exports,10465000.0,2007,0.0
+651,Total amount of energy,final consumption,520500000.0,2019,0.0
+652,Total amount of energy,final consumption,520500000.0,2018,0.0
+653,Total amount of energy,final consumption,486494000.0,2017,0.0
+654,Total amount of energy,final consumption,540626000.0,2016,0.0
+655,Total amount of energy,final consumption,600865200.0,2015,0.0
+656,Total amount of energy,final consumption,678523800.0,2014,0.0
+657,Total amount of energy,final consumption,581502600.0,2013,0.0
+658,Total amount of energy,final consumption,685672000.0,2012,0.0
+659,Total amount of energy,final consumption,553395600.0,2011,0.0
+660,Total amount of energy,final consumption,659994000.0,2010,0.0
+661,Total amount of energy,final consumption,646114000.0,2009,0.0
+662,Total amount of energy,final consumption,635010000.0,2008,0.0
+663,Total amount of energy,final consumption,471989400.00000006,2007,0.0
+664,Total amount of energy,final consumption,659994000.0,2006,0.0
+665,Total amount of energy,final consumption,660271600.0,2005,0.0
+666,Total amount of energy,final consumption,659300000.0,2004,0.0
+667,Total amount of energy,final consumption,666240000.0,2003,0.0
+668,Total amount of energy,final consumption,6940000.0,2002,0.0
+669,Total amount of energy,final consumption,0.0,2001,0.0
+670,Total amount of energy,final consumption,6940000.0,2000,0.0
+671,Total amount of energy,final consumption,6940000.0,1999,0.0
+672,Total amount of energy,final consumption,0.0,1998,0.0
+673,Total amount of energy,final consumption,6940000.0,1997,1.0
+674,Total amount of energy,final consumption,0.0,1996,0.0
+675,Total amount of energy,final consumption,6940000.0,1995,1.0
+676,Total amount of energy,final consumption,6940000.0,1994,1.0
+677,Total amount of energy,final consumption,0.0,1993,0.0
+678,Total amount of energy,final consumption,6940000.0,1992,1.0
+679,Total amount of energy,final consumption,7770000.0,1990,1.0
+680,Total amount of energy,final consumption,15540000.0,1991,1.0
+681,Total amount of energy,final consumption,7770000.0,1992,1.0
+682,Total amount of energy,final consumption,15540000.0,1993,1.0
+683,Total amount of energy,final consumption,15540000.0,1994,1.0
+684,Total amount of energy,final consumption,7770000.0,1995,1.0
+685,Total amount of energy,final consumption,15540000.0,1996,1.0
+686,Total amount of energy,final consumption,15540000.0,1997,1.0
+687,Total amount of energy,final consumption,15540000.0,1998,1.0
+688,Total amount of energy,final consumption,7770000.0,1999,0.0
+689,Total amount of energy,final consumption,7770000.0,2000,0.0
+690,Total amount of energy,final consumption,7770000.0,2001,0.0
+691,Total amount of energy,final consumption,7770000.0,2002,0.0
+692,Total amount of energy,final consumption,7770000.0,2003,0.0
+693,Total amount of energy,final consumption,7770000.0,2004,0.0
+694,Total amount of energy,final consumption,7770000.0,2005,0.0
+695,Total amount of energy,final consumption,0.0,2006,0.0
+696,Total amount of energy,final consumption,7586100000.0,1990,0.0
+697,Total amount of energy,final consumption,44400000.0,1990,0.0
+698,Total amount of energy,final consumption,8230300000.0,1991,0.0
+699,Total amount of energy,final consumption,44400000.0,1991,0.0
+700,Total amount of energy,final consumption,9268500000.0,1992,0.0
+701,Total amount of energy,final consumption,44400000.0,1992,0.0
+702,Total amount of energy,final consumption,9118200000.0,1993,0.0
+703,Total amount of energy,final consumption,44400000.0,1993,0.0
+704,Total amount of energy,final consumption,9913800000.0,1994,0.0
+705,Total amount of energy,final consumption,22200000.0,1994,0.0
+706,Total amount of energy,final consumption,10668700000.0,1995,0.0
+707,Total amount of energy,final consumption,11100000.0,1995,0.0
+708,Total amount of energy,final consumption,12162000000.0,1996,0.0
+709,Total amount of energy,final consumption,11100000.0,1996,0.0
+710,Total amount of energy,final consumption,11186200000.0,1997,0.0
+711,Total amount of energy,final consumption,0.0,1997,0.0
+712,Total amount of energy,final consumption,12484500000.0,1998,0.0
+713,Total amount of energy,final consumption,0.0,1998,0.0
+714,Total amount of energy,final consumption,13323500000.0,1999,0.0
+715,Total amount of energy,final consumption,0.0,1999,0.0
+716,Total amount of energy,final consumption,13406925000.0,2000,0.0
+717,Total amount of energy,final consumption,37740000.0,2000,1.0
+718,Total amount of energy,final consumption,12884950000.0,2001,1.0
+719,Total amount of energy,final consumption,24420000.000000004,2001,1.0
+720,Total amount of energy,final consumption,12620658000.0,2002,0.0
+721,Total amount of energy,final consumption,21090000.0,2002,1.0
+722,Total amount of energy,final consumption,13024775000.0,2003,0.0
+723,Total amount of energy,final consumption,33300000.0,2003,0.0
+724,Total amount of energy,final consumption,14830250000.0,2004,0.0
+725,Total amount of energy,final consumption,44400000.0,2004,0.0
+726,Total amount of energy,final consumption,15467825000.0,2005,0.0
+727,Total amount of energy,final consumption,55500000.0,2005,0.0
+728,Total amount of energy,final consumption,15641975000.0,2006,0.0
+729,Total amount of energy,final consumption,55500000.0,2006,0.0
+730,Total amount of energy,final consumption,15761400000.0,2007,0.0
+731,Total amount of energy,final consumption,49950000.0,2007,0.0
+732,Total amount of energy,final consumption,15547275000.0,2008,0.0
+733,Total amount of energy,final consumption,27750000.0,2008,0.0
+734,Total amount of energy,final consumption,15254425000.0,2009,0.0
+735,Total amount of energy,final consumption,9990000.0,2009,0.0
+736,Total amount of energy,final consumption,16956815000.0,2010,0.0
+737,Total amount of energy,final consumption,29970000.000000004,2010,0.0
+738,Total amount of energy,final consumption,16735513000.0,2011,0.0
+739,Total amount of energy,final consumption,42180000.0,2011,0.0
+740,Total amount of energy,final consumption,16919583000.0,2012,0.0
+741,Total amount of energy,final consumption,36630000.0,2012,0.0
+742,Total amount of energy,final consumption,17403186000.0,2013,2.0
+743,Total amount of energy,final consumption,41292000.0,2013,0.0
+744,Total amount of energy,final consumption,17086520000.0,2014,2.0
+745,Total amount of energy,final consumption,27705600.0,2014,0.0
+746,Total amount of energy,final consumption,23534690000.0,2015,1.0
+747,Total amount of energy,final consumption,14430000.0,2015,0.0
+748,Total amount of energy,final consumption,29737602000.0,2016,2.0
+749,Total amount of energy,final consumption,19980000.0,2016,0.0
+750,Total amount of energy,final consumption,26567790000.0,2017,1.0
+751,Total amount of energy,final consumption,19980000.0,2017,0.0
+752,Total amount of energy,final consumption,27626996800.0,2018,3.0
+753,Total amount of energy,final consumption,22200000.0,2018,0.0
+754,Total amount of energy,final consumption,28528527200.0,2019,0.0
+755,Total amount of energy,final consumption,18426000.0,2019,0.0
+756,Total amount of energy,final consumption,2000000.0,2020,0.0
+757,Total amount of energy,final consumption,33547098275.0,1990,0.0
+758,Total amount of energy,final consumption,33815706897.5,1991,0.0
+759,Total amount of energy,final consumption,33910529915.0,1992,0.0
+760,Total amount of energy,final consumption,34583087412.5,1993,1.0
+761,Total amount of energy,final consumption,34872218965.0,1994,1.0
+762,Total amount of energy,final consumption,35432654827.5,1995,0.0
+763,Total amount of energy,final consumption,35559749140.0,1996,0.0
+764,Total amount of energy,final consumption,35620962587.5,1997,0.0
+765,Total amount of energy,final consumption,35602973620.0,1998,0.0
+766,Total amount of energy,final consumption,35452582240.0,1999,0.0
+767,Total amount of energy,final consumption,39637637757.5,2000,0.0
+768,Total amount of energy,final consumption,38207525000.0,2001,0.0
+769,Total amount of energy,final consumption,38621223447.5,2002,0.0
+770,Total amount of energy,final consumption,39363727245.0,2003,0.0
+771,Total amount of energy,final consumption,40142621212.5,2004,0.0
+772,Total amount of energy,final consumption,41298510162.5,2005,0.0
+773,Total amount of energy,final consumption,42466252292.49999,2006,0.0
+774,Total amount of energy,final consumption,42337477250.0,2007,0.0
+775,Total amount of energy,final consumption,41994300000.0,2008,0.0
+776,Total amount of energy,final consumption,43093479655.0,2009,0.0
+777,Total amount of energy,final consumption,44536840690.0,2010,0.0
+778,Total amount of energy,final consumption,44516365172.41375,2011,0.0
+779,Total amount of energy,final consumption,43771163793.1035,2012,0.0
+780,Total amount of energy,final consumption,43255150162.069,2013,0.0
+781,Total amount of energy,final consumption,44106365034.48275,2014,0.0
+782,Total amount of energy,final consumption,43209426344.7415,2015,0.0
+783,Total amount of energy,final consumption,41756974517.2415,2016,0.0
+784,Total amount of energy,final consumption,41141584586.207,2017,0.0
+785,Total amount of energy,final consumption,41189684000.0,2018,1.0
+786,Total amount of energy,final consumption,43250243000.0,2019,2.0
+787,Total amount of energy,losses,13373170000.0,2019,0.0
+788,Total amount of energy,losses,14070000000.0,2018,0.0
+789,Total amount of energy,losses,11792000000.0,2017,0.0
+790,Total amount of energy,losses,9974000000.0,2016,0.0
+791,Total amount of energy,losses,9250000000.0,2015,0.0
+792,Total amount of energy,losses,14256000000.0,2014,0.0
+793,Total amount of energy,losses,12010400000.0,2013,0.0
+794,Total amount of energy,losses,11921000000.0,2012,0.0
+795,Total amount of energy,losses,13374000000.0,2011,0.0
+796,Total amount of energy,losses,14583000000.0,2010,0.0
+797,Total amount of energy,losses,14314000000.0,2009,0.0
+798,Total amount of energy,losses,14694000000.0,2008,0.0
+799,Total amount of energy,losses,15306000000.0,2007,0.0
+800,Total amount of energy,losses,15607000000.0,2006,0.0
+801,Total amount of energy,losses,15532000000.0,2005,0.0
+802,Total amount of energy,losses,13634000000.0,2004,0.0
+803,Total amount of energy,losses,14567000000.0,2003,0.0
+804,Total amount of energy,losses,13021000000.0,2002,0.0
+805,Total amount of energy,losses,12812000000.0,2001,0.0
+806,Total amount of energy,losses,14339000000.0,2000,0.0
+807,Total amount of energy,losses,12190000000.0,1999,0.0
+808,Total amount of energy,losses,9970000000.0,1998,0.0
+809,Total amount of energy,losses,8330000000.0,1997,0.0
+810,Total amount of energy,losses,7500000000.0,1996,0.0
+811,Total amount of energy,losses,8420000000.0,1995,0.0
+812,Total amount of energy,losses,7730000000.0,1994,0.0
+813,Total amount of energy,losses,6830000000.0,1993,0.0
+814,Total amount of energy,losses,5930000000.0,1992,0.0
+815,Total amount of energy,losses,6120000000.0,1991,0.0
+816,Total amount of energy,losses,5260000000.0,1990,0.0
+817,Total amount of energy,losses,35100000.0,1990,0.0
+818,Total amount of energy,losses,35100000.0,1991,0.0
+819,Total amount of energy,losses,34400000.0,1992,0.0
+820,Total amount of energy,losses,34400000.0,1993,0.0
+821,Total amount of energy,losses,56600000.0,1994,0.0
+822,Total amount of energy,losses,34400000.0,1995,0.0
+823,Total amount of energy,losses,46600000.0,1996,0.0
+824,Total amount of energy,losses,35500000.0,1997,0.0
+825,Total amount of energy,losses,23300000.0,1998,0.0
+826,Total amount of energy,losses,23300000.0,1999,0.0
+827,Total amount of energy,losses,47300000.0,2000,0.0
+828,Total amount of energy,losses,0.0,2001,0.0
+829,Total amount of energy,losses,0.0,2002,0.0
+830,Total amount of energy,losses,34400000.0,2003,0.0
+831,Total amount of energy,losses,0.0,2004,0.0
+832,Total amount of energy,losses,11100000.0,2005,0.0
+833,Total amount of energy,losses,0.0,2006,0.0
+834,Total amount of energy,losses,11100000.0,2007,0.0
+835,Total amount of energy,losses,11100000.0,2008,0.0
+836,Total amount of energy,losses,24000000.0,2009,0.0
+837,Total amount of energy,losses,24000000.0,2010,0.0
+838,Total amount of energy,losses,0.0,2011,0.0
+839,Total amount of energy,losses,0.0,2012,0.0

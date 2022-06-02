@@ -1,0 +1,123 @@
+,source,target,value,year,estimation
+0,exports,Electricity - exports,23000000000.0,1991,1.0
+1,exports,Electricity - exports,38070000000.0,1990,0.0
+2,exports,Brown coal - exports,0.0,1991,1.0
+3,exports,Brown coal - exports,267720000.0,1990,0.0
+4,exports,Conventional crude oil - exports,0.0,1991,0.0
+5,exports,Conventional crude oil - exports,0.0,1990,0.0
+6,exports,Coal products - exports,714840000.0,1990,0.0
+7,exports,Coal products - exports,0.0,1991,1.0
+8,exports,Oil products - exports,4345722240.0,1990,4.0
+9,exports,Oil products - exports,838055560.0,1991,5.0
+10,exports,Solid biofuels - exports,688800000.0,1990,0.0
+11,exports,Solid biofuels - exports,688800000.0,1991,0.0
+12,Electricity - imports,imports,36000000000.0,1991,1.0
+13,Electricity - imports,imports,32530000000.0,1990,0.0
+14,Brown coal - imports,imports,120280000.0,1990,0.0
+15,Conventional crude oil - imports,imports,124499700000.0,1991,1.0
+16,Conventional crude oil - imports,imports,140353200000.0,1990,0.0
+17,Hard coal - imports,imports,19432000000.0,1991,1.0
+18,Hard coal - imports,imports,22617460000.0,1990,0.0
+19,Natural gas (including LNG) - imports,imports,39444476000.0,1991,1.0
+20,Natural gas (including LNG) - imports,imports,41265866346.0,1990,0.0
+21,Coal products - imports,imports,264180000.0,1990,0.0
+22,Coal products - imports,imports,388500000.0,1991,1.0
+23,Oil products - imports,imports,9842000000.0,1990,3.0
+24,Oil products - imports,imports,10988000000.0,1991,5.0
+25,Solid biofuels - imports,imports,48050000.0,1990,0.0
+26,Solid biofuels - imports,imports,48050000.0,1991,0.0
+27,Brown coal - production,production,226394120000.0,1991,0.0
+28,Brown coal - production,production,293157280000.0,1990,0.0
+29,Conventional crude oil - production,production,22920300000.0,1991,0.0
+30,Conventional crude oil - production,production,41745600000.0,1990,0.0
+31,Hard coal - production,production,1859920000.0,1991,0.0
+32,Hard coal - production,production,2026480000.0,1990,0.0
+33,Natural gas (including LNG) - production,production,16660846662.0,1991,0.0
+34,Natural gas (including LNG) - production,production,23878630214.0,1990,0.0
+35,Natural gas liquids - production,production,1098000000.0,1991,0.0
+36,Natural gas liquids - production,production,1268800000.0,1990,0.0
+37,Coal products - production,production,7914728554.0,1990,0.0
+38,Coal products - production,production,22953520000.0,1990,0.0
+39,Coal products - production,production,5777782400.0,1991,2.0
+40,Coal products - production,production,21267000000.0,1991,2.0
+41,Oil products - production,production,117856434540.0,1990,10.0
+42,Oil products - production,production,104154812000.0,1991,12.0
+43,Solid biofuels - production,production,8514000000.0,1990,1.0
+44,Solid biofuels - production,production,8436500000.0,1991,1.0
+45,final consumption,Brown coal - final consumption,6828800000.0,1991,1.0
+46,final consumption,Brown coal - final consumption,15372560000.0,1990,1.0
+47,final consumption,Natural gas (including LNG) - final consumption,26305576600.0,1991,1.0
+48,final consumption,Natural gas (including LNG) - final consumption,32925581896.0,1990,1.0
+49,final consumption,Coal products - final consumption,11686604110.0,1990,3.0
+50,final consumption,Coal products - final consumption,9980881400.0,1991,3.0
+51,final consumption,Oil products - final consumption,64635055740.0,1990,4.0
+52,final consumption,Oil products - final consumption,643800000.0,1990,1.0
+53,final consumption,Oil products - final consumption,58976566842.0,1991,10.0
+54,final consumption,Oil products - final consumption,559440000.0,1991,2.0
+55,final consumption,Solid biofuels - final consumption,7423250000.0,1990,2.0
+56,final consumption,Solid biofuels - final consumption,7345750000.0,1991,2.0
+57,losses,Electricity - losses,74000000000.0,1991,1.0
+58,losses,Electricity - losses,74780000000.0,1990,0.0
+59,losses,Heat - losses,4166670000.0,1991,1.0
+60,losses,Heat - losses,4444448000.0,1990,1.0
+61,imports,Total amount of energy,36000000000.0,1991,1.0
+62,imports,Total amount of energy,32530000000.0,1990,0.0
+63,imports,Total amount of energy,120280000.0,1990,0.0
+64,imports,Total amount of energy,124499700000.0,1991,1.0
+65,imports,Total amount of energy,140353200000.0,1990,0.0
+66,imports,Total amount of energy,19432000000.0,1991,1.0
+67,imports,Total amount of energy,22617460000.0,1990,0.0
+68,imports,Total amount of energy,39444476000.0,1991,1.0
+69,imports,Total amount of energy,41265866346.0,1990,0.0
+70,imports,Total amount of energy,264180000.0,1990,0.0
+71,imports,Total amount of energy,388500000.0,1991,1.0
+72,imports,Total amount of energy,9842000000.0,1990,3.0
+73,imports,Total amount of energy,10988000000.0,1991,5.0
+74,imports,Total amount of energy,48050000.0,1990,0.0
+75,imports,Total amount of energy,48050000.0,1991,0.0
+76,production,Total amount of energy,226394120000.0,1991,0.0
+77,production,Total amount of energy,293157280000.0,1990,0.0
+78,production,Total amount of energy,22920300000.0,1991,0.0
+79,production,Total amount of energy,41745600000.0,1990,0.0
+80,production,Total amount of energy,1859920000.0,1991,0.0
+81,production,Total amount of energy,2026480000.0,1990,0.0
+82,production,Total amount of energy,16660846662.0,1991,0.0
+83,production,Total amount of energy,23878630214.0,1990,0.0
+84,production,Total amount of energy,1098000000.0,1991,0.0
+85,production,Total amount of energy,1268800000.0,1990,0.0
+86,production,Total amount of energy,7914728554.0,1990,0.0
+87,production,Total amount of energy,22953520000.0,1990,0.0
+88,production,Total amount of energy,5777782400.0,1991,2.0
+89,production,Total amount of energy,21267000000.0,1991,2.0
+90,production,Total amount of energy,117856434540.0,1990,10.0
+91,production,Total amount of energy,104154812000.0,1991,12.0
+92,production,Total amount of energy,8514000000.0,1990,1.0
+93,production,Total amount of energy,8436500000.0,1991,1.0
+94,Total amount of energy,exports,23000000000.0,1991,1.0
+95,Total amount of energy,exports,38070000000.0,1990,0.0
+96,Total amount of energy,exports,0.0,1991,1.0
+97,Total amount of energy,exports,267720000.0,1990,0.0
+98,Total amount of energy,exports,0.0,1991,0.0
+99,Total amount of energy,exports,0.0,1990,0.0
+100,Total amount of energy,exports,714840000.0,1990,0.0
+101,Total amount of energy,exports,0.0,1991,1.0
+102,Total amount of energy,exports,4345722240.0,1990,4.0
+103,Total amount of energy,exports,838055560.0,1991,5.0
+104,Total amount of energy,exports,688800000.0,1990,0.0
+105,Total amount of energy,exports,688800000.0,1991,0.0
+106,Total amount of energy,final consumption,6828800000.0,1991,1.0
+107,Total amount of energy,final consumption,15372560000.0,1990,1.0
+108,Total amount of energy,final consumption,26305576600.0,1991,1.0
+109,Total amount of energy,final consumption,32925581896.0,1990,1.0
+110,Total amount of energy,final consumption,11686604110.0,1990,3.0
+111,Total amount of energy,final consumption,9980881400.0,1991,3.0
+112,Total amount of energy,final consumption,64635055740.0,1990,4.0
+113,Total amount of energy,final consumption,643800000.0,1990,1.0
+114,Total amount of energy,final consumption,58976566842.0,1991,10.0
+115,Total amount of energy,final consumption,559440000.0,1991,2.0
+116,Total amount of energy,final consumption,7423250000.0,1990,2.0
+117,Total amount of energy,final consumption,7345750000.0,1991,2.0
+118,Total amount of energy,losses,74000000000.0,1991,1.0
+119,Total amount of energy,losses,74780000000.0,1990,0.0
+120,Total amount of energy,losses,4166670000.0,1991,1.0
+121,Total amount of energy,losses,4444448000.0,1990,1.0
