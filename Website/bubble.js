@@ -642,12 +642,12 @@ function getDataBy({
   
   function ticker(svg,width,height,state) {
   const now = svg.append("text")
-      .style("font", `bold ${48}px var(--sans-serif)`)
+      .style("font", `bold ${0.1*(width+height)/2}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
       .style('fill', 'white')
       .attr("text-anchor", "end")
       .attr("x", width - 48*1.1)
-      .attr("y", height - 48 * (1.5 - 0.45))
+      .attr("y",  {0.1*(width+height)/2 * (1.5 - 0.45))
       .attr("dy", "0.32em")
       .text((keyframes_country[0][1].data_state[state].date).substr(0,4));
 
