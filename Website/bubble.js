@@ -649,9 +649,9 @@ function getDataBy({
       .attr("x", width - 0.1*(width+height)/2*1.1)
       .attr("y", ( 0.1*(width+height)/2 * 1.1)
       .attr("dy", "0.32em")
-      .text((date).substr(0,4));
+      .text(date.substr(0,4));
 
-  return (dtae_) => {
+  return (date_) => {
     svg.transition()
         .duration(1000)
         .ease(d3.easeLinear).end().then(() => now.text(date_).substr(0,4)));
