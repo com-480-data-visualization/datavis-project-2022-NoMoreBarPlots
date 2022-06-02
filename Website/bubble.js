@@ -654,7 +654,7 @@ function getDataBy({
   return (date_) => {
     svg.transition()
         .duration(1000)
-        .ease(d3.easeLinear).end().then(() => now.text(date_).substr(0,4)));
+        .ease(d3.easeLinear).end().then(() => now.text(date_.substr(0,4)));
   };
 }
 
