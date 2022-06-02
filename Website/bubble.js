@@ -440,7 +440,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
             node.select('circle')
                .transition()
                .ease(d3.easeLinear)
-               .duration(time_transition)// divide by 2 ??
+               .duration(900)
                .style('fill', d => d.color);
 
            node.select("text")
@@ -498,8 +498,10 @@ function bubblesChart(energy, transaction, selectedContinents) {
                 .on("mouseenter", tooltip_in) // when the mouse hovers a node, call the tooltip_in function to create the tooltip
                 .on("mouseleave", tooltip_out) // when the mouse stops hovering a node, call the tooltip_out function to get rid of the tooltip
          }
-         state += 1;
-      }, time_transition)
+        if (state < datavalues.length-1){ 
+         state += 1; }
+        
+      }, 500 + time_transition)
       return svg.node()
     }
     chart = chart_();
