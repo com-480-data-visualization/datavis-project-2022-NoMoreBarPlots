@@ -498,7 +498,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
                 .on("mouseenter", tooltip_in) // when the mouse hovers a node, call the tooltip_in function to create the tooltip
                 .on("mouseleave", tooltip_out) // when the mouse stops hovering a node, call the tooltip_out function to get rid of the tooltip
          }
-        if (state < datavalues.length-1){ 
+        if (state < datevalues.length-1){ 
          state += 1; }
         
       }, 500 + time_transition)
@@ -644,12 +644,12 @@ function getDataBy({
   
   function ticker(svg,width,height,date1) {
   const now = svg.append("text")
-      .style("font", `bold ${Math.floor(0.2*(width+height)/2)}px var(--sans-serif)`)
+      .style("font", `bold ${Math.floor(0.5*(width+height)/2)}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
       .style('fill', 'white')
       .attr("text-anchor", "end")
-      .attr("x", width - 0.2*(width+height)/2*1.1)
-      .attr("y",  0.2*(width+height)/2 * 1.1)
+      .attr("x", width - 0.1*width*1.1)
+      .attr("y",  0.1*height * 1.1)
       .attr("dy", "0.32em")
       .text(date1.substr(0,4));
 
