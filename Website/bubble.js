@@ -640,21 +640,21 @@ function getDataBy({
   );
 }
   
-  function ticker(svg,width,height,date) {
+  function ticker(svg,width,height,date1) {
   const now = svg.append("text")
-      .style("font", `bold ${0.1*(width+height)/2}px var(--sans-serif)`)
+      .style("font", `bold ${Math.floor(0.1*(width+height)/2)}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
       .style('fill', 'white')
       .attr("text-anchor", "end")
       .attr("x", width - 0.1*(width+height)/2*1.1)
       .attr("y", ( 0.1*(width+height)/2 * 1.1)
       .attr("dy", "0.32em")
-      .text(date.substr(0,4));
+      .text(date1.substr(0,4));
 
-  return (date_) => {
+  return (date2) => {
     svg.transition()
         .duration(1000)
-        .ease(d3.easeLinear).end().then(() => now.text(date_.substr(0,4)));
+        .ease(d3.easeLinear).end().then(() => now.text(date2.substr(0,4)));
   };
 }
 
