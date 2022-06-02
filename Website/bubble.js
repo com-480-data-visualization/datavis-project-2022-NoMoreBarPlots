@@ -286,8 +286,8 @@ function bubblesChart(energy, transaction, selectedContinents) {
         for (var i = 0; i < keyframes_country.length; i++)
         {
            hosts.push({index: i,name:keyframes_country[i][1].name, isoCode: keyframes_country[i][1].isoCode,
-             cpu: keyframes_country[i][1].data_state[state].r,color: keyframes_country[i][1].color,
-           Quantity: keyframes_country[i][1].data_state[state].Quantity});
+             cpu: keyframes_country[i][1].data_state[state].r,color: (keyframes_country[i][1].data_state[state].estimation ? "white":keyframes_country[i][1].color),
+           Quantity: keyframes_country[i][1].data_state[state].Quantity, });
         }
          root = d3.hierarchy({children: hosts})
             .sum(function(d)
