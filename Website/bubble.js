@@ -1,7 +1,7 @@
 
 function bubblesChart(energy, transaction, selectedContinents) {
 
-  data_path1 = "Data_clean/" + energy + ".csv"
+  data_path1 = "../Data_clean/" + energy + ".csv"
 
   d3.selectAll("svg").remove();
 

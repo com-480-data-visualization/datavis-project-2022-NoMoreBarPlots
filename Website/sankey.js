@@ -1,26 +1,28 @@
-function SankeyChart__(countryName) {
+function SankeyChart__(countryName, year_) {
 
-  data_path1 = "data/0Sankey_New Zealand.csv"
+  data_path1 = "../Sankey_Data/0Sankey_" + countryName + ".csv"
 
   d3.csv(data_path1).then(function(data) {
 
-    chart = SankeyChart_({
+    year = year_.toString();
+    chart = SankeyChart({
     links: data.filter(d => d.year === year)
   }, {
     nodeGroup: d => d.id.split(/\W/)[0], // take first word for color
     format: (f => d => `${f(d)} kWh`)(d3.format(",~f")),
-    width,
+    width: 1000,//900,
     //height: 500,
     //margin: [50, 50, 50, 50]
     height: 850, //650
-    margin: [120, 30, 0, 40]
+    margin: [120, 90, 160, 60] //[120, 30, 0, 40]
   })
-  }
+})
+};
 
-  // Copyright 2021 Observable, Inc.
+// Copyright 2021 Observable, Inc.
 // Released under the ISC license.
 // https://observablehq.com/@d3/sankey-diagram
-function SankeyChart_({
+function SankeyChart({
   nodes, // an iterable of node objects (typically [{id}, …]); implied by links if missing
   links // an iterable of link objects (typically [{source, target}, …])
 }, {
@@ -31,7 +33,7 @@ function SankeyChart_({
   nodeLabel, // given d in (computed) nodes, text to label the associated rect
   nodeTitle = d => `${d.id}\n${format(d.value)}`, // given d in (computed) nodes, hover text
   nodeWidth = 30, // width of node rects 15
-  nodePadding = 20, // vertical separation between adjacent nodes 40
+  nodePadding = 15, // vertical separation between adjacent nodes 40
   nodeLabelPadding = 6, // horizontal separation between node and label 6
   nodeStroke = "currentColor", // stroke around node rects
   nodeStrokeWidth, // width of stroke around node rects, in pixels
@@ -40,7 +42,7 @@ function SankeyChart_({
   linkSource = ({source}) => source, // given d in links, returns a node identifier string
   linkTarget = ({target}) => target, // given d in links, returns a node identifier string
   linkValue = ({value}) => value, // given d in links, returns the quantitative value
-  linkPath = d3Sankey.sankeyLinkHorizontal(), // given d in (computed) links, returns the SVG path
+  linkPath = d3.sankeyLinkHorizontal(), // given d in (computed) links, returns the SVG path
   linkTitle = d => `${d.source.id} → ${d.target.id}\n${format(d.value)}`, // given d in (computed) links
   linkColor = "source-target", // source, target, source-target, or static color
   linkStrokeOpacity = 0.5, // link opacity
@@ -48,13 +50,16 @@ function SankeyChart_({
   colors = d3.scaleOrdinal(), // array of colors
   width = 640, // outer width, in pixels 200
   height = 400, // outer height, in pixels 100
-  margin = [5, 1, 5, 1], // shorthand for margins, in pixels, clockwise from top [10, 1, 10, 1] [10, 100, 10, 100]
+  margin = [10, 5, 30, 50], // shorthand for margins, in pixels, clockwise from top [10, 1, 10, 1] [10, 100, 10, 100][5, 1, 5, 1]
   marginTop = margin[0], // top margin, in pixels
   marginRight = margin[1], // right margin, in pixels
   marginBottom = margin[2], // bottom margin, in pixels
   marginLeft = margin[3], // left margin, in pixels
 } = {}) {
   // Compute values.
+
+  d3.csv(data_path1).then(function(data) {
+
   const LS = d3.map(links, linkSource).map(intern);
   const LT = d3.map(links, linkTarget).map(intern);
   const LV = d3.map(links, linkValue);
@@ -72,9 +77,9 @@ function SankeyChart_({
   Object.assign(links[i], {estimation: data.filter(d => d.year === year)[i].estimation}); }
 
   // Compute the Sankey layout.
-  d3Sankey.sankey()
+  d3.sankey()
       .nodeId(({index: i}) => N[i])
-      .nodeAlign(d3Sankey.sankeyCenter)
+      .nodeAlign(d3.sankeyCenter)
       .nodeWidth(nodeWidth)
       .nodePadding(nodePadding)
       .linkSort(linkSorter)
@@ -368,7 +373,8 @@ function SankeyChart_({
     return value !== null && typeof value === "object" ? value.valueOf() : value;
   }
   return Object.assign(svg.node(), {scales: {color}});
-}
+});
+};
 
 function linkSorter(a, b) { // returns -1 if a before b and 1 if b before a.
   if (a.source.targetLinks.length == 0 && b.source.targetLinks.length > 0) { return 1 }
@@ -435,5 +441,3 @@ function wrap(d) {
     }
   };
 }
-
-};
