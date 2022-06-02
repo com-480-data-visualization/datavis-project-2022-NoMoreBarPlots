@@ -213,6 +213,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
           .attr("width", width)
           .attr("height", height)
 
+     const updateTicker = ticker(svg,width,height,0);
 
           tooltip = d3
             .select("body")
@@ -280,6 +281,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
       };
       setInterval(function()
       {
+        updateTicker(state);
          var hosts = [];
         for (var i = 0; i < keyframes_country.length; i++)
         {
@@ -636,6 +638,23 @@ function getDataBy({
       })
       .filter(d => d.value !== "0.0")
   );
+}
+  
+  function ticker(svg,width,height,state) {
+  const now = svg.append("text")
+      .style("font", `bold ${48}px var(--sans-serif)`)
+      .style("font-variant-numeric", "tabular-nums")
+      .attr("text-anchor", "end")
+      .attr("x", width - 48*1.1)
+      .attr("y", height - 48 * (1.5 - 0.45))
+      .attr("dy", "0.32em")
+      .text((keyframes_country[0][1].data_state[state].date).substr(0,4));
+
+  return (state_) => {
+    svg.transition()
+        .duration(1000)
+        .ease(d3.easeLinear).end().then(() => now.text((keyframes_country[0][1].data_state[state_].date).substr(0,4)));
+  };
 }
 
 getIsoDate = date => {
