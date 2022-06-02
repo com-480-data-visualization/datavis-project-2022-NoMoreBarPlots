@@ -213,7 +213,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
           .attr("width", width)
           .attr("height", height)
 
-     const updateTicker = ticker(svg,width,height,0);
+     const updateTicker = ticker(svg,width,height,keyframes_country[0][1].data_state[0].date);
 
           tooltip = d3
             .select("body")
@@ -281,7 +281,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
       };
       setInterval(function()
       {
-        updateTicker(state);
+        updateTicker(keyframes_country[0][1].data_state[state].date);
          var hosts = [];
         for (var i = 0; i < keyframes_country.length; i++)
         {
@@ -640,7 +640,7 @@ function getDataBy({
   );
 }
   
-  function ticker(svg,width,height,state) {
+  function ticker(svg,width,height,date) {
   const now = svg.append("text")
       .style("font", `bold ${0.1*(width+height)/2}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
@@ -649,12 +649,12 @@ function getDataBy({
       .attr("x", width - 0.1*(width+height)/2*1.1)
       .attr("y", ( 0.1*(width+height)/2 * 1.1)
       .attr("dy", "0.32em")
-      .text((keyframes_country[0][1].data_state[state].date).substr(0,4));
+      .text((date).substr(0,4));
 
-  return (state_) => {
+  return (dtae_) => {
     svg.transition()
         .duration(1000)
-        .ease(d3.easeLinear).end().then(() => now.text((keyframes_country[0][1].data_state[state_].date).substr(0,4)));
+        .ease(d3.easeLinear).end().then(() => now.text(date_).substr(0,4)));
   };
 }
 
