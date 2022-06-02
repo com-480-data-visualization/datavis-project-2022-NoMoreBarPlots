@@ -646,7 +646,7 @@ function getDataBy({
       .style("font-variant-numeric", "tabular-nums")
       .style('fill', 'white')
       .attr("text-anchor", "end")
-      .attr("x", width - 0.1*(width+height)/2*1.1)
+      .attr("x", width - 0.1*(width+height)/2*1.1))
       .attr("y", ( 0.1*(width+height)/2 * 1.1)
       .attr("dy", "0.32em")
       .text(date1.substr(0,4));
