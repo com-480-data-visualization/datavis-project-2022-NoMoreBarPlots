@@ -647,7 +647,7 @@ function getDataBy({
       .style('fill', 'white')
       .attr("text-anchor", "end")
       .attr("x", width - 0.1*(width+height)/2*1.1)
-      .attr("y",  {0.1*(width+height)/2 * (1.5 - 0.45))
+      .attr("y", ( 0.1*(width+height)/2 * 1.1)
       .attr("dy", "0.32em")
       .text((keyframes_country[0][1].data_state[state].date).substr(0,4));
 
