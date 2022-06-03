@@ -61,24 +61,22 @@ body {
 
 #countryInfo {
   position: absolute;
-	width: 70%;
+	height: 90%;
   left: 40%;
-	top: 0;
-  transform: translate(-50%,0);
+  top: 50%;
+  transform: translate(-50%,-50%);
   background: #EDF1F5;  /* Color of the top background ex #004e9b63 */
   opacity: 0;
   transition: 1s;
 	border-radius: 10px;
-	margin: 20px;
 }
 
 #countryNameDisplay {
 	font-size: 1.5em;
 	position: relative;
-	margin: 10px;
+	top: 5%;
   left: 50%;
   transform: translate(-5%,0);
-	max-width: fit-content;
 }
 
 #legend {
@@ -86,7 +84,7 @@ body {
 	width: 20%;
 	border-radius: 10px;
   position: absolute;
-	right: 20px;
+	right: 50px;
   top: 50%;
 	transform: translate(0,-50%);
   background: #EDF1F5;  /* Color of the top background ex #004e9b63 */
@@ -109,7 +107,7 @@ body {
 
 #legend.hide {
   opacity: 0;
-  transition-duration: 1s;
+  transition-duration: 2s;
   transition-delay: 500ms;
   z-index:0;
  }
