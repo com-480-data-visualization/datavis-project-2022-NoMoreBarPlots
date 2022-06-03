@@ -34,26 +34,26 @@
 
 ## Project Organization
 
-├── README.md          <- The top-level README for developers using this project.
-|
-|── Website            <- All the code related to the website and the visualisation.
-|
-├── Preprocessing      <- All the notebooks use to prre-process the data.
-|
-├── EDA                <- All the notebooks related to the EDA.
-│
-├── Milestones         <- The markdown and PDF files, containing the content of the milestones
-|
-├── Data               <- Raw data with no pre-processing.
-|
-├── FigureMiletone1/2  <- Files containing the figure for the first and the second milestone.
-|
-|
-|   By_country
-|   Data_clean
-|── Data_converted     <- Pre-process data in different ways, in order to limit data 
-|   Sankey_Data           manipulation during the execution of the website
-|   Country or Area
+    ├── README.md          <- The top-level README for developers using this project.
+    |
+    |── Website            <- All the code related to the website and the visualisation.
+    |
+    ├── Preprocessing      <- All the notebooks use to prre-process the data.
+    |
+    ├── EDA                <- All the notebooks related to the EDA.
+    │
+    ├── Milestones         <- The markdown and PDF files, containing the content of the milestones
+    |
+    ├── Data               <- Raw data with no pre-processing.
+    |
+    ├── FigureMiletone1/2  <- Files containing the figure for the first and the second milestone.
+    |
+    |
+    |   By_country
+    |   Data_clean
+    |── Data_converted     <- Pre-process data in different ways, in order to limit data 
+    |   Sankey_Data           manipulation during the execution of the website
+    |   Country or Area
 
 ---
 
