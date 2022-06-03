@@ -654,11 +654,11 @@ function getDataBy({
   const now = svg.append("text")
       .style("font", `bold ${150}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
-      .style("fontsize","30px")
+      .style("fontsize","50px")
       .style('fill', 'white')
       .attr("text-anchor", "end")
-      .attr("x", width - 150)
-      .attr("y",  150 )
+      .attr("x", width - 30)
+      .attr("y",  30 )
       .attr("dy", "0.32em")
       .text(date1.substr(0,4));
 
