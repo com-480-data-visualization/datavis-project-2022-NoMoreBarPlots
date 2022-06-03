@@ -654,7 +654,7 @@ function getDataBy({
   const now = svg.append("text")
       .style("font", `bold ${150}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
-      .style("fontsize","50px")
+      .style("font-size","30px")
       .style('fill', 'white')
       .attr("text-anchor", "end")
       .attr("x", width - 30)
