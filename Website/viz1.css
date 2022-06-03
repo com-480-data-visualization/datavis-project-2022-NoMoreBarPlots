@@ -61,10 +61,10 @@ body {
 
 #countryInfo {
   position: absolute;
-	height: 150%; /* 90%; */
+	height: 110%; /* 90%; */
 	width: 65%;
   left: 40%;
-  top: 50%;
+  top: 40%;
   transform: translate(-50%,-50%);
   background: #EDF1F5;  /* Color of the top background ex #004e9b63 */
   opacity: 0;
