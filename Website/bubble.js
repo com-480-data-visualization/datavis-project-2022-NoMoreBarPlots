@@ -120,7 +120,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
                         d.date = getIsoDate(new Date(d.Year,0,1,1))
                         return d
                     })
-
+    unit_str = data__[0].Unit
     datevalues = Array.from(d3.rollup(data__, ([d]) => d.Quantity, d => +d.Year, d => d.Country_or_Area))
       .map(([Year, data__]) => [new Date(Year,0,1,1), data__])
       .sort(([a], [b]) => d3.ascending(a, b))
@@ -214,6 +214,14 @@ function bubblesChart(energy, transaction, selectedContinents) {
           .attr("height", height)
 
      const updateTicker = ticker(svg,width,height,keyframes_country[0][1].data_state[0].date);
+     svg.append("text")
+      .style("fontsize","10px")
+      .style('fill', 'white')
+      .attr("text-anchor", "start")
+      .attr("x",  20)
+      .attr("y",  height - 30 )
+      .attr("dy", "0.32em")
+      .text("Unit : "+ unit_str);
 
           tooltip = d3
             .select("body")
