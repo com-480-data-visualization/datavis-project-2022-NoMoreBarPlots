@@ -6,7 +6,7 @@
 |Francesca Paola Nicoletti |273034|
 | Kieran Vaudaux| 287703|
 
-[website](https://com-480-data-visualization.github.io/datavis-project-2022-NoMoreBarPlots/Website/index.html)
+[Access Website](https://com-480-data-visualization.github.io/datavis-project-2022-NoMoreBarPlots/Website/index.html)
 
 [Milestone 1](#milestone-1) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
