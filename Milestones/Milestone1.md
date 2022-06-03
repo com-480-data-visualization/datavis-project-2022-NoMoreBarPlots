@@ -39,20 +39,20 @@ The main point of our visualization is that it will show a global graphical over
 
 As mentioned in the presentation of the dataset, the Energy Statistics Database contains data on exactly 244 countries or areas spread over 75 subdatasets. In this first part of the Exploratory Data Analysis we will try to give an overview of the distribution of the data across each country and file, and we will also look at the number and distribution of data that have been estimated. For ease of use, we have chosen to refer to countries or areas with a number between 1 and 244 and to subdatasets with a number between 1 and 75, this allows us to have cleaner plots and is not at all problematic as we only want to provide a global overview of the data.
 
-![Plot of the number of dataset which contains data on a given country.](./FigureMilestone1/Dataset_by_country.png)
+![Plot of the number of dataset which contains data on a given country.](../FigureMilestone1/Dataset_by_country.png)
 **Figure 1** - Plot of the number of dataset which contains data on a given country.
 
 
 From __Figure 1__ we can see that half of the countries or areas are present in more than 50 subdatasets and that only a few countries or areas are present in less than 20 subdatasets. Furthermore, as each subdataset can be further divided into several sub-subdatasets by grouping it by energy statistic, such as exported quantity, imported quantity, final consumed quantity, etc.  This refinement in our subdatasets leads us to __Figure 2__ where we see that the median number of sub-subdatasets remains generally quite stable for each country or areas.
 
-![](./FigureMilestone1/Subdataset_by_country.png)
+![](../FigureMilestone1/Subdataset_by_country.png)
 **Figure 2** - Plot of the median number of sub-subdatasets across each subdatasets for all country or areas.
 
 From __Figure 1__ and __Figure 2__ we can therefore see that the data appears to be, on the whole, evenly distributed, which allows us to be relatively confident about the diversity of this dataset.
 
 To complete this global analysis of the dataset, __Figure 3__ shows the number of available data per country or area in relation to the number of data that are estimates. The main figures from these plots are that only 65 countries or areas have a ratio between the number of data that are estimated and the number of data that are available that is higher than 50%, 106 have this ratio higher than 20% and 156 have this ratio higher than 10%. We therefore have that the proportion of data that have been estimated is globally quite high, but it remains relatively low (<10%) for almost a hundred countries. Taking this into consideration, we still plan to keep these estimated data, even if we will have to provide a way to manage them adequately in our visualisation.
 
-![](./FigureMilestone1/Estimated_by_country.png)
+![](../FigureMilestone1/Estimated_by_country.png)
 **Figure 3** - Plot of the relation between the number of estimation data per country and the number of data per country.
 
 <br/> *Detailed analysis*
