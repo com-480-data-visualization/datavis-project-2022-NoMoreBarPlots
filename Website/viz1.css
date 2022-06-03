@@ -61,7 +61,7 @@ body {
 
 #countryInfo {
   position: absolute;
-	height: 90%;
+	height: 150%; /* 90%; */
 	width: 65%;
   left: 40%;
   top: 50%;
