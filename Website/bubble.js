@@ -226,7 +226,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
             //name a tooltip_in function to call when the mouse hovers a node
             tooltip_in = function(event, d) { // pass event and d to this function so that it can access d for our data
               return tooltip
-              .html("<h4>" + d.name + d.Quantity + "</h4>") // add an html element with a header tag containing the name of the node.  This line is where you would add additional information like: "<h4>" + d.name + "</h4></br><p>" + d.type + "</p>"  Note the quote marks, pluses and </br>--these are necessary for javascript to put all the data and strings within quotes together properly.  Any text needs to be all one line in .html() here
+              .html("<p>" + d.name + " : " + d.Quantity.toFixed(2) + "</p>") // add an html element with a header tag containing the name of the node.  This line is where you would add additional information like: "<h4>" + d.name + "</h4></br><p>" + d.type + "</p>"  Note the quote marks, pluses and </br>--these are necessary for javascript to put all the data and strings within quotes together properly.  Any text needs to be all one line in .html() here
               .style("opacity", "1") // make the tooltip visible on hover
               .style("top", event.pageY + "px") // position the tooltip with its top at the same pixel location as the mouse on the screen
               .style("left", event.pageX + "px"); // position the tooltip just to the right of the mouse location
@@ -498,9 +498,9 @@ function bubblesChart(energy, transaction, selectedContinents) {
                 .on("mouseenter", tooltip_in) // when the mouse hovers a node, call the tooltip_in function to create the tooltip
                 .on("mouseleave", tooltip_out) // when the mouse stops hovering a node, call the tooltip_out function to get rid of the tooltip
          }
-        if (state < datevalues.length-1){ 
+        if (state < datevalues.length-1){
          state += 1; }
-        
+
       }, 500 + time_transition)
       return svg.node()
     }
@@ -641,7 +641,7 @@ function getDataBy({
       .filter(d => d.value !== "0.0")
   );
 }
-  
+
   function ticker(svg,width,height,date1) {
   const now = svg.append("text")
       .style("font", `bold ${150}px var(--sans-serif)`)

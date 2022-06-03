@@ -61,6 +61,7 @@ body {
 
 #countryInfo {
   position: absolute;
+	height: 90%;
   left: 40%;
   top: 50%;
   transform: translate(-50%,-50%);
@@ -70,15 +71,31 @@ body {
 	border-radius: 10px;
 }
 
+#countryNameDisplay {
+	font-size: 1.5em;
+	position: relative;
+	top: 5%;
+  left: 50%;
+  transform: translate(-5%,0);
+}
+
 #legend {
+	padding: 10px;
+	width: 20%;
+	border-radius: 10px;
   position: absolute;
-  left: 80%;
+	right: 50px;
   top: 50%;
-  transform: translate(-50%,-50%);
+	transform: translate(0,-50%);
   background: #EDF1F5;  /* Color of the top background ex #004e9b63 */
   opacity: 0;
   transition: 1s;
 	z-index: 50;
+	text-align: center;
+}
+
+#legend show p{
+	font-size: 1.3em;
 }
 
 #legend.show {
@@ -128,16 +145,6 @@ body {
   text-align: center
   font-weight: 400;
 }
-#countryInfo p {
-  margin-left: 2rem;
-  margin-right: 2rem;
-}
-
-#provinceInfo img {
-    width: 200px;
-    height: 100px;
-}
-
 
 #mapInstruction {
   position: absolute;
@@ -211,4 +218,28 @@ img {
 
 .link:hover {
   stroke-opacity: .5;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+	margin-right: 10px;
+}
+
+#HB {
+	background-color: #3182bd;
+}
+
+#MB {
+	background-color: #6baed6;
+}
+
+#LB {
+	background-color: #9ecae1;
+}
+
+#VLB {
+	background-color: #c6dbef;
 }

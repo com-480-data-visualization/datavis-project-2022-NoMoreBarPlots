@@ -1,19 +1,80 @@
+var slider = document.getElementById('legend');
+
+slider.oninput = function() {
+  sliderDiv = document.getElementById("displayYear");
+  sliderDiv.innerHTML = " Year : " + document.getElementById("myRange").value;
+}
+
+slider.onchange = function() {
+  let Date = document.getElementById("myRange").value;
+  let targetedDiv = document.getElementById("countryInfo");
+  targetedDiv.innerHTML = "";
+  addTitle(countryName);
+  SankeyChart__(countryName, Date);
+}
+
+function updateYear(ln) {
+  var yearSelected = document.getElementById("displayYear");
+  yearSelected.innerHTML = " Year : " + ln;
+}
+
+function addTitle(countryName) {
+
+    var addList = document.getElementById('countryInfo');
+    var docstyle = addList.style.display;
+    if (docstyle == 'none') addList.style.display = '';
+
+    var text = document.createElement('div');
+    text.setAttribute("id", "countryNameDisplay");
+    text.innerHTML = countryName
+    addList.appendChild(text);
+}
+
+function addInput(min, max) {
+
+    var addList = document.getElementById('legend');
+    var docstyle = addList.style.display;
+    if (docstyle == 'none') addList.style.display = '';
+
+    var text = document.createElement('div');
+    text.setAttribute("id", "slidecontainer");
+    text.innerHTML = "<span>Time slider</span><br>" + "<input type='range' value='" + max + "' min='" + min + "' max='" + max + "' class='slider' id='myRange'>" + "<span id='displayYear'></span>"
+    addList.appendChild(text);
+}
+
+
+function GetTimeSlider(countryName, x) {
+  data_path = "../Sankey_Data/0Sankey_" + countryName + ".csv"
+
+  d3.csv(data_path).then(function(data) {
+    x.max = Math.max(...data.map(d => d.year));
+    x.min = Math.min(...data.map(d => d.year));
+  });
+};
+
+
 function SankeyChart__(countryName, year_) {
+
+  let width = $(window).width();
+
+  let height = $(window).height();
+
 
   data_path1 = "../Sankey_Data/0Sankey_" + countryName + ".csv"
 
   d3.csv(data_path1).then(function(data) {
 
     year = year_.toString();
+
     chart = SankeyChart({
     links: data.filter(d => d.year === year)
   }, {
     nodeGroup: d => d.id.split(/\W/)[0], // take first word for color
     format: (f => d => `${f(d)} kWh`)(d3.format(",~f")),
-    width: 1000,//900,
+    width: width,//900,
     //height: 500,
     //margin: [50, 50, 50, 50]
-    height: 850, //650
+    height: height, //650
     margin: [120, 90, 160, 60] //[120, 30, 0, 40]
   })
 })

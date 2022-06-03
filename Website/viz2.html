@@ -89,66 +89,65 @@
                 </div>
             </navtop>
 
-            <!-- Dropdown search select
-            <div class="dropdown">
-              <button onclick="myFunction()" class="dropbtn">First energy</button>
-              <div id="myDropdown" class="dropdown-content">
-                <input type="text" placeholder="Search..." id="myInput" onkeyup="filterFunction()">
-                <a>Hydro-1</a>
-                <a>Peat</a>
+            <section class="container">
+              <div id="listEnergy">
+                Energy: <select name="EnergySelect" id="EnergySelect">
+                  <option value="" selected="selected">Choose energy</option>
+                </select>
               </div>
-            </div> -->
 
-            Energy: <select name="EnergySelect" id="EnergySelect">
-                <option value="" selected="selected">Choose energy</option>
-              </select>
-              <br><br>
-            Transaction: <select name="TransactionSelect" id="TransactionSelect">
-                <option value="" selected="selected">Please select energy first</option>
-              </select>
-              <br><br>
+              <div id="listTransaction">
+                Transaction: <select name="TransactionSelect" id="TransactionSelect">
+                  <option value="" selected="selected">Please select energy first</option>
+                </select>
+              </div>
+            </section>
 
-            <label class="checkbox-inline">
-               <input type="checkbox" value="AF" checked>
-                <span class="dot" id="AF"></span>
-                Africa
-              </input>
+            <div id="checkboxes">
+              <label class="checkbox-inline">
+                 <input type="checkbox" value="AF" checked>
+                  <span class="dot" id="AF"></span>
+                  Africa
+                </input>
 
-            </label>
-            <label class="checkbox-inline">
-               <input type="checkbox" value="AS" checked>
-                <span class="dot" id="AS"></span>
-                Asia
-               </input>
-            </label>
+              </label>
+              <label class="checkbox-inline">
+                 <input type="checkbox" value="AS" checked>
+                  <span class="dot" id="AS"></span>
+                  Asia
+                 </input>
+              </label>
 
-            <label class="checkbox-inline">
-              <input type="checkbox" value="EU" checked>
-                <span class="dot" id="EU"></span>
-                Europe
-              </input>
-            </label>
+              <label class="checkbox-inline">
+                <input type="checkbox" value="EU" checked>
+                  <span class="dot" id="EU"></span>
+                  Europe
+                </input>
+              </label>
 
-            <label class="checkbox-inline">
-               <input type="checkbox" value="NA" checked>
-                <span class="dot" id="NA"></span>
-                North America
-               </input>
-            </label>
+              <label class="checkbox-inline">
+                 <input type="checkbox" value="NA" checked>
+                  <span class="dot" id="NA"></span>
+                  North America
+                 </input>
+              </label>
 
-            <label class="checkbox-inline">
-               <input type="checkbox" value="OC" checked>
-                <span class="dot" id="OC"></span>
-                Oceania
-               </input>
-            </label>
 
-            <label class="checkbox-inline">
-               <input type="checkbox" value="SA" checked>
-                <span class="dot" id="SA"></span>
-                South America
-               </input>
-            </label><br><br><br>
+              <label class="checkbox-inline">
+                 <input type="checkbox" value="OC" checked>
+                  <span class="dot" id="OC"></span>
+                  Oceania
+                 </input>
+              </label>
+
+              <label class="checkbox-inline">
+                 <input type="checkbox" value="SA" checked>
+                  <span class="dot" id="SA"></span>
+                  South America
+                 </input>
+              </label><br><br><br>
+
+            </div>
 
             <button type="button" id="StartViz2" class="intro-btn"><span>Start vizualisation</button>
 

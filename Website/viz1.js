@@ -63,11 +63,21 @@ function onEachFeature(feature, layer) {
       if (!L.Browser.ie && !L.Browser.opera && !L.Browser.edge) {
         layer.bringToFront();
       }
-			countryName = feature.properties.name
-			countryInfo.innerHTML = countryName;
-			let Date = document.getElementById("myRange").value;
-			console.log(Date);
-			SankeyChart__(countryName, Date);
+			countryName = feature.properties.name;
+
+			addTitle(countryName);
+			if (document.getElementById("slidecontainer")) {document.getElementById("slidecontainer").remove();}
+			let x = {
+			    min: 0,
+			    max: 0
+			};
+			GetTimeSlider(countryName, x);
+			setTimeout(function(){
+				addInput(x.min, x.max)
+				let Date = document.getElementById("myRange").value;
+				SankeyChart__(countryName, Date)
+			}, 500);
+
 			legend.classList.remove("hide");
 			legend.classList.add("show");
 			countryInfo.classList.remove("hide");
@@ -116,6 +126,9 @@ $(document).ready(function () {
         mapholder.classList.add("show");
 				legend.classList.remove("show");
 				legend.classList.add("hide");
+				let targetedDiv = document.getElementById("countryInfo");
+				targetedDiv.innerHTML = "";
+				document.getElementById("slidecontainer").remove();
 				map.setZoom(3);
     });
 });

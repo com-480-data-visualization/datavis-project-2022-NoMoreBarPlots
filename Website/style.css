@@ -120,9 +120,12 @@ The various units of measurement available in CSS:
 
 .intro-btn {
   position: absolute;
-  padding: 10px 10px;
+  padding: 10px;
   z-index: 20;
   border-radius: 10px;
+	left: 50%;
+	transform: translate(-50%, 0);
+	margin-top: 0px;
 }
 
 #skipIntro {
@@ -270,8 +273,7 @@ footer {
 }
 
 #bubbleChart {
-	margin-left: auto;
-	margin-top: auto;
+	margin: auto;
 }
 
 .buttonBubble {
@@ -280,5 +282,5 @@ footer {
 }
 
 select {
-	width: 200px;
+	width: 240px;
 }
