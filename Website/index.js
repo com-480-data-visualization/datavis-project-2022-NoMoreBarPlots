@@ -1,3 +1,4 @@
+// Skip intro button on click
 $(document).ready(function () {
     $('#skipIntro').on('click', function () {
 			startIntro.classList.add("hide");
@@ -8,7 +9,7 @@ $(document).ready(function () {
   });
 });
 
-
+// Start intro button on click
 $(document).ready(function () {
     $('#startIntro').on('click', function () {
 			startIntro.classList.add("hide");

@@ -1,10 +1,12 @@
 var slider = document.getElementById('legend');
 
+// To display the current year newt to the slider
 slider.oninput = function() {
   sliderDiv = document.getElementById("displayYear");
   sliderDiv.innerHTML = " Year : " + document.getElementById("myRange").value;
 }
 
+// To draw a new viz on change on slider
 slider.onchange = function() {
   let Date = document.getElementById("myRange").value;
   let targetedDiv = document.getElementById("countryInfo");
@@ -18,6 +20,7 @@ function updateYear(ln) {
   yearSelected.innerHTML = " Year : " + ln;
 }
 
+// Add name of the select country on viz
 function addTitle(countryName) {
 
     var addList = document.getElementById('countryInfo');
@@ -30,6 +33,7 @@ function addTitle(countryName) {
     addList.appendChild(text);
 }
 
+// Add slider with correct bounds depending on the country selected
 function addInput(min, max) {
 
     var addList = document.getElementById('legend');
@@ -42,7 +46,7 @@ function addInput(min, max) {
     addList.appendChild(text);
 }
 
-
+// Get bounds to show the slider min and max
 function GetTimeSlider(countryName, x) {
   data_path = "../Sankey_Data/0Sankey_" + countryName + ".csv"
 

@@ -36,8 +36,11 @@ var prevLayerClicked = null;
 function onEachFeature(feature, layer) {
   layer.on({
 
+		// On click on the map :
+
     click: function(e){
-			/*
+			/* Show tiles in a different color
+
       if (prevLayerClicked !== null) {
           // Reset style
         prevLayerClicked.setStyle({
@@ -86,7 +89,7 @@ function onEachFeature(feature, layer) {
 			mapholder.classList.remove("show");
 			mapholder.classList.add("hide");
 
-/*
+/* Disable controls of the map: 
 			map.dragging.disable();
 			map.touchZoom.disable();
 			map.doubleClickZoom.disable();

@@ -59,18 +59,20 @@ body {
   filter: none;
 }
 
+/* Div inside which we draw viz1 */
 #countryInfo {
   position: absolute;
   left: 40%;
 	width: 70%;
   top: 0;
   transform: translate(-50%,0);
-  background: #EDF1F5;  /* Color of the top background ex #004e9b63 */
+  background: #EDF1F5;
   opacity: 0;
   transition: 1s;
 	border-radius: 10px;
 }
 
+/* Div inside which we plot country name */
 #countryNameDisplay {
 	font-size: 1.5em;
 	position: relative;
@@ -79,6 +81,7 @@ body {
   transform: translate(-5%,0);
 }
 
+/* Div inside which we draw legend for viz1 */
 #legend {
 	padding: 10px;
 	width: 20%;
@@ -146,6 +149,7 @@ body {
   font-weight: 400;
 }
 
+/* Div inside which we draw the button instruction for the map */
 #mapInstruction {
   position: absolute;
   border-radius: 25px;
@@ -228,6 +232,7 @@ img {
 	margin-right: 10px;
 }
 
+/* Legend colors (shades of blue)*/
 #HB {
 	background-color: #3182bd;
 }
