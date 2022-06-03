@@ -64,7 +64,8 @@ function onEachFeature(feature, layer) {
         layer.bringToFront();
       }
 			countryName = feature.properties.name;
-
+			let targetedDiv = document.getElementById("countryInfo");
+			targetedDiv.innerHTML = "";
 			addTitle(countryName);
 			if (document.getElementById("slidecontainer")) {document.getElementById("slidecontainer").remove();}
 			let x = {
