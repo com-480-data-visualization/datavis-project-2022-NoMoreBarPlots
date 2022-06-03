@@ -55,9 +55,9 @@ function GetTimeSlider(countryName, x) {
 
 function SankeyChart__(countryName, year_) {
 
-  let width = $(window).width();
+  let width = $(countryInfo).width();
 
-  let height = $(window).height();
+  let height = $(countryInfo).height();
 
 
   data_path1 = "../Sankey_Data/0Sankey_" + countryName + ".csv"
