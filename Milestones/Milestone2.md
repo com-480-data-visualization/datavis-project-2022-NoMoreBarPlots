@@ -1,7 +1,7 @@
 
 ## Milestone 2
 
-### Visualizaion 1 : Global Map and Sankey flow
+### Visualization 1 : Global Map and Sankey flow
 
 <p align="center">
     <img src="https://github.com/FrancescaNic/NoMoreBarPlots/blob/master/FigureMilestone2/visualisation 1.jpg" width="800" height="1000" />
