@@ -62,6 +62,7 @@ body {
 #countryInfo {
   position: absolute;
 	height: 90%;
+	width: 65%;
   left: 40%;
   top: 50%;
   transform: translate(-50%,-50%);
