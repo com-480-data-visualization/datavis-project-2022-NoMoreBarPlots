@@ -136,31 +136,6 @@ function bubblesChart(energy, transaction, selectedContinents) {
     return data;
   }
 
-    keyframes_ = function () {
-      const keyframes = [];
-      let ka, a, kb, b;
-      for ([[ka, a], [kb, b]] of d3.pairs(datevalues)) {
-        for (let i = 0; i < k; ++i) {
-          const t = i / k;
-          keyframes.push([
-            new Date(ka * (1 - t) + kb * t),
-            rank(name => (a.get(name) || 0) * (1 - t) + (b.get(name) || 0) * t)
-          ]);
-        }
-      }
-      keyframes.push([new Date(kb), rank(name => b.get(name) || 0)]);
-      return keyframes;
-    }
-    keyframes = keyframes_();
-
-    get_rad = function (data_) {
-    if (data_[0] === undefined){
-    return 0.
-    } else {
-      return data_[0].r
-    }
-  }
-
     dates = data_.map(d => d.Year).filter((v, i, a) => a.indexOf(v) === i).sort().map(d => getIsoDate(new Date(d,0,1,1)));
 
 
@@ -518,83 +493,7 @@ function bubblesChart(energy, transaction, selectedContinents) {
     throw err;
   })
 
-  // The Conversation Colours
 
-textComponent = ({
-  key,
-  text,
-  x = 0,
-  y = 0,
-  fontWeight = 'bold',
-  fontSize = '12px',
-  textAnchor = 'middle',
-  fillOpacity = 1,
-  colour,
-  r,
-  duration = 1000
-}) => {
-  return {
-    append: 'text',
-    key,
-    text,
-    x,
-    y,
-    textAnchor,
-    fontFamily: 'sans-serif',
-    fontWeight,
-    fontSize,
-    fillOpacity: { enter: fillOpacity, exit: 0 },
-    fill: colour,
-    duration,
-    style: {
-      pointerEvents: 'none'
-    }
-  };
-}
-
-labelComponent = ({ isoCode, countryName, Quantity, r, colour }) => {
-  // Don't show any text for radius under 12px
-  if (r < 12) {
-    return [];
-  }
-
-  const circleWidth = r * 2;
-  const nameWidth = countryName.length * 10;
-  const shouldShowIso = nameWidth > circleWidth;
-  const newCountryName = shouldShowIso ? isoCode : countryName;
-  const shouldShowValue = r > 18;
-
-  let nameFontSize;
-
-  if (shouldShowValue) {
-    nameFontSize = shouldShowIso ? '10px' : '12px';
-  } else {
-    nameFontSize = '8px';
-  }
-
-  return [
-    textComponent({
-      key: isoCode,
-      text: newCountryName,
-      fontSize: nameFontSize,
-      y: shouldShowValue ? '-0.2em' : '0.3em',
-      fillOpacity: 1,
-      colour
-    }),
-    ...(shouldShowValue
-      ? [
-          textComponent({
-            key: isoCode,
-            text: format(Quantity),
-            fontSize: '10px',
-            y: shouldShowIso ? '0.9em' : '1.0em',
-            fillOpacity: 0.7,
-            colour
-          })
-        ]
-      : [])
-  ];
-}
 
 format = value => {
   const newValue = d3.format("0.2s")(value);
@@ -654,11 +553,11 @@ function getDataBy({
   const now = svg.append("text")
       .style("font", `bold ${150}px var(--sans-serif)`)
       .style("font-variant-numeric", "tabular-nums")
-      .style("fontsize","30px")
+      .style("font-size","30px")
       .style('fill', 'white')
       .attr("text-anchor", "end")
-      .attr("x", width - 150)
-      .attr("y",  150 )
+      .attr("x", width - 30)
+      .attr("y",  30 )
       .attr("dy", "0.32em")
       .text(date1.substr(0,4));
 
