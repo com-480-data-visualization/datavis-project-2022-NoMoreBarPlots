@@ -30,7 +30,7 @@
 
 [Click here](https://drive.google.com/file/d/1qm9KdHp3C9BN-af7xbv9vegChlv6bq12/view?usp=sharing) to view the our explanatory screencast video
 
-[Click here](./Milestones/) to read our process boook
+[Click here](./Milestones/Process_book_NoMoreBarPlots.pdf) to read our process boook
 
 ## Project Organization
 
